@@ -1,4 +1,4 @@
-ARM GAS  /tmp/ccpXbv7i.s 			page 1
+ARM GAS  /tmp/ccGa9xl7.s 			page 1
 
 
    1              		.syntax unified
@@ -58,7 +58,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
   55              	.LVL4:
   56 0014 0228     		cmp	r0, #2
   57 0016 FBD1     		bne	.L1
-ARM GAS  /tmp/ccpXbv7i.s 			page 2
+ARM GAS  /tmp/ccGa9xl7.s 			page 2
 
 
   58              		.loc 1 125 0 is_stmt 1
@@ -118,7 +118,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  112 005a 83F31188 		msr     BASEPRI, r3
  113              	@ 0 "" 2
  114              	.LVL13:
-ARM GAS  /tmp/ccpXbv7i.s 			page 3
+ARM GAS  /tmp/ccGa9xl7.s 			page 3
 
 
  115              		.thumb
@@ -178,7 +178,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  169 001a 1289     		ldrh	r2, [r2, #8]
  170 001c 42FA03F1 		asr	r1, r2, r3
  171 0020 11F00103 		ands	r3, r1, #1
-ARM GAS  /tmp/ccpXbv7i.s 			page 4
+ARM GAS  /tmp/ccGa9xl7.s 			page 4
 
 
  172 0024 F4D1     		bne	.L5
@@ -238,7 +238,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  226              		.p2align 4,,15
  227              		.thumb
  228              		.thumb_func
-ARM GAS  /tmp/ccpXbv7i.s 			page 5
+ARM GAS  /tmp/ccGa9xl7.s 			page 5
 
 
  229              		.type	readt, %function
@@ -298,7 +298,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  280              	.LFB124:
  281              		.loc 1 94 0
  282              		.cfi_startproc
-ARM GAS  /tmp/ccpXbv7i.s 			page 6
+ARM GAS  /tmp/ccGa9xl7.s 			page 6
 
 
  283              		@ args = 0, pretend = 0, frame = 0
@@ -358,7 +358,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  334              		@ link register save eliminated.
  335              	.LVL43:
  336              		.loc 1 91 0
-ARM GAS  /tmp/ccpXbv7i.s 			page 7
+ARM GAS  /tmp/ccGa9xl7.s 			page 7
 
 
  337 0000 0C30     		adds	r0, r0, #12
@@ -418,7 +418,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  388              		.loc 1 87 0
  389              		.loc 1 86 0
  390 0002 FFF7FEBF 		b	chOQPutTimeout
-ARM GAS  /tmp/ccpXbv7i.s 			page 8
+ARM GAS  /tmp/ccGa9xl7.s 			page 8
 
 
  391              	.LVL51:
@@ -478,7 +478,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  439              		.align	2
  440              		.p2align 4,,15
  441              		.global	sduObjectInit
-ARM GAS  /tmp/ccpXbv7i.s 			page 9
+ARM GAS  /tmp/ccGa9xl7.s 			page 9
 
 
  442              		.thumb
@@ -538,7 +538,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  496 004a FFF7FEFF 		bl	chOQInit
  497              	.LVL58:
  498              		.loc 1 198 0
-ARM GAS  /tmp/ccpXbv7i.s 			page 10
+ARM GAS  /tmp/ccGa9xl7.s 			page 10
 
 
  499 004e 03B0     		add	sp, sp, #12
@@ -598,7 +598,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  550 0018 42F82400 		str	r0, [r2, r4, lsl #2]
  551              		.loc 1 219 0
  552 001c 8C79     		ldrb	r4, [r1, #6]	@ zero_extendqisi2
-ARM GAS  /tmp/ccpXbv7i.s 			page 11
+ARM GAS  /tmp/ccGa9xl7.s 			page 11
 
 
  553 001e 02EB8402 		add	r2, r2, r4, lsl #2
@@ -658,7 +658,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  605              	.LBE9:
  606              		.loc 1 235 0
  607 000a 1068     		ldr	r0, [r2, #0]
-ARM GAS  /tmp/ccpXbv7i.s 			page 12
+ARM GAS  /tmp/ccGa9xl7.s 			page 12
 
 
  608              	.LVL70:
@@ -718,7 +718,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  662 0054 83F31188 		msr     BASEPRI, r3
  663              	@ 0 "" 2
  664              	.LVL79:
-ARM GAS  /tmp/ccpXbv7i.s 			page 13
+ARM GAS  /tmp/ccGa9xl7.s 			page 13
 
 
  665              		.thumb
@@ -778,7 +778,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  718 0028 4179     		ldrb	r1, [r0, #5]	@ zero_extendqisi2
  719 002a 05EB8102 		add	r2, r5, r1, lsl #2
  720              		.loc 1 275 0
-ARM GAS  /tmp/ccpXbv7i.s 			page 14
+ARM GAS  /tmp/ccGa9xl7.s 			page 14
 
 
  721 002e 2846     		mov	r0, r5
@@ -838,7 +838,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  774 001a 09D0     		beq	.L28
  775 001c 202A     		cmp	r2, #32
  776 001e F5D1     		bne	.L31
-ARM GAS  /tmp/ccpXbv7i.s 			page 15
+ARM GAS  /tmp/ccGa9xl7.s 			page 15
 
 
  777              	.L26:
@@ -898,7 +898,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  831              		.loc 1 326 0
  832 0006 9C69     		ldr	r4, [r3, #24]
  833              	.LVL95:
-ARM GAS  /tmp/ccpXbv7i.s 			page 16
+ARM GAS  /tmp/ccGa9xl7.s 			page 16
 
 
  834              		.loc 1 324 0
@@ -958,7 +958,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  888              		.loc 1 346 0 discriminator 1
  889 003c 028A     		ldrh	r2, [r0, #16]
  890 003e 501E     		subs	r0, r2, #1
-ARM GAS  /tmp/ccpXbv7i.s 			page 17
+ARM GAS  /tmp/ccGa9xl7.s 			page 17
 
 
  891              		.loc 1 344 0 discriminator 1
@@ -1018,7 +1018,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  945              		.align	2
  946              		.p2align 4,,15
  947              		.global	sduDataReceived
-ARM GAS  /tmp/ccpXbv7i.s 			page 18
+ARM GAS  /tmp/ccGa9xl7.s 			page 18
 
 
  948              		.thumb
@@ -1078,7 +1078,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  1002              		.loc 1 382 0
  1003 002a 528A     		ldrh	r2, [r2, #18]
  1004              	.LVL124:
-ARM GAS  /tmp/ccpXbv7i.s 			page 19
+ARM GAS  /tmp/ccGa9xl7.s 			page 19
 
 
  1005              		.loc 1 383 0
@@ -1138,7 +1138,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  1059              		.loc 1 392 0
  1060 005c 3046     		mov	r0, r6
  1061 005e 2946     		mov	r1, r5
-ARM GAS  /tmp/ccpXbv7i.s 			page 20
+ARM GAS  /tmp/ccGa9xl7.s 			page 20
 
 
  1062 0060 FFF7FEFF 		bl	usbStartReceiveI
@@ -1198,7 +1198,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  1111 0004 00       		.byte	0
  1112 0005 00       		.byte	0
  1113 0006 08       		.byte	8
-ARM GAS  /tmp/ccpXbv7i.s 			page 21
+ARM GAS  /tmp/ccGa9xl7.s 			page 21
 
 
  1114 0007 00       		.text
@@ -1258,7 +1258,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  1168 0054 04       		.uleb128 0x4
  1169 0055 01       		.byte	0x1
  1170 0056 08       		.byte	0x8
-ARM GAS  /tmp/ccpXbv7i.s 			page 22
+ARM GAS  /tmp/ccGa9xl7.s 			page 22
 
 
  1171 0057 7D020000 		.4byte	.LASF4
@@ -1318,7 +1318,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  1225 00c3 03       		.uleb128 0x3
  1226 00c4 69090000 		.4byte	.LASF17
  1227 00c8 04       		.byte	0x4
-ARM GAS  /tmp/ccpXbv7i.s 			page 23
+ARM GAS  /tmp/ccGa9xl7.s 			page 23
 
 
  1228 00c9 25       		.byte	0x25
@@ -1378,7 +1378,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  1282 013e 94010000 		.4byte	.LASF27
  1283 0142 06       		.byte	0x6
  1284 0143 58       		.byte	0x58
-ARM GAS  /tmp/ccpXbv7i.s 			page 24
+ARM GAS  /tmp/ccGa9xl7.s 			page 24
 
 
  1285 0144 7B020000 		.4byte	0x27b
@@ -1438,7 +1438,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  1339 01a4 06       		.byte	0x6
  1340 01a5 72       		.byte	0x72
  1341 01a6 CE000000 		.4byte	0xce
-ARM GAS  /tmp/ccpXbv7i.s 			page 25
+ARM GAS  /tmp/ccGa9xl7.s 			page 25
 
 
  1342 01aa 02       		.byte	0x2
@@ -1498,7 +1498,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  1396 0207 B8       		.byte	0xb8
  1397 0208 81020000 		.4byte	0x281
  1398 020c 02       		.byte	0x2
-ARM GAS  /tmp/ccpXbv7i.s 			page 26
+ARM GAS  /tmp/ccGa9xl7.s 			page 26
 
 
  1399 020d 23       		.byte	0x23
@@ -1558,7 +1558,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  1453 026a 23       		.byte	0x23
  1454 026b 00       		.uleb128 0
  1455 026c 06       		.uleb128 0x6
-ARM GAS  /tmp/ccpXbv7i.s 			page 27
+ARM GAS  /tmp/ccGa9xl7.s 			page 27
 
 
  1456 026d A9010000 		.4byte	.LASF28
@@ -1618,7 +1618,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  1510 02d4 723400   		.ascii	"r4\000"
  1511 02d7 07       		.byte	0x7
  1512 02d8 1801     		.2byte	0x118
-ARM GAS  /tmp/ccpXbv7i.s 			page 28
+ARM GAS  /tmp/ccGa9xl7.s 			page 28
 
 
  1513 02da AE020000 		.4byte	0x2ae
@@ -1678,7 +1678,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  1567 033b 07       		.byte	0x7
  1568 033c 1F01     		.2byte	0x11f
  1569 033e AE020000 		.4byte	0x2ae
-ARM GAS  /tmp/ccpXbv7i.s 			page 29
+ARM GAS  /tmp/ccGa9xl7.s 			page 29
 
 
  1570 0342 02       		.byte	0x2
@@ -1738,7 +1738,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  1624 03a7 08       		.byte	0x8
  1625 03a8 28       		.byte	0x28
  1626 03a9 7B020000 		.4byte	0x27b
-ARM GAS  /tmp/ccpXbv7i.s 			page 30
+ARM GAS  /tmp/ccGa9xl7.s 			page 30
 
 
  1627 03ad 02       		.byte	0x2
@@ -1798,7 +1798,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  1681 0410 08       		.uleb128 0x8
  1682 0411 06       		.uleb128 0x6
  1683 0412 CA000000 		.4byte	.LASF61
-ARM GAS  /tmp/ccpXbv7i.s 			page 31
+ARM GAS  /tmp/ccGa9xl7.s 			page 31
 
 
  1684 0416 09       		.byte	0x9
@@ -1858,7 +1858,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  1738 047c 05010000 		.4byte	0x105
  1739 0480 00       		.byte	0
  1740 0481 09       		.uleb128 0x9
-ARM GAS  /tmp/ccpXbv7i.s 			page 32
+ARM GAS  /tmp/ccGa9xl7.s 			page 32
 
 
  1741 0482 04       		.byte	0x4
@@ -1918,7 +1918,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  1795 04ee 23       		.byte	0x23
  1796 04ef 0C       		.uleb128 0xc
  1797 04f0 06       		.uleb128 0x6
-ARM GAS  /tmp/ccpXbv7i.s 			page 33
+ARM GAS  /tmp/ccGa9xl7.s 			page 33
 
 
  1798 04f1 43010000 		.4byte	.LASF73
@@ -1978,7 +1978,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  1852 0554 09       		.uleb128 0x9
  1853 0555 04       		.byte	0x4
  1854 0556 AF040000 		.4byte	0x4af
-ARM GAS  /tmp/ccpXbv7i.s 			page 34
+ARM GAS  /tmp/ccGa9xl7.s 			page 34
 
 
  1855 055a 09       		.uleb128 0x9
@@ -2038,7 +2038,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  1909 05d5 00       		.byte	0
  1910 05d6 09       		.uleb128 0x9
  1911 05d7 04       		.byte	0x4
-ARM GAS  /tmp/ccpXbv7i.s 			page 35
+ARM GAS  /tmp/ccGa9xl7.s 			page 35
 
 
  1912 05d8 C1050000 		.4byte	0x5c1
@@ -2098,7 +2098,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  1966 0653 30000000 		.4byte	0x30
  1967 0657 70060000 		.4byte	0x670
  1968 065b 12       		.uleb128 0x12
-ARM GAS  /tmp/ccpXbv7i.s 			page 36
+ARM GAS  /tmp/ccGa9xl7.s 			page 36
 
 
  1969 065c B9020000 		.4byte	0x2b9
@@ -2158,7 +2158,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  2023 06cb 0C       		.uleb128 0xc
  2024 06cc 65706300 		.ascii	"epc\000"
  2025 06d0 0C       		.byte	0xc
-ARM GAS  /tmp/ccpXbv7i.s 			page 37
+ARM GAS  /tmp/ccGa9xl7.s 			page 37
 
 
  2026 06d1 7901     		.2byte	0x179
@@ -2218,7 +2218,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  2080 0735 4E040000 		.4byte	.LASF92
  2081 0739 0C       		.byte	0xc
  2082 073a 9B01     		.2byte	0x19b
-ARM GAS  /tmp/ccpXbv7i.s 			page 38
+ARM GAS  /tmp/ccGa9xl7.s 			page 38
 
 
  2083 073c 22120000 		.4byte	0x1222
@@ -2278,7 +2278,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  2137 07a2 0C       		.byte	0xc
  2138 07a3 BB01     		.2byte	0x1bb
  2139 07a5 86000000 		.4byte	0x86
-ARM GAS  /tmp/ccpXbv7i.s 			page 39
+ARM GAS  /tmp/ccGa9xl7.s 			page 39
 
 
  2140 07a9 02       		.byte	0x2
@@ -2338,7 +2338,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  2194 080c 03       		.uleb128 0x3
  2195 080d A1050000 		.4byte	.LASF108
  2196 0811 0B       		.byte	0xb
-ARM GAS  /tmp/ccpXbv7i.s 			page 40
+ARM GAS  /tmp/ccGa9xl7.s 			page 40
 
 
  2197 0812 EC       		.byte	0xec
@@ -2398,7 +2398,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  2251 087d 19       		.uleb128 0x19
  2252 087e 48020000 		.4byte	.LASF122
  2253 0882 05       		.sleb128 5
-ARM GAS  /tmp/ccpXbv7i.s 			page 41
+ARM GAS  /tmp/ccGa9xl7.s 			page 41
 
 
  2254 0883 00       		.byte	0
@@ -2458,7 +2458,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  2308 08f0 F4080000 		.4byte	0x8f4
  2309 08f4 09       		.uleb128 0x9
  2310 08f5 04       		.byte	0x4
-ARM GAS  /tmp/ccpXbv7i.s 			page 42
+ARM GAS  /tmp/ccGa9xl7.s 			page 42
 
 
  2311 08f6 FA080000 		.4byte	0x8fa
@@ -2518,7 +2518,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  2365 0971 12       		.uleb128 0x12
  2366 0972 49000000 		.4byte	0x49
  2367 0976 12       		.uleb128 0x12
-ARM GAS  /tmp/ccpXbv7i.s 			page 43
+ARM GAS  /tmp/ccGa9xl7.s 			page 43
 
 
  2368 0977 49000000 		.4byte	0x49
@@ -2578,7 +2578,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  2422 09da 06       		.uleb128 0x6
  2423 09db E8090000 		.4byte	.LASF137
  2424 09df 0D       		.byte	0xd
-ARM GAS  /tmp/ccpXbv7i.s 			page 44
+ARM GAS  /tmp/ccGa9xl7.s 			page 44
 
 
  2425 09e0 3E       		.byte	0x3e
@@ -2638,7 +2638,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  2479 0a40 23       		.byte	0x23
  2480 0a41 08       		.uleb128 0x8
  2481 0a42 06       		.uleb128 0x6
-ARM GAS  /tmp/ccpXbv7i.s 			page 45
+ARM GAS  /tmp/ccGa9xl7.s 			page 45
 
 
  2482 0a43 6D000000 		.4byte	.LASF144
@@ -2698,7 +2698,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  2536 0aa3 77030000 		.4byte	0x377
  2537 0aa7 02       		.byte	0x2
  2538 0aa8 23       		.byte	0x23
-ARM GAS  /tmp/ccpXbv7i.s 			page 46
+ARM GAS  /tmp/ccGa9xl7.s 			page 46
 
 
  2539 0aa9 00       		.uleb128 0
@@ -2758,7 +2758,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  2593 0b09 02       		.byte	0x2
  2594 0b0a 23       		.byte	0x23
  2595 0b0b 1C       		.uleb128 0x1c
-ARM GAS  /tmp/ccpXbv7i.s 			page 47
+ARM GAS  /tmp/ccGa9xl7.s 			page 47
 
 
  2596 0b0c 00       		.byte	0
@@ -2818,7 +2818,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  2650 0b6f 6F       		.byte	0x6f
  2651 0b70 77030000 		.4byte	0x377
  2652 0b74 02       		.byte	0x2
-ARM GAS  /tmp/ccpXbv7i.s 			page 48
+ARM GAS  /tmp/ccGa9xl7.s 			page 48
 
 
  2653 0b75 23       		.byte	0x23
@@ -2878,7 +2878,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  2707 0bd2 77030000 		.4byte	0x377
  2708 0bd6 02       		.byte	0x2
  2709 0bd7 23       		.byte	0x23
-ARM GAS  /tmp/ccpXbv7i.s 			page 49
+ARM GAS  /tmp/ccGa9xl7.s 			page 49
 
 
  2710 0bd8 30       		.uleb128 0x30
@@ -2938,7 +2938,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  2764 0c3a 03       		.byte	0x3
  2765 0c3b 23       		.byte	0x23
  2766 0c3c C002     		.uleb128 0x140
-ARM GAS  /tmp/ccpXbv7i.s 			page 50
+ARM GAS  /tmp/ccGa9xl7.s 			page 50
 
 
  2767 0c3e 06       		.uleb128 0x6
@@ -2998,7 +2998,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  2821 0ca4 23       		.byte	0x23
  2822 0ca5 9808     		.uleb128 0x418
  2823 0ca7 06       		.uleb128 0x6
-ARM GAS  /tmp/ccpXbv7i.s 			page 51
+ARM GAS  /tmp/ccGa9xl7.s 			page 51
 
 
  2824 0ca8 4A060000 		.4byte	.LASF179
@@ -3058,7 +3058,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  2878 0d0d 8410     		.uleb128 0x804
  2879 0d0f 06       		.uleb128 0x6
  2880 0d10 8C0B0000 		.4byte	.LASF185
-ARM GAS  /tmp/ccpXbv7i.s 			page 52
+ARM GAS  /tmp/ccGa9xl7.s 			page 52
 
 
  2881 0d14 0D       		.byte	0xd
@@ -3118,7 +3118,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  2935 0d78 06       		.uleb128 0x6
  2936 0d79 0E040000 		.4byte	.LASF192
  2937 0d7d 0D       		.byte	0xd
-ARM GAS  /tmp/ccpXbv7i.s 			page 53
+ARM GAS  /tmp/ccGa9xl7.s 			page 53
 
 
  2938 0d7e A2       		.byte	0xa2
@@ -3178,7 +3178,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  2992 0de2 DC040000 		.4byte	.LASF199
  2993 0de6 0D       		.byte	0xd
  2994 0de7 AC       		.byte	0xac
-ARM GAS  /tmp/ccpXbv7i.s 			page 54
+ARM GAS  /tmp/ccGa9xl7.s 			page 54
 
 
  2995 0de8 F50E0000 		.4byte	0xef5
@@ -3238,7 +3238,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  3049 0e4d 0D       		.byte	0xd
  3050 0e4e B4       		.byte	0xb4
  3051 0e4f 390F0000 		.4byte	0xf39
-ARM GAS  /tmp/ccpXbv7i.s 			page 55
+ARM GAS  /tmp/ccGa9xl7.s 			page 55
 
 
  3052 0e53 03       		.byte	0x3
@@ -3298,7 +3298,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  3106 0eca 7C030000 		.4byte	0x37c
  3107 0ece 0F       		.byte	0xf
  3108 0ecf 00       		.byte	0
-ARM GAS  /tmp/ccpXbv7i.s 			page 56
+ARM GAS  /tmp/ccGa9xl7.s 			page 56
 
 
  3109 0ed0 14       		.uleb128 0x14
@@ -3358,7 +3358,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  3163 0f4e 7C030000 		.4byte	0x37c
  3164 0f52 FF03     		.2byte	0x3ff
  3165 0f54 00       		.byte	0
-ARM GAS  /tmp/ccpXbv7i.s 			page 57
+ARM GAS  /tmp/ccGa9xl7.s 			page 57
 
 
  3166 0f55 0D       		.uleb128 0xd
@@ -3418,7 +3418,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  3220 0fb8 00       		.uleb128 0
  3221 0fb9 00       		.byte	0
  3222 0fba 08       		.uleb128 0x8
-ARM GAS  /tmp/ccpXbv7i.s 			page 58
+ARM GAS  /tmp/ccGa9xl7.s 			page 58
 
 
  3223 0fbb 04       		.byte	0x4
@@ -3478,7 +3478,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  3277 101b A3010000 		.4byte	.LASF217
  3278 101f 0C       		.byte	0xc
  3279 1020 D1       		.byte	0xd1
-ARM GAS  /tmp/ccpXbv7i.s 			page 59
+ARM GAS  /tmp/ccGa9xl7.s 			page 59
 
 
  3280 1021 30000000 		.4byte	0x30
@@ -3538,7 +3538,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  3334 107e 0F       		.uleb128 0xf
  3335 107f 9B080000 		.4byte	.LASF213
  3336 1083 0C       		.byte	0xc
-ARM GAS  /tmp/ccpXbv7i.s 			page 60
+ARM GAS  /tmp/ccGa9xl7.s 			page 60
 
 
  3337 1084 F8       		.byte	0xf8
@@ -3598,7 +3598,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  3391 10e5 0601     		.2byte	0x106
  3392 10e7 82110000 		.4byte	0x1182
  3393 10eb 17       		.uleb128 0x17
-ARM GAS  /tmp/ccpXbv7i.s 			page 61
+ARM GAS  /tmp/ccGa9xl7.s 			page 61
 
 
  3394 10ec E0000000 		.4byte	.LASF226
@@ -3658,7 +3658,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  3448 1153 14       		.uleb128 0x14
  3449 1154 17       		.uleb128 0x17
  3450 1155 C3070000 		.4byte	.LASF233
-ARM GAS  /tmp/ccpXbv7i.s 			page 62
+ARM GAS  /tmp/ccGa9xl7.s 			page 62
 
 
  3451 1159 0C       		.byte	0xc
@@ -3718,7 +3718,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  3505 11c0 04       		.uleb128 0x4
  3506 11c1 17       		.uleb128 0x17
  3507 11c2 06030000 		.4byte	.LASF239
-ARM GAS  /tmp/ccpXbv7i.s 			page 63
+ARM GAS  /tmp/ccGa9xl7.s 			page 63
 
 
  3508 11c6 0C       		.byte	0xc
@@ -3778,7 +3778,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  3562 1238 09       		.uleb128 0x9
  3563 1239 04       		.byte	0x4
  3564 123a 3E120000 		.4byte	0x123e
-ARM GAS  /tmp/ccpXbv7i.s 			page 64
+ARM GAS  /tmp/ccGa9xl7.s 			page 64
 
 
  3565 123e 10       		.uleb128 0x10
@@ -3838,7 +3838,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  3619 12a4 03       		.uleb128 0x3
  3620 12a5 8C0A0000 		.4byte	.LASF246
  3621 12a9 0E       		.byte	0xe
-ARM GAS  /tmp/ccpXbv7i.s 			page 65
+ARM GAS  /tmp/ccGa9xl7.s 			page 65
 
 
  3622 12aa 77       		.byte	0x77
@@ -3898,7 +3898,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  3676 1314 02       		.byte	0x2
  3677 1315 23       		.byte	0x23
  3678 1316 08       		.uleb128 0x8
-ARM GAS  /tmp/ccpXbv7i.s 			page 66
+ARM GAS  /tmp/ccGa9xl7.s 			page 66
 
 
  3679 1317 06       		.uleb128 0x6
@@ -3958,7 +3958,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  3733 1374 06       		.uleb128 0x6
  3734 1375 12050000 		.4byte	.LASF256
  3735 1379 0E       		.byte	0xe
-ARM GAS  /tmp/ccpXbv7i.s 			page 67
+ARM GAS  /tmp/ccGa9xl7.s 			page 67
 
 
  3736 137a 94       		.byte	0x94
@@ -4018,7 +4018,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  3790 13dd 02       		.byte	0x2
  3791 13de 23       		.byte	0x23
  3792 13df 08       		.uleb128 0x8
-ARM GAS  /tmp/ccpXbv7i.s 			page 68
+ARM GAS  /tmp/ccGa9xl7.s 			page 68
 
 
  3793 13e0 07       		.uleb128 0x7
@@ -4078,7 +4078,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  3847 1443 04       		.byte	0x4
  3848 1444 48140000 		.4byte	0x1448
  3849 1448 10       		.uleb128 0x10
-ARM GAS  /tmp/ccpXbv7i.s 			page 69
+ARM GAS  /tmp/ccGa9xl7.s 			page 69
 
 
  3850 1449 9F130000 		.4byte	0x139f
@@ -4138,7 +4138,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  3904 14cd 87       		.byte	0x87
  3905 14ce 86000000 		.4byte	0x86
  3906 14d2 DD000000 		.4byte	.LLST5
-ARM GAS  /tmp/ccpXbv7i.s 			page 70
+ARM GAS  /tmp/ccGa9xl7.s 			page 70
 
 
  3907 14d6 00       		.byte	0
@@ -4198,7 +4198,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  3961 154b 746D7000 		.ascii	"tmp\000"
  3962 154f 01       		.byte	0x1
  3963 1550 9D       		.byte	0x9d
-ARM GAS  /tmp/ccpXbv7i.s 			page 71
+ARM GAS  /tmp/ccGa9xl7.s 			page 71
 
 
  3964 1551 86000000 		.4byte	0x86
@@ -4258,7 +4258,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  4018 15ca CC010000 		.4byte	.LLST12
  4019 15ce 21       		.uleb128 0x21
  4020 15cf 6E00     		.ascii	"n\000"
-ARM GAS  /tmp/ccpXbv7i.s 			page 72
+ARM GAS  /tmp/ccGa9xl7.s 			page 72
 
 
  4021 15d1 01       		.byte	0x1
@@ -4318,7 +4318,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  4075 1628 02       		.byte	0x2
  4076 1629 7D       		.byte	0x7d
  4077 162a 00       		.sleb128 0
-ARM GAS  /tmp/ccpXbv7i.s 			page 73
+ARM GAS  /tmp/ccGa9xl7.s 			page 73
 
 
  4078 162b 01       		.byte	0x1
@@ -4378,7 +4378,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  4132 1681 00       		.byte	0
  4133 1682 29       		.uleb128 0x29
  4134 1683 58000000 		.4byte	.LASF265
-ARM GAS  /tmp/ccpXbv7i.s 			page 74
+ARM GAS  /tmp/ccGa9xl7.s 			page 74
 
 
  4135 1687 01       		.byte	0x1
@@ -4438,7 +4438,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  4189 16ef 01       		.byte	0x1
  4190 16f0 51       		.byte	0x51
  4191 16f1 03       		.byte	0x3
-ARM GAS  /tmp/ccpXbv7i.s 			page 75
+ARM GAS  /tmp/ccGa9xl7.s 			page 75
 
 
  4192 16f2 F3       		.byte	0xf3
@@ -4498,7 +4498,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  4246 1754 FF       		.byte	0xff
  4247 1755 27       		.uleb128 0x27
  4248 1756 01       		.byte	0x1
-ARM GAS  /tmp/ccpXbv7i.s 			page 76
+ARM GAS  /tmp/ccGa9xl7.s 			page 76
 
 
  4249 1757 52       		.byte	0x52
@@ -4558,7 +4558,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  4303 17b3 51       		.byte	0x51
  4304 17b4 03       		.byte	0x3
  4305 17b5 F3       		.byte	0xf3
-ARM GAS  /tmp/ccpXbv7i.s 			page 77
+ARM GAS  /tmp/ccGa9xl7.s 			page 77
 
 
  4306 17b6 01       		.uleb128 0x1
@@ -4618,7 +4618,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  4360 1809 01010000 		.4byte	.LASF263
  4361 180d 01       		.byte	0x1
  4362 180e 54       		.byte	0x54
-ARM GAS  /tmp/ccpXbv7i.s 			page 78
+ARM GAS  /tmp/ccGa9xl7.s 			page 78
 
 
  4363 180f 01       		.byte	0x1
@@ -4678,7 +4678,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  4417 1872 FA000000 		.4byte	0xfa
  4418 1876 00000000 		.4byte	.LFB120
  4419 187a 0A000000 		.4byte	.LFE120
-ARM GAS  /tmp/ccpXbv7i.s 			page 79
+ARM GAS  /tmp/ccGa9xl7.s 			page 79
 
 
  4420 187e 02       		.byte	0x2
@@ -4738,7 +4738,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  4474 18d8 BF       		.byte	0xbf
  4475 18d9 01       		.byte	0x1
  4476 18da 00000000 		.4byte	.LFB129
-ARM GAS  /tmp/ccpXbv7i.s 			page 80
+ARM GAS  /tmp/ccGa9xl7.s 			page 80
 
 
  4477 18de 52000000 		.4byte	.LFE129
@@ -4798,7 +4798,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  4531 193a 00000000 		.4byte	onotify
  4532 193e 27       		.uleb128 0x27
  4533 193f 01       		.byte	0x1
-ARM GAS  /tmp/ccpXbv7i.s 			page 81
+ARM GAS  /tmp/ccGa9xl7.s 			page 81
 
 
  4534 1940 52       		.byte	0x52
@@ -4858,7 +4858,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  4588 199c 66050000 		.4byte	.LLST37
  4589 19a0 25       		.uleb128 0x25
  4590 19a1 04000000 		.4byte	.LBB6
-ARM GAS  /tmp/ccpXbv7i.s 			page 82
+ARM GAS  /tmp/ccGa9xl7.s 			page 82
 
 
  4591 19a5 0A000000 		.4byte	.LBE6
@@ -4918,7 +4918,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  4645 1a29 5A000000 		.4byte	.LBE11
  4646 1a2d 421A0000 		.4byte	0x1a42
  4647 1a31 33       		.uleb128 0x33
-ARM GAS  /tmp/ccpXbv7i.s 			page 83
+ARM GAS  /tmp/ccGa9xl7.s 			page 83
 
 
  4648 1a32 746D7000 		.ascii	"tmp\000"
@@ -4978,7 +4978,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  4702 1a97 00000000 		.4byte	.LFB132
  4703 1a9b 4A000000 		.4byte	.LFE132
  4704 1a9f 3E060000 		.4byte	.LLST45
-ARM GAS  /tmp/ccpXbv7i.s 			page 84
+ARM GAS  /tmp/ccGa9xl7.s 			page 84
 
 
  4705 1aa3 01       		.byte	0x1
@@ -5038,7 +5038,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  4759 1b08 3A000000 		.4byte	.LVL86
  4760 1b0c 321E0000 		.4byte	0x1e32
  4761 1b10 211B0000 		.4byte	0x1b21
-ARM GAS  /tmp/ccpXbv7i.s 			page 85
+ARM GAS  /tmp/ccGa9xl7.s 			page 85
 
 
  4762 1b14 27       		.uleb128 0x27
@@ -5098,7 +5098,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  4816 1b74 CF060000 		.4byte	.LLST48
  4817 1b78 01       		.byte	0x1
  4818 1b79 9E1C0000 		.4byte	0x1c9e
-ARM GAS  /tmp/ccpXbv7i.s 			page 86
+ARM GAS  /tmp/ccGa9xl7.s 			page 86
 
 
  4819 1b7d 36       		.uleb128 0x36
@@ -5158,7 +5158,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  4873 1c07 5F01     		.2byte	0x15f
  4874 1c09 86000000 		.4byte	0x86
  4875 1c0d C7070000 		.4byte	.LLST54
-ARM GAS  /tmp/ccpXbv7i.s 			page 87
+ARM GAS  /tmp/ccGa9xl7.s 			page 87
 
 
  4876 1c11 00       		.byte	0
@@ -5218,7 +5218,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  4930 1c7f 00       		.sleb128 0
  4931 1c80 27       		.uleb128 0x27
  4932 1c81 01       		.byte	0x1
-ARM GAS  /tmp/ccpXbv7i.s 			page 88
+ARM GAS  /tmp/ccGa9xl7.s 			page 88
 
 
  4933 1c82 50       		.byte	0x50
@@ -5278,7 +5278,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  4987 1cec 7301     		.2byte	0x173
  4988 1cee 30000000 		.4byte	0x30
  4989 1cf2 A3080000 		.4byte	.LLST61
-ARM GAS  /tmp/ccpXbv7i.s 			page 89
+ARM GAS  /tmp/ccGa9xl7.s 			page 89
 
 
  4990 1cf6 37       		.uleb128 0x37
@@ -5338,7 +5338,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  5044 1d85 951D0000 		.4byte	0x1d95
  5045 1d89 27       		.uleb128 0x27
  5046 1d8a 01       		.byte	0x1
-ARM GAS  /tmp/ccpXbv7i.s 			page 90
+ARM GAS  /tmp/ccGa9xl7.s 			page 90
 
 
  5047 1d8b 51       		.byte	0x51
@@ -5398,7 +5398,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  5101 1dd3 9601     		.2byte	0x196
  5102 1dd5 01       		.byte	0x1
  5103 1dd6 00000000 		.4byte	.LFB136
-ARM GAS  /tmp/ccpXbv7i.s 			page 91
+ARM GAS  /tmp/ccGa9xl7.s 			page 91
 
 
  5104 1dda 02000000 		.4byte	.LFE136
@@ -5458,7 +5458,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  5158 1e46 12       		.uleb128 0x12
  5159 1e47 DA070000 		.4byte	0x7da
  5160 1e4b 12       		.uleb128 0x12
-ARM GAS  /tmp/ccpXbv7i.s 			page 92
+ARM GAS  /tmp/ccGa9xl7.s 			page 92
 
 
  5161 1e4c 70100000 		.4byte	0x1070
@@ -5518,7 +5518,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  5215 1ebf 01       		.byte	0x1
  5216 1ec0 30000000 		.4byte	0x30
  5217 1ec4 01       		.byte	0x1
-ARM GAS  /tmp/ccpXbv7i.s 			page 93
+ARM GAS  /tmp/ccGa9xl7.s 			page 93
 
 
  5218 1ec5 DE1E0000 		.4byte	0x1ede
@@ -5578,7 +5578,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  5272 1f3d 49000000 		.4byte	0x49
  5273 1f41 12       		.uleb128 0x12
  5274 1f42 1B010000 		.4byte	0x11b
-ARM GAS  /tmp/ccpXbv7i.s 			page 94
+ARM GAS  /tmp/ccGa9xl7.s 			page 94
 
 
  5275 1f46 00       		.byte	0
@@ -5638,7 +5638,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  5329 1fb4 41040000 		.4byte	0x441
  5330 1fb8 40       		.uleb128 0x40
  5331 1fb9 01       		.byte	0x1
-ARM GAS  /tmp/ccpXbv7i.s 			page 95
+ARM GAS  /tmp/ccGa9xl7.s 			page 95
 
 
  5332 1fba 35090000 		.4byte	.LASF292
@@ -5698,7 +5698,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  5386 0018 0B       		.uleb128 0xb
  5387 0019 0B       		.uleb128 0xb
  5388 001a 3E       		.uleb128 0x3e
-ARM GAS  /tmp/ccpXbv7i.s 			page 96
+ARM GAS  /tmp/ccGa9xl7.s 			page 96
 
 
  5389 001b 0B       		.uleb128 0xb
@@ -5758,7 +5758,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  5443 0051 13       		.uleb128 0x13
  5444 0052 38       		.uleb128 0x38
  5445 0053 0A       		.uleb128 0xa
-ARM GAS  /tmp/ccpXbv7i.s 			page 97
+ARM GAS  /tmp/ccGa9xl7.s 			page 97
 
 
  5446 0054 00       		.byte	0
@@ -5818,7 +5818,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  5500 008a 0B       		.uleb128 0xb
  5501 008b 3B       		.uleb128 0x3b
  5502 008c 05       		.uleb128 0x5
-ARM GAS  /tmp/ccpXbv7i.s 			page 98
+ARM GAS  /tmp/ccGa9xl7.s 			page 98
 
 
  5503 008d 01       		.uleb128 0x1
@@ -5878,7 +5878,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  5557 00c3 00       		.byte	0
  5558 00c4 49       		.uleb128 0x49
  5559 00c5 13       		.uleb128 0x13
-ARM GAS  /tmp/ccpXbv7i.s 			page 99
+ARM GAS  /tmp/ccGa9xl7.s 			page 99
 
 
  5560 00c6 00       		.byte	0
@@ -5938,7 +5938,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  5614 00fc 3A       		.uleb128 0x3a
  5615 00fd 0B       		.uleb128 0xb
  5616 00fe 3B       		.uleb128 0x3b
-ARM GAS  /tmp/ccpXbv7i.s 			page 100
+ARM GAS  /tmp/ccGa9xl7.s 			page 100
 
 
  5617 00ff 05       		.uleb128 0x5
@@ -5998,7 +5998,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  5671 0135 00       		.byte	0
  5672 0136 1B       		.uleb128 0x1b
  5673 0137 04       		.uleb128 0x4
-ARM GAS  /tmp/ccpXbv7i.s 			page 101
+ARM GAS  /tmp/ccGa9xl7.s 			page 101
 
 
  5674 0138 01       		.byte	0x1
@@ -6058,7 +6058,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  5728 016e 0B       		.uleb128 0xb
  5729 016f 3B       		.uleb128 0x3b
  5730 0170 0B       		.uleb128 0xb
-ARM GAS  /tmp/ccpXbv7i.s 			page 102
+ARM GAS  /tmp/ccGa9xl7.s 			page 102
 
 
  5731 0171 01       		.uleb128 0x1
@@ -6118,7 +6118,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  5785 01a8 06       		.uleb128 0x6
  5786 01a9 00       		.byte	0
  5787 01aa 00       		.byte	0
-ARM GAS  /tmp/ccpXbv7i.s 			page 103
+ARM GAS  /tmp/ccGa9xl7.s 			page 103
 
 
  5788 01ab 23       		.uleb128 0x23
@@ -6178,7 +6178,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  5842 01e5 00       		.byte	0
  5843 01e6 02       		.uleb128 0x2
  5844 01e7 0A       		.uleb128 0xa
-ARM GAS  /tmp/ccpXbv7i.s 			page 104
+ARM GAS  /tmp/ccGa9xl7.s 			page 104
 
 
  5845 01e8 9142     		.uleb128 0x2111
@@ -6238,7 +6238,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  5899 0223 00       		.byte	0
  5900 0224 2B       		.uleb128 0x2b
  5901 0225 898201   		.uleb128 0x4109
-ARM GAS  /tmp/ccpXbv7i.s 			page 105
+ARM GAS  /tmp/ccGa9xl7.s 			page 105
 
 
  5902 0228 01       		.byte	0x1
@@ -6298,7 +6298,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  5956 0261 0C       		.uleb128 0xc
  5957 0262 00       		.byte	0
  5958 0263 00       		.byte	0
-ARM GAS  /tmp/ccpXbv7i.s 			page 106
+ARM GAS  /tmp/ccGa9xl7.s 			page 106
 
 
  5959 0264 2E       		.uleb128 0x2e
@@ -6358,7 +6358,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  6013 029d 00       		.byte	0
  6014 029e 00       		.byte	0
  6015 029f 32       		.uleb128 0x32
-ARM GAS  /tmp/ccpXbv7i.s 			page 107
+ARM GAS  /tmp/ccGa9xl7.s 			page 107
 
 
  6016 02a0 0B       		.uleb128 0xb
@@ -6418,7 +6418,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  6070 02d9 13       		.uleb128 0x13
  6071 02da 00       		.byte	0
  6072 02db 00       		.byte	0
-ARM GAS  /tmp/ccpXbv7i.s 			page 108
+ARM GAS  /tmp/ccGa9xl7.s 			page 108
 
 
  6073 02dc 36       		.uleb128 0x36
@@ -6478,7 +6478,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  6127 0313 13       		.uleb128 0x13
  6128 0314 00       		.byte	0
  6129 0315 00       		.byte	0
-ARM GAS  /tmp/ccpXbv7i.s 			page 109
+ARM GAS  /tmp/ccGa9xl7.s 			page 109
 
 
  6130 0316 39       		.uleb128 0x39
@@ -6538,7 +6538,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  6184 034d 00       		.byte	0
  6185 034e 3C       		.uleb128 0x3c
  6186 034f 05       		.uleb128 0x5
-ARM GAS  /tmp/ccpXbv7i.s 			page 110
+ARM GAS  /tmp/ccGa9xl7.s 			page 110
 
 
  6187 0350 00       		.byte	0
@@ -6598,7 +6598,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  6241 0386 3F       		.uleb128 0x3f
  6242 0387 0C       		.uleb128 0xc
  6243 0388 3C       		.uleb128 0x3c
-ARM GAS  /tmp/ccpXbv7i.s 			page 111
+ARM GAS  /tmp/ccGa9xl7.s 			page 111
 
 
  6244 0389 0C       		.uleb128 0xc
@@ -6658,7 +6658,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  6298 03bf 27       		.uleb128 0x27
  6299 03c0 0C       		.uleb128 0xc
  6300 03c1 3C       		.uleb128 0x3c
-ARM GAS  /tmp/ccpXbv7i.s 			page 112
+ARM GAS  /tmp/ccGa9xl7.s 			page 112
 
 
  6301 03c2 0C       		.uleb128 0xc
@@ -6718,7 +6718,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  6355 0044 14000000 		.4byte	.LVL4
  6356 0048 6E000000 		.4byte	.LFE126
  6357 004c 0400     		.2byte	0x4
-ARM GAS  /tmp/ccpXbv7i.s 			page 113
+ARM GAS  /tmp/ccGa9xl7.s 			page 113
 
 
  6358 004e F3       		.byte	0xf3
@@ -6778,7 +6778,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  6412 00b4 06       		.byte	0x6
  6413 00b5 22       		.byte	0x22
  6414 00b6 23       		.byte	0x23
-ARM GAS  /tmp/ccpXbv7i.s 			page 114
+ARM GAS  /tmp/ccGa9xl7.s 			page 114
 
 
  6415 00b7 0C       		.uleb128 0xc
@@ -6838,7 +6838,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  6469 0133 50       		.byte	0x50
  6470 0134 14000000 		.4byte	.LVL20
  6471 0138 5E000000 		.4byte	.LFE127
-ARM GAS  /tmp/ccpXbv7i.s 			page 115
+ARM GAS  /tmp/ccGa9xl7.s 			page 115
 
 
  6472 013c 0400     		.2byte	0x4
@@ -6898,7 +6898,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  6526 01be 0400     		.2byte	0x4
  6527 01c0 F3       		.byte	0xf3
  6528 01c1 01       		.uleb128 0x1
-ARM GAS  /tmp/ccpXbv7i.s 			page 116
+ARM GAS  /tmp/ccGa9xl7.s 			page 116
 
 
  6529 01c2 50       		.byte	0x50
@@ -6958,7 +6958,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  6583 0244 70       		.byte	0x70
  6584 0245 74       		.sleb128 -12
  6585 0246 9F       		.byte	0x9f
-ARM GAS  /tmp/ccpXbv7i.s 			page 117
+ARM GAS  /tmp/ccGa9xl7.s 			page 117
 
 
  6586 0247 09000000 		.4byte	.LVL36-1
@@ -7018,7 +7018,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  6640 02c4 9F       		.byte	0x9f
  6641 02c5 00000000 		.4byte	0
  6642 02c9 00000000 		.4byte	0
-ARM GAS  /tmp/ccpXbv7i.s 			page 118
+ARM GAS  /tmp/ccGa9xl7.s 			page 118
 
 
  6643              	.LLST19:
@@ -7078,7 +7078,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  6697 034c 0A000000 		.4byte	.LFE118
  6698 0350 0400     		.2byte	0x4
  6699 0352 F3       		.byte	0xf3
-ARM GAS  /tmp/ccpXbv7i.s 			page 119
+ARM GAS  /tmp/ccGa9xl7.s 			page 119
 
 
  6700 0353 01       		.uleb128 0x1
@@ -7138,7 +7138,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  6754 03ce 00000000 		.4byte	.LVL43
  6755 03d2 05000000 		.4byte	.LVL45-1
  6756 03d6 0100     		.2byte	0x1
-ARM GAS  /tmp/ccpXbv7i.s 			page 120
+ARM GAS  /tmp/ccGa9xl7.s 			page 120
 
 
  6757 03d8 51       		.byte	0x51
@@ -7198,7 +7198,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  6811 0455 51       		.byte	0x51
  6812 0456 05000000 		.4byte	.LVL51-1
  6813 045a 06000000 		.4byte	.LFE122
-ARM GAS  /tmp/ccpXbv7i.s 			page 121
+ARM GAS  /tmp/ccGa9xl7.s 			page 121
 
 
  6814 045e 0400     		.2byte	0x4
@@ -7258,7 +7258,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  6868 04d8 00000000 		.4byte	0
  6869              	.LLST33:
  6870 04dc 00000000 		.4byte	.LFB129
-ARM GAS  /tmp/ccpXbv7i.s 			page 122
+ARM GAS  /tmp/ccGa9xl7.s 			page 122
 
 
  6871 04e0 02000000 		.4byte	.LCFI2
@@ -7318,7 +7318,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  6925 056a 22000000 		.4byte	.LVL65
  6926 056e 0100     		.2byte	0x1
  6927 0570 52       		.byte	0x52
-ARM GAS  /tmp/ccpXbv7i.s 			page 123
+ARM GAS  /tmp/ccGa9xl7.s 			page 123
 
 
  6928 0571 22000000 		.4byte	.LVL65
@@ -7378,7 +7378,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  6982 05ff 0100     		.2byte	0x1
  6983 0601 50       		.byte	0x50
  6984 0602 30000000 		.4byte	.LVL73
-ARM GAS  /tmp/ccpXbv7i.s 			page 124
+ARM GAS  /tmp/ccGa9xl7.s 			page 124
 
 
  6985 0606 3D000000 		.4byte	.LVL74-1
@@ -7438,7 +7438,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  7039 0692 01       		.uleb128 0x1
  7040 0693 50       		.byte	0x50
  7041 0694 9F       		.byte	0x9f
-ARM GAS  /tmp/ccpXbv7i.s 			page 125
+ARM GAS  /tmp/ccGa9xl7.s 			page 125
 
 
  7042 0695 10000000 		.4byte	.LVL90
@@ -7498,7 +7498,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  7096 071c 70000000 		.4byte	.LFE134
  7097 0720 0400     		.2byte	0x4
  7098 0722 F3       		.byte	0xf3
-ARM GAS  /tmp/ccpXbv7i.s 			page 126
+ARM GAS  /tmp/ccGa9xl7.s 			page 126
 
 
  7099 0723 01       		.uleb128 0x1
@@ -7558,7 +7558,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  7153 0786 5F000000 		.4byte	.LVL113-1
  7154 078a 0D00     		.2byte	0xd
  7155 078c 74       		.byte	0x74
-ARM GAS  /tmp/ccpXbv7i.s 			page 127
+ARM GAS  /tmp/ccGa9xl7.s 			page 127
 
 
  7156 078d C000     		.sleb128 64
@@ -7618,7 +7618,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  7210 080f 06000000 		.4byte	.LCFI8
  7211 0813 0200     		.2byte	0x2
  7212 0815 7D       		.byte	0x7d
-ARM GAS  /tmp/ccpXbv7i.s 			page 128
+ARM GAS  /tmp/ccGa9xl7.s 			page 128
 
 
  7213 0816 00       		.sleb128 0
@@ -7678,7 +7678,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  7267 089a 53       		.byte	0x53
  7268 089b 00000000 		.4byte	0
  7269 089f 00000000 		.4byte	0
-ARM GAS  /tmp/ccpXbv7i.s 			page 129
+ARM GAS  /tmp/ccGa9xl7.s 			page 129
 
 
  7270              	.LLST61:
@@ -7738,7 +7738,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  7324 0917 5C000000 		.4byte	.LVL137
  7325 091b 63000000 		.4byte	.LVL138-1
  7326 091f 0100     		.2byte	0x1
-ARM GAS  /tmp/ccpXbv7i.s 			page 130
+ARM GAS  /tmp/ccGa9xl7.s 			page 130
 
 
  7327 0921 53       		.byte	0x53
@@ -7798,7 +7798,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  7381 0004 12000000 		.4byte	.LBE7
  7382 0008 2C000000 		.4byte	.LBB8
  7383 000c 30000000 		.4byte	.LBE8
-ARM GAS  /tmp/ccpXbv7i.s 			page 131
+ARM GAS  /tmp/ccGa9xl7.s 			page 131
 
 
  7384 0010 00000000 		.4byte	0
@@ -7858,7 +7858,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  7434      01010101 
  7435              	.LASF2:
  7436 0000 73697A65 		.ascii	"size_t\000"
-ARM GAS  /tmp/ccpXbv7i.s 			page 132
+ARM GAS  /tmp/ccGa9xl7.s 			page 132
 
 
  7436      5F7400
@@ -7918,7 +7918,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  7465              	.LASF286:
  7466 008e 63684F51 		.ascii	"chOQWriteTimeout\000"
  7466      57726974 
-ARM GAS  /tmp/ccpXbv7i.s 			page 133
+ARM GAS  /tmp/ccGa9xl7.s 			page 133
 
 
  7466      6554696D 
@@ -7978,7 +7978,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  7494 0124 6D5F6F77 		.ascii	"m_owner\000"
  7494      6E657200 
  7495              	.LASF65:
-ARM GAS  /tmp/ccpXbv7i.s 			page 134
+ARM GAS  /tmp/ccGa9xl7.s 			page 134
 
 
  7496 012c 65786974 		.ascii	"exitcode\000"
@@ -8038,7 +8038,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  7525              	.LASF18:
  7526 01b0 74737461 		.ascii	"tstate_t\000"
  7526      74655F74 
-ARM GAS  /tmp/ccpXbv7i.s 			page 135
+ARM GAS  /tmp/ccGa9xl7.s 			page 135
 
 
  7526      00
@@ -8098,7 +8098,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  7555              	.LASF122:
  7556 0248 5553425F 		.ascii	"USB_EVENT_STALLED\000"
  7556      4556454E 
-ARM GAS  /tmp/ccpXbv7i.s 			page 136
+ARM GAS  /tmp/ccGa9xl7.s 			page 136
 
 
  7556      545F5354 
@@ -8158,7 +8158,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  7582              	.LASF239:
  7583 0306 72657175 		.ascii	"requests_hook_cb\000"
  7583      65737473 
-ARM GAS  /tmp/ccpXbv7i.s 			page 137
+ARM GAS  /tmp/ccGa9xl7.s 			page 137
 
 
  7583      5F686F6F 
@@ -8218,7 +8218,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  7613 038a 75645F73 		.ascii	"ud_string\000"
  7613      7472696E 
  7613      6700
-ARM GAS  /tmp/ccpXbv7i.s 			page 138
+ARM GAS  /tmp/ccGa9xl7.s 			page 138
 
 
  7614              	.LASF228:
@@ -8278,7 +8278,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  7640              	.LASF196:
  7641 0422 44494550 		.ascii	"DIEPEMPMSK\000"
  7641      454D504D 
-ARM GAS  /tmp/ccpXbv7i.s 			page 139
+ARM GAS  /tmp/ccGa9xl7.s 			page 139
 
 
  7641      534B00
@@ -8338,7 +8338,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  7667      6174696F 
  7667      6E00
  7668              	.LASF162:
-ARM GAS  /tmp/ccpXbv7i.s 			page 140
+ARM GAS  /tmp/ccGa9xl7.s 			page 140
 
 
  7669 04c2 47525846 		.ascii	"GRXFSIZ\000"
@@ -8398,7 +8398,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  7697      65787400 
  7698              	.LASF255:
  7699 0558 75736270 		.ascii	"usbp\000"
-ARM GAS  /tmp/ccpXbv7i.s 			page 141
+ARM GAS  /tmp/ccGa9xl7.s 			page 141
 
 
  7699      00
@@ -8458,7 +8458,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  7731 05dc 5553425F 		.ascii	"USB_EVENT_WAKEUP\000"
  7731      4556454E 
  7731      545F5741 
-ARM GAS  /tmp/ccpXbv7i.s 			page 142
+ARM GAS  /tmp/ccGa9xl7.s 			page 142
 
 
  7731      4B455550 
@@ -8518,7 +8518,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  7759      64383830 
  7759      00
  7760              	.LASF299:
-ARM GAS  /tmp/ccpXbv7i.s 			page 143
+ARM GAS  /tmp/ccGa9xl7.s 			page 143
 
 
  7761 0689 49544D5F 		.ascii	"ITM_RxBuffer\000"
@@ -8578,7 +8578,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  7789      6700
  7790              	.LASF45:
  7791 0711 705F6D70 		.ascii	"p_mpool\000"
-ARM GAS  /tmp/ccpXbv7i.s 			page 144
+ARM GAS  /tmp/ccGa9xl7.s 			page 144
 
 
  7791      6F6F6C00 
@@ -8638,7 +8638,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  7819      697A6500 
  7820              	.LASF230:
  7821 07a9 696E5F6D 		.ascii	"in_maxsize\000"
-ARM GAS  /tmp/ccpXbv7i.s 			page 145
+ARM GAS  /tmp/ccGa9xl7.s 			page 145
 
 
  7821      61787369 
@@ -8698,7 +8698,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  7845      64706F69 
  7845      6E745374 
  7845      61746500 
-ARM GAS  /tmp/ccpXbv7i.s 			page 146
+ARM GAS  /tmp/ccGa9xl7.s 			page 146
 
 
  7846              	.LASF202:
@@ -8758,7 +8758,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  7873 08e4 74736C69 		.ascii	"tslices_t\000"
  7873      6365735F 
  7873      7400
-ARM GAS  /tmp/ccpXbv7i.s 			page 147
+ARM GAS  /tmp/ccGa9xl7.s 			page 147
 
 
  7874              	.LASF154:
@@ -8818,7 +8818,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  7901      73637269 
  7901      70746F72 
  7901      5F7400
-ARM GAS  /tmp/ccpXbv7i.s 			page 148
+ARM GAS  /tmp/ccGa9xl7.s 			page 148
 
 
  7902              	.LASF101:
@@ -8878,7 +8878,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  7929      65756500 
  7930              	.LASF147:
  7931 0a18 72657376 		.ascii	"resvd1C\000"
-ARM GAS  /tmp/ccpXbv7i.s 			page 149
+ARM GAS  /tmp/ccGa9xl7.s 			page 149
 
 
  7931      64314300 
@@ -8938,7 +8938,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  7959      58535453 
  7959      00
  7960              	.LASF19:
-ARM GAS  /tmp/ccpXbv7i.s 			page 150
+ARM GAS  /tmp/ccGa9xl7.s 			page 150
 
 
  7961 0abd 74726566 		.ascii	"trefs_t\000"
@@ -8998,7 +8998,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  7987      5350454E 
  7987      4400
  7988              	.LASF64:
-ARM GAS  /tmp/ccpXbv7i.s 			page 151
+ARM GAS  /tmp/ccGa9xl7.s 			page 151
 
 
  7989 0b72 7264796D 		.ascii	"rdymsg\000"
@@ -9058,7 +9058,7 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  8013      53545300 
  8014              	.LASF33:
  8015 0c10 705F6E61 		.ascii	"p_name\000"
-ARM GAS  /tmp/ccpXbv7i.s 			page 152
+ARM GAS  /tmp/ccGa9xl7.s 			page 152
 
 
  8015      6D6500
@@ -9102,55 +9102,55 @@ ARM GAS  /tmp/ccpXbv7i.s 			page 1
  8037 0c72 705F7374 		.ascii	"p_state\000"
  8037      61746500 
  8038              		.ident	"GCC: (GNU Tools for ARM Embedded Processors) 4.7.3 20130312 (release) [ARM/embedded-4_7-br
-ARM GAS  /tmp/ccpXbv7i.s 			page 153
+ARM GAS  /tmp/ccGa9xl7.s 			page 153
 
 
 DEFINED SYMBOLS
                             *ABS*:00000000 serial_usb.c
-     /tmp/ccpXbv7i.s:19     .text.inotify:00000000 $t
-     /tmp/ccpXbv7i.s:24     .text.inotify:00000000 inotify
-     /tmp/ccpXbv7i.s:131    .text.onotify:00000000 $t
-     /tmp/ccpXbv7i.s:136    .text.onotify:00000000 onotify
-     /tmp/ccpXbv7i.s:225    .text.readt:00000000 $t
-     /tmp/ccpXbv7i.s:230    .text.readt:00000000 readt
-     /tmp/ccpXbv7i.s:249    .text.read:00000000 $t
-     /tmp/ccpXbv7i.s:254    .text.read:00000000 read
-     /tmp/ccpXbv7i.s:274    .text.writet:00000000 $t
-     /tmp/ccpXbv7i.s:279    .text.writet:00000000 writet
-     /tmp/ccpXbv7i.s:298    .text.write:00000000 $t
-     /tmp/ccpXbv7i.s:303    .text.write:00000000 write
-     /tmp/ccpXbv7i.s:323    .text.gett:00000000 $t
-     /tmp/ccpXbv7i.s:328    .text.gett:00000000 gett
-     /tmp/ccpXbv7i.s:347    .text.get:00000000 $t
-     /tmp/ccpXbv7i.s:352    .text.get:00000000 get
-     /tmp/ccpXbv7i.s:372    .text.putt:00000000 $t
-     /tmp/ccpXbv7i.s:377    .text.putt:00000000 putt
-     /tmp/ccpXbv7i.s:396    .text.put:00000000 $t
-     /tmp/ccpXbv7i.s:401    .text.put:00000000 put
-     /tmp/ccpXbv7i.s:421    .text.sduInit:00000000 $t
-     /tmp/ccpXbv7i.s:427    .text.sduInit:00000000 sduInit
-     /tmp/ccpXbv7i.s:439    .text.sduObjectInit:00000000 $t
-     /tmp/ccpXbv7i.s:445    .text.sduObjectInit:00000000 sduObjectInit
-     /tmp/ccpXbv7i.s:1089   .rodata.vmt:00000000 .LANCHOR0
-     /tmp/ccpXbv7i.s:505    .text.sduStart:00000000 $t
-     /tmp/ccpXbv7i.s:511    .text.sduStart:00000000 sduStart
-     /tmp/ccpXbv7i.s:577    .text.sduStop:00000000 $t
-     /tmp/ccpXbv7i.s:583    .text.sduStop:00000000 sduStop
-     /tmp/ccpXbv7i.s:672    .text.sduConfigureHookI:00000000 $t
-     /tmp/ccpXbv7i.s:678    .text.sduConfigureHookI:00000000 sduConfigureHookI
-     /tmp/ccpXbv7i.s:742    .text.sduRequestsHook:00000000 $t
-     /tmp/ccpXbv7i.s:748    .text.sduRequestsHook:00000000 sduRequestsHook
-     /tmp/ccpXbv7i.s:803    .text.sduRequestsHook:0000003c $d
-     /tmp/ccpXbv7i.s:808    .text.sduDataTransmitted:00000000 $t
-     /tmp/ccpXbv7i.s:814    .text.sduDataTransmitted:00000000 sduDataTransmitted
-     /tmp/ccpXbv7i.s:945    .text.sduDataReceived:00000000 $t
-     /tmp/ccpXbv7i.s:951    .text.sduDataReceived:00000000 sduDataReceived
-     /tmp/ccpXbv7i.s:1069   .text.sduInterruptTransmitted:00000000 $t
-     /tmp/ccpXbv7i.s:1075   .text.sduInterruptTransmitted:00000000 sduInterruptTransmitted
-     /tmp/ccpXbv7i.s:1088   .rodata.vmt:00000000 $d
-     /tmp/ccpXbv7i.s:1092   .rodata.vmt:00000000 vmt
-     /tmp/ccpXbv7i.s:1102   .data.linecoding:00000000 $d
-     /tmp/ccpXbv7i.s:1106   .data.linecoding:00000000 linecoding
+     /tmp/ccGa9xl7.s:19     .text.inotify:00000000 $t
+     /tmp/ccGa9xl7.s:24     .text.inotify:00000000 inotify
+     /tmp/ccGa9xl7.s:131    .text.onotify:00000000 $t
+     /tmp/ccGa9xl7.s:136    .text.onotify:00000000 onotify
+     /tmp/ccGa9xl7.s:225    .text.readt:00000000 $t
+     /tmp/ccGa9xl7.s:230    .text.readt:00000000 readt
+     /tmp/ccGa9xl7.s:249    .text.read:00000000 $t
+     /tmp/ccGa9xl7.s:254    .text.read:00000000 read
+     /tmp/ccGa9xl7.s:274    .text.writet:00000000 $t
+     /tmp/ccGa9xl7.s:279    .text.writet:00000000 writet
+     /tmp/ccGa9xl7.s:298    .text.write:00000000 $t
+     /tmp/ccGa9xl7.s:303    .text.write:00000000 write
+     /tmp/ccGa9xl7.s:323    .text.gett:00000000 $t
+     /tmp/ccGa9xl7.s:328    .text.gett:00000000 gett
+     /tmp/ccGa9xl7.s:347    .text.get:00000000 $t
+     /tmp/ccGa9xl7.s:352    .text.get:00000000 get
+     /tmp/ccGa9xl7.s:372    .text.putt:00000000 $t
+     /tmp/ccGa9xl7.s:377    .text.putt:00000000 putt
+     /tmp/ccGa9xl7.s:396    .text.put:00000000 $t
+     /tmp/ccGa9xl7.s:401    .text.put:00000000 put
+     /tmp/ccGa9xl7.s:421    .text.sduInit:00000000 $t
+     /tmp/ccGa9xl7.s:427    .text.sduInit:00000000 sduInit
+     /tmp/ccGa9xl7.s:439    .text.sduObjectInit:00000000 $t
+     /tmp/ccGa9xl7.s:445    .text.sduObjectInit:00000000 sduObjectInit
+     /tmp/ccGa9xl7.s:1089   .rodata.vmt:00000000 .LANCHOR0
+     /tmp/ccGa9xl7.s:505    .text.sduStart:00000000 $t
+     /tmp/ccGa9xl7.s:511    .text.sduStart:00000000 sduStart
+     /tmp/ccGa9xl7.s:577    .text.sduStop:00000000 $t
+     /tmp/ccGa9xl7.s:583    .text.sduStop:00000000 sduStop
+     /tmp/ccGa9xl7.s:672    .text.sduConfigureHookI:00000000 $t
+     /tmp/ccGa9xl7.s:678    .text.sduConfigureHookI:00000000 sduConfigureHookI
+     /tmp/ccGa9xl7.s:742    .text.sduRequestsHook:00000000 $t
+     /tmp/ccGa9xl7.s:748    .text.sduRequestsHook:00000000 sduRequestsHook
+     /tmp/ccGa9xl7.s:803    .text.sduRequestsHook:0000003c $d
+     /tmp/ccGa9xl7.s:808    .text.sduDataTransmitted:00000000 $t
+     /tmp/ccGa9xl7.s:814    .text.sduDataTransmitted:00000000 sduDataTransmitted
+     /tmp/ccGa9xl7.s:945    .text.sduDataReceived:00000000 $t
+     /tmp/ccGa9xl7.s:951    .text.sduDataReceived:00000000 sduDataReceived
+     /tmp/ccGa9xl7.s:1069   .text.sduInterruptTransmitted:00000000 $t
+     /tmp/ccGa9xl7.s:1075   .text.sduInterruptTransmitted:00000000 sduInterruptTransmitted
+     /tmp/ccGa9xl7.s:1088   .rodata.vmt:00000000 $d
+     /tmp/ccGa9xl7.s:1092   .rodata.vmt:00000000 vmt
+     /tmp/ccGa9xl7.s:1102   .data.linecoding:00000000 $d
+     /tmp/ccGa9xl7.s:1106   .data.linecoding:00000000 linecoding
                      .debug_frame:00000010 $d
 
 UNDEFINED SYMBOLS
@@ -9162,7 +9162,7 @@ chIQReadTimeout
 chOQWriteTimeout
 chIQGetTimeout
 chOQPutTimeout
-ARM GAS  /tmp/ccpXbv7i.s 			page 154
+ARM GAS  /tmp/ccGa9xl7.s 			page 154
 
 
 chIQInit

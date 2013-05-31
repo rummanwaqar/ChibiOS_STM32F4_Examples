@@ -1,4 +1,4 @@
-ARM GAS  /tmp/ccVc21rY.s 			page 1
+ARM GAS  /tmp/cczDPCiM.s 			page 1
 
 
    1              		.syntax unified
@@ -58,7 +58,7 @@ ARM GAS  /tmp/ccVc21rY.s 			page 1
   55 0018 011C     		adds	r1, r0, #0
   56 001a 18BF     		it	ne
   57 001c 0121     		movne	r1, #1
-ARM GAS  /tmp/ccVc21rY.s 			page 2
+ARM GAS  /tmp/cczDPCiM.s 			page 2
 
 
   58 001e 0446     		mov	r4, r0
@@ -118,7 +118,7 @@ ARM GAS  /tmp/ccVc21rY.s 			page 1
  112 006a 1021     		movs	r1, #16
  113              		.loc 1 92 0
  114 006c 0446     		mov	r4, r0
-ARM GAS  /tmp/ccVc21rY.s 			page 3
+ARM GAS  /tmp/cczDPCiM.s 			page 3
 
 
  115              	.LVL16:
@@ -178,7 +178,7 @@ ARM GAS  /tmp/ccVc21rY.s 			page 1
  169              		.loc 1 102 0
  170 00bc 6348     		ldr	r0, .L8
  171              	.LVL31:
-ARM GAS  /tmp/ccVc21rY.s 			page 4
+ARM GAS  /tmp/cczDPCiM.s 			page 4
 
 
  172 00be FFF7FEFF 		bl	chHeapAlloc
@@ -238,7 +238,7 @@ ARM GAS  /tmp/ccVc21rY.s 			page 1
  226 0110 5942     		rsbs	r1, r3, #0
  227 0112 5941     		adcs	r1, r1, r3
  228 0114 0520     		movs	r0, #5
-ARM GAS  /tmp/ccVc21rY.s 			page 5
+ARM GAS  /tmp/cczDPCiM.s 			page 5
 
 
  229 0116 FFF7FEFF 		bl	_test_assert
@@ -298,7 +298,7 @@ ARM GAS  /tmp/ccVc21rY.s 			page 1
  283              	.LVL56:
  284 0178 0028     		cmp	r0, #0
  285 017a 7FF456AF 		bne	.L1
-ARM GAS  /tmp/ccVc21rY.s 			page 6
+ARM GAS  /tmp/cczDPCiM.s 			page 6
 
 
  286              		.loc 1 123 0
@@ -358,7 +358,7 @@ ARM GAS  /tmp/ccVc21rY.s 			page 1
  340 01d6 52EB0001 		adcs	r1, r2, r0
  341 01da 0920     		movs	r0, #9
  342 01dc FFF7FEFF 		bl	_test_assert
-ARM GAS  /tmp/ccVc21rY.s 			page 7
+ARM GAS  /tmp/cczDPCiM.s 			page 7
 
 
  343              	.LVL70:
@@ -418,7 +418,7 @@ ARM GAS  /tmp/ccVc21rY.s 			page 1
  397 023c 5342     		rsbs	r3, r2, #0
  398 023e 53EB0201 		adcs	r1, r3, r2
  399              	.LVL82:
-ARM GAS  /tmp/ccVc21rY.s 			page 8
+ARM GAS  /tmp/cczDPCiM.s 			page 8
 
 
  400 0242 FFF7FEFF 		bl	_test_assert
@@ -478,7 +478,7 @@ ARM GAS  /tmp/ccVc21rY.s 			page 1
  453 0000 48656170 		.ascii	"Heap, allocation and fragmentation test\000"
  453      2C20616C 
  453      6C6F6361 
-ARM GAS  /tmp/ccVc21rY.s 			page 9
+ARM GAS  /tmp/cczDPCiM.s 			page 9
 
 
  453      74696F6E 
@@ -538,7 +538,7 @@ ARM GAS  /tmp/ccVc21rY.s 			page 1
  502 0031 06000000 		.4byte	.LASF2
  503 0035 02       		.byte	0x2
  504 0036 D5       		.byte	0xd5
-ARM GAS  /tmp/ccVc21rY.s 			page 10
+ARM GAS  /tmp/cczDPCiM.s 			page 10
 
 
  505 0037 3B000000 		.4byte	0x3b
@@ -598,7 +598,7 @@ ARM GAS  /tmp/ccVc21rY.s 			page 1
  559 00a0 08       		.byte	0x8
  560 00a1 07       		.byte	0x7
  561 00a2 2A000000 		.4byte	.LASF13
-ARM GAS  /tmp/ccVc21rY.s 			page 11
+ARM GAS  /tmp/cczDPCiM.s 			page 11
 
 
  562 00a6 03       		.uleb128 0x3
@@ -658,7 +658,7 @@ ARM GAS  /tmp/ccVc21rY.s 			page 1
  616 011b 05       		.uleb128 0x5
  617 011c EB020000 		.4byte	.LASF24
  618 0120 48       		.byte	0x48
-ARM GAS  /tmp/ccVc21rY.s 			page 12
+ARM GAS  /tmp/cczDPCiM.s 			page 12
 
 
  619 0121 06       		.byte	0x6
@@ -718,7 +718,7 @@ ARM GAS  /tmp/ccVc21rY.s 			page 1
  673 0181 67       		.byte	0x67
  674 0182 BC040000 		.4byte	0x4bc
  675 0186 02       		.byte	0x2
-ARM GAS  /tmp/ccVc21rY.s 			page 13
+ARM GAS  /tmp/cczDPCiM.s 			page 13
 
 
  676 0187 23       		.byte	0x23
@@ -778,7 +778,7 @@ ARM GAS  /tmp/ccVc21rY.s 			page 1
  730 01e4 8D020000 		.4byte	0x28d
  731 01e8 02       		.byte	0x2
  732 01e9 23       		.byte	0x23
-ARM GAS  /tmp/ccVc21rY.s 			page 14
+ARM GAS  /tmp/cczDPCiM.s 			page 14
 
 
  733 01ea 28       		.uleb128 0x28
@@ -838,7 +838,7 @@ ARM GAS  /tmp/ccVc21rY.s 			page 1
  787 0244 65020000 		.4byte	0x265
  788 0248 06       		.uleb128 0x6
  789 0249 DC020000 		.4byte	.LASF25
-ARM GAS  /tmp/ccVc21rY.s 			page 15
+ARM GAS  /tmp/cczDPCiM.s 			page 15
 
 
  790 024d 05       		.byte	0x5
@@ -898,7 +898,7 @@ ARM GAS  /tmp/ccVc21rY.s 			page 1
  844 02b0 0B       		.uleb128 0xb
  845 02b1 6A030000 		.4byte	.LASF48
  846 02b5 24       		.byte	0x24
-ARM GAS  /tmp/ccVc21rY.s 			page 16
+ARM GAS  /tmp/cczDPCiM.s 			page 16
 
 
  847 02b6 07       		.byte	0x7
@@ -958,7 +958,7 @@ ARM GAS  /tmp/ccVc21rY.s 			page 1
  901 0317 1E01     		.2byte	0x11e
  902 0319 98020000 		.4byte	0x298
  903 031d 02       		.byte	0x2
-ARM GAS  /tmp/ccVc21rY.s 			page 17
+ARM GAS  /tmp/cczDPCiM.s 			page 17
 
 
  904 031e 23       		.byte	0x23
@@ -1018,7 +1018,7 @@ ARM GAS  /tmp/ccVc21rY.s 			page 1
  958 0384 02       		.byte	0x2
  959 0385 23       		.byte	0x23
  960 0386 00       		.uleb128 0
-ARM GAS  /tmp/ccVc21rY.s 			page 18
+ARM GAS  /tmp/cczDPCiM.s 			page 18
 
 
  961 0387 06       		.uleb128 0x6
@@ -1078,7 +1078,7 @@ ARM GAS  /tmp/ccVc21rY.s 			page 1
  1015 03f3 41       		.byte	0x41
  1016 03f4 B5030000 		.4byte	0x3b5
  1017 03f8 02       		.byte	0x2
-ARM GAS  /tmp/ccVc21rY.s 			page 19
+ARM GAS  /tmp/cczDPCiM.s 			page 19
 
 
  1018 03f9 23       		.byte	0x23
@@ -1138,7 +1138,7 @@ ARM GAS  /tmp/ccVc21rY.s 			page 1
  1072 045a 37040000 		.4byte	0x437
  1073 045e 09       		.uleb128 0x9
  1074 045f 04       		.byte	0x4
-ARM GAS  /tmp/ccVc21rY.s 			page 20
+ARM GAS  /tmp/cczDPCiM.s 			page 20
 
 
  1075 0460 D6030000 		.4byte	0x3d6
@@ -1198,7 +1198,7 @@ ARM GAS  /tmp/ccVc21rY.s 			page 1
  1129 04c7 04       		.uleb128 0x4
  1130 04c8 01       		.byte	0x1
  1131 04c9 08       		.byte	0x8
-ARM GAS  /tmp/ccVc21rY.s 			page 21
+ARM GAS  /tmp/cczDPCiM.s 			page 21
 
 
  1132 04ca 20030000 		.4byte	.LASF69
@@ -1258,7 +1258,7 @@ ARM GAS  /tmp/ccVc21rY.s 			page 1
  1186 052b 543000   		.ascii	"T0\000"
  1187 052e 0B       		.byte	0xb
  1188 052f 45       		.byte	0x45
-ARM GAS  /tmp/ccVc21rY.s 			page 22
+ARM GAS  /tmp/cczDPCiM.s 			page 22
 
 
  1189 0530 70050000 		.4byte	0x570
@@ -1318,7 +1318,7 @@ ARM GAS  /tmp/ccVc21rY.s 			page 1
  1243 0593 21050000 		.4byte	0x521
  1244 0597 11       		.uleb128 0x11
  1245 0598 4E030000 		.4byte	.LASF77
-ARM GAS  /tmp/ccVc21rY.s 			page 23
+ARM GAS  /tmp/cczDPCiM.s 			page 23
 
 
  1246 059c 0B       		.byte	0xb
@@ -1378,7 +1378,7 @@ ARM GAS  /tmp/ccVc21rY.s 			page 1
  1300 061b 1E       		.uleb128 0x1e
  1301 061c 10000000 		.4byte	.LVL1
  1302 0620 C20B0000 		.4byte	0xbc2
-ARM GAS  /tmp/ccVc21rY.s 			page 24
+ARM GAS  /tmp/cczDPCiM.s 			page 24
 
 
  1303 0624 34060000 		.4byte	0x634
@@ -1438,7 +1438,7 @@ ARM GAS  /tmp/ccVc21rY.s 			page 1
  1357 0670 34000000 		.4byte	.LVL7
  1358 0674 1F0C0000 		.4byte	0xc1f
  1359 0678 83060000 		.4byte	0x683
-ARM GAS  /tmp/ccVc21rY.s 			page 25
+ARM GAS  /tmp/cczDPCiM.s 			page 25
 
 
  1360 067c 1F       		.uleb128 0x1f
@@ -1498,7 +1498,7 @@ ARM GAS  /tmp/ccVc21rY.s 			page 1
  1414 06d7 EA060000 		.4byte	0x6ea
  1415 06db 1F       		.uleb128 0x1f
  1416 06dc 01       		.byte	0x1
-ARM GAS  /tmp/ccVc21rY.s 			page 26
+ARM GAS  /tmp/cczDPCiM.s 			page 26
 
 
  1417 06dd 51       		.byte	0x51
@@ -1558,7 +1558,7 @@ ARM GAS  /tmp/ccVc21rY.s 			page 1
  1471 0737 82000000 		.4byte	.LVL22
  1472 073b 1F0C0000 		.4byte	0xc1f
  1473 073f 4A070000 		.4byte	0x74a
-ARM GAS  /tmp/ccVc21rY.s 			page 27
+ARM GAS  /tmp/cczDPCiM.s 			page 27
 
 
  1474 0743 1F       		.uleb128 0x1f
@@ -1618,7 +1618,7 @@ ARM GAS  /tmp/ccVc21rY.s 			page 1
  1528 07a0 1F       		.uleb128 0x1f
  1529 07a1 01       		.byte	0x1
  1530 07a2 50       		.byte	0x50
-ARM GAS  /tmp/ccVc21rY.s 			page 28
+ARM GAS  /tmp/cczDPCiM.s 			page 28
 
 
  1531 07a3 05       		.byte	0x5
@@ -1678,7 +1678,7 @@ ARM GAS  /tmp/ccVc21rY.s 			page 1
  1585 080c 1F       		.uleb128 0x1f
  1586 080d 01       		.byte	0x1
  1587 080e 50       		.byte	0x50
-ARM GAS  /tmp/ccVc21rY.s 			page 29
+ARM GAS  /tmp/cczDPCiM.s 			page 29
 
 
  1588 080f 02       		.byte	0x2
@@ -1738,7 +1738,7 @@ ARM GAS  /tmp/ccVc21rY.s 			page 1
  1642 086f 01       		.byte	0x1
  1643 0870 40       		.byte	0x40
  1644 0871 1F       		.uleb128 0x1f
-ARM GAS  /tmp/ccVc21rY.s 			page 30
+ARM GAS  /tmp/cczDPCiM.s 			page 30
 
 
  1645 0872 01       		.byte	0x1
@@ -1798,7 +1798,7 @@ ARM GAS  /tmp/ccVc21rY.s 			page 1
  1699 08d2 01       		.byte	0x1
  1700 08d3 50       		.byte	0x50
  1701 08d4 05       		.byte	0x5
-ARM GAS  /tmp/ccVc21rY.s 			page 31
+ARM GAS  /tmp/cczDPCiM.s 			page 31
 
 
  1702 08d5 03       		.byte	0x3
@@ -1858,7 +1858,7 @@ ARM GAS  /tmp/ccVc21rY.s 			page 1
  1756 0938 02       		.byte	0x2
  1757 0939 75       		.byte	0x75
  1758 093a 00       		.sleb128 0
-ARM GAS  /tmp/ccVc21rY.s 			page 32
+ARM GAS  /tmp/cczDPCiM.s 			page 32
 
 
  1759 093b 00       		.byte	0
@@ -1918,7 +1918,7 @@ ARM GAS  /tmp/ccVc21rY.s 			page 1
  1813 099b 00       		.byte	0
  1814 099c 1E       		.uleb128 0x1e
  1815 099d 90010000 		.4byte	.LVL60
-ARM GAS  /tmp/ccVc21rY.s 			page 33
+ARM GAS  /tmp/cczDPCiM.s 			page 33
 
 
  1816 09a1 E50B0000 		.4byte	0xbe5
@@ -1978,7 +1978,7 @@ ARM GAS  /tmp/ccVc21rY.s 			page 1
  1870 0a01 E50B0000 		.4byte	0xbe5
  1871 0a05 190A0000 		.4byte	0xa19
  1872 0a09 1F       		.uleb128 0x1f
-ARM GAS  /tmp/ccVc21rY.s 			page 34
+ARM GAS  /tmp/cczDPCiM.s 			page 34
 
 
  1873 0a0a 01       		.byte	0x1
@@ -2038,7 +2038,7 @@ ARM GAS  /tmp/ccVc21rY.s 			page 1
  1927 0a67 EE010000 		.4byte	.LVL71
  1928 0a6b C20B0000 		.4byte	0xbc2
  1929 0a6f 830A0000 		.4byte	0xa83
-ARM GAS  /tmp/ccVc21rY.s 			page 35
+ARM GAS  /tmp/cczDPCiM.s 			page 35
 
 
  1930 0a73 1F       		.uleb128 0x1f
@@ -2098,7 +2098,7 @@ ARM GAS  /tmp/ccVc21rY.s 			page 1
  1984 0ad3 DE0A0000 		.4byte	0xade
  1985 0ad7 1F       		.uleb128 0x1f
  1986 0ad8 01       		.byte	0x1
-ARM GAS  /tmp/ccVc21rY.s 			page 36
+ARM GAS  /tmp/cczDPCiM.s 			page 36
 
 
  1987 0ad9 50       		.byte	0x50
@@ -2158,7 +2158,7 @@ ARM GAS  /tmp/ccVc21rY.s 			page 1
  2041 0b36 22       		.uleb128 0x22
  2042 0b37 18000000 		.4byte	.LVL85
  2043 0b3b 01       		.byte	0x1
-ARM GAS  /tmp/ccVc21rY.s 			page 37
+ARM GAS  /tmp/cczDPCiM.s 			page 37
 
 
  2044 0b3c 330C0000 		.4byte	0xc33
@@ -2218,7 +2218,7 @@ ARM GAS  /tmp/ccVc21rY.s 			page 1
  2098 0ba3 9A       		.byte	0x9a
  2099 0ba4 AF0B0000 		.4byte	0xbaf
  2100 0ba8 01       		.byte	0x1
-ARM GAS  /tmp/ccVc21rY.s 			page 38
+ARM GAS  /tmp/cczDPCiM.s 			page 38
 
 
  2101 0ba9 05       		.byte	0x5
@@ -2278,7 +2278,7 @@ ARM GAS  /tmp/ccVc21rY.s 			page 1
  2155 0c15 3B000000 		.4byte	0x3b
  2156 0c19 0F       		.uleb128 0xf
  2157 0c1a A6000000 		.4byte	0xa6
-ARM GAS  /tmp/ccVc21rY.s 			page 39
+ARM GAS  /tmp/cczDPCiM.s 			page 39
 
 
  2158 0c1e 00       		.byte	0
@@ -2338,7 +2338,7 @@ ARM GAS  /tmp/ccVc21rY.s 			page 1
  2212 0019 0B       		.uleb128 0xb
  2213 001a 3E       		.uleb128 0x3e
  2214 001b 0B       		.uleb128 0xb
-ARM GAS  /tmp/ccVc21rY.s 			page 40
+ARM GAS  /tmp/cczDPCiM.s 			page 40
 
 
  2215 001c 03       		.uleb128 0x3
@@ -2398,7 +2398,7 @@ ARM GAS  /tmp/ccVc21rY.s 			page 1
  2269 0052 38       		.uleb128 0x38
  2270 0053 0A       		.uleb128 0xa
  2271 0054 00       		.byte	0
-ARM GAS  /tmp/ccVc21rY.s 			page 41
+ARM GAS  /tmp/cczDPCiM.s 			page 41
 
 
  2272 0055 00       		.byte	0
@@ -2458,7 +2458,7 @@ ARM GAS  /tmp/ccVc21rY.s 			page 1
  2326 008b 3B       		.uleb128 0x3b
  2327 008c 05       		.uleb128 0x5
  2328 008d 01       		.uleb128 0x1
-ARM GAS  /tmp/ccVc21rY.s 			page 42
+ARM GAS  /tmp/cczDPCiM.s 			page 42
 
 
  2329 008e 13       		.uleb128 0x13
@@ -2518,7 +2518,7 @@ ARM GAS  /tmp/ccVc21rY.s 			page 1
  2383 00c4 00       		.byte	0
  2384 00c5 00       		.byte	0
  2385 00c6 11       		.uleb128 0x11
-ARM GAS  /tmp/ccVc21rY.s 			page 43
+ARM GAS  /tmp/cczDPCiM.s 			page 43
 
 
  2386 00c7 0D       		.uleb128 0xd
@@ -2578,7 +2578,7 @@ ARM GAS  /tmp/ccVc21rY.s 			page 1
  2440 00fd 16       		.uleb128 0x16
  2441 00fe 13       		.uleb128 0x13
  2442 00ff 01       		.byte	0x1
-ARM GAS  /tmp/ccVc21rY.s 			page 44
+ARM GAS  /tmp/cczDPCiM.s 			page 44
 
 
  2443 0100 0B       		.uleb128 0xb
@@ -2638,7 +2638,7 @@ ARM GAS  /tmp/ccVc21rY.s 			page 1
  2497 0136 01       		.byte	0x1
  2498 0137 03       		.uleb128 0x3
  2499 0138 0E       		.uleb128 0xe
-ARM GAS  /tmp/ccVc21rY.s 			page 45
+ARM GAS  /tmp/cczDPCiM.s 			page 45
 
 
  2500 0139 3A       		.uleb128 0x3a
@@ -2698,7 +2698,7 @@ ARM GAS  /tmp/ccVc21rY.s 			page 1
  2554 0174 8A8201   		.uleb128 0x410a
  2555 0177 00       		.byte	0
  2556 0178 02       		.uleb128 0x2
-ARM GAS  /tmp/ccVc21rY.s 			page 46
+ARM GAS  /tmp/cczDPCiM.s 			page 46
 
 
  2557 0179 0A       		.uleb128 0xa
@@ -2758,7 +2758,7 @@ ARM GAS  /tmp/ccVc21rY.s 			page 1
  2611 01b6 0B       		.uleb128 0xb
  2612 01b7 3B       		.uleb128 0x3b
  2613 01b8 0B       		.uleb128 0xb
-ARM GAS  /tmp/ccVc21rY.s 			page 47
+ARM GAS  /tmp/cczDPCiM.s 			page 47
 
 
  2614 01b9 49       		.uleb128 0x49
@@ -2818,7 +2818,7 @@ ARM GAS  /tmp/ccVc21rY.s 			page 1
  2668 01ef 13       		.uleb128 0x13
  2669 01f0 3C       		.uleb128 0x3c
  2670 01f1 0C       		.uleb128 0xc
-ARM GAS  /tmp/ccVc21rY.s 			page 48
+ARM GAS  /tmp/cczDPCiM.s 			page 48
 
 
  2671 01f2 00       		.byte	0
@@ -2878,7 +2878,7 @@ ARM GAS  /tmp/ccVc21rY.s 			page 1
  2725 0228 0C       		.uleb128 0xc
  2726 0229 3C       		.uleb128 0x3c
  2727 022a 0C       		.uleb128 0xc
-ARM GAS  /tmp/ccVc21rY.s 			page 49
+ARM GAS  /tmp/cczDPCiM.s 			page 49
 
 
  2728 022b 00       		.byte	0
@@ -2938,7 +2938,7 @@ ARM GAS  /tmp/ccVc21rY.s 			page 1
  2782 0081 0100     		.2byte	0x1
  2783 0083 54       		.byte	0x54
  2784 0084 F8000000 		.4byte	.LVL39
-ARM GAS  /tmp/ccVc21rY.s 			page 50
+ARM GAS  /tmp/cczDPCiM.s 			page 50
 
 
  2785 0088 FA000000 		.4byte	.LVL40
@@ -2998,7 +2998,7 @@ ARM GAS  /tmp/ccVc21rY.s 			page 1
  2839 011b 02010000 		.4byte	.LVL43
  2840 011f 8A010000 		.4byte	.LVL58
  2841 0123 0100     		.2byte	0x1
-ARM GAS  /tmp/ccVc21rY.s 			page 51
+ARM GAS  /tmp/cczDPCiM.s 			page 51
 
 
  2842 0125 55       		.byte	0x55
@@ -3058,7 +3058,7 @@ ARM GAS  /tmp/ccVc21rY.s 			page 1
  2896 01b0 34020000 		.4byte	.LVL80
  2897 01b4 48020000 		.4byte	.LVL84
  2898 01b8 0200     		.2byte	0x2
-ARM GAS  /tmp/ccVc21rY.s 			page 52
+ARM GAS  /tmp/cczDPCiM.s 			page 52
 
 
  2899 01ba 91       		.byte	0x91
@@ -3118,7 +3118,7 @@ ARM GAS  /tmp/ccVc21rY.s 			page 1
  2939      6720756E 
  2939      7369676E 
  2939      65642069 
-ARM GAS  /tmp/ccVc21rY.s 			page 53
+ARM GAS  /tmp/cczDPCiM.s 			page 53
 
 
  2940              	.LASF66:
@@ -3178,7 +3178,7 @@ ARM GAS  /tmp/ccVc21rY.s 			page 1
  2971 00c7 74736C69 		.ascii	"tslices_t\000"
  2971      6365735F 
  2971      7400
-ARM GAS  /tmp/ccVc21rY.s 			page 54
+ARM GAS  /tmp/cczDPCiM.s 			page 54
 
 
  2972              	.LASF8:
@@ -3238,7 +3238,7 @@ ARM GAS  /tmp/ccVc21rY.s 			page 1
  2999 0155 6D73675F 		.ascii	"msg_t\000"
  2999      7400
  3000              	.LASF16:
-ARM GAS  /tmp/ccVc21rY.s 			page 55
+ARM GAS  /tmp/cczDPCiM.s 			page 55
 
 
  3001 015b 746D6F64 		.ascii	"tmode_t\000"
@@ -3298,7 +3298,7 @@ ARM GAS  /tmp/ccVc21rY.s 			page 1
  3028              	.LASF26:
  3029 01f8 705F7072 		.ascii	"p_prev\000"
  3029      657600
-ARM GAS  /tmp/ccVc21rY.s 			page 56
+ARM GAS  /tmp/cczDPCiM.s 			page 56
 
 
  3030              	.LASF74:
@@ -3358,7 +3358,7 @@ ARM GAS  /tmp/ccVc21rY.s 			page 1
  3056      736B00
  3057              	.LASF25:
  3058 02dc 705F6E65 		.ascii	"p_next\000"
-ARM GAS  /tmp/ccVc21rY.s 			page 57
+ARM GAS  /tmp/cczDPCiM.s 			page 57
 
 
  3058      787400
@@ -3418,7 +3418,7 @@ ARM GAS  /tmp/ccVc21rY.s 			page 1
  3088      20636861 
  3088      7200
  3089              	.LASF48:
-ARM GAS  /tmp/ccVc21rY.s 			page 58
+ARM GAS  /tmp/cczDPCiM.s 			page 58
 
 
  3090 036a 696E7463 		.ascii	"intctx\000"
@@ -3468,24 +3468,24 @@ ARM GAS  /tmp/ccVc21rY.s 			page 1
  3114      72795F68 
  3114      65617000 
  3115              		.ident	"GCC: (GNU Tools for ARM Embedded Processors) 4.7.3 20130312 (release) [ARM/embedded-4_7-br
-ARM GAS  /tmp/ccVc21rY.s 			page 59
+ARM GAS  /tmp/cczDPCiM.s 			page 59
 
 
 DEFINED SYMBOLS
                             *ABS*:00000000 testheap.c
-     /tmp/ccVc21rY.s:19     .text.heap1_execute:00000000 $t
-     /tmp/ccVc21rY.s:24     .text.heap1_execute:00000000 heap1_execute
-     /tmp/ccVc21rY.s:411    .text.heap1_execute:0000024c $d
-     /tmp/ccVc21rY.s:416    .text.heap1_setup:00000000 $t
-     /tmp/ccVc21rY.s:421    .text.heap1_setup:00000000 heap1_setup
-     /tmp/ccVc21rY.s:465    .bss.test_heap:00000000 .LANCHOR0
-     /tmp/ccVc21rY.s:447    .rodata.patternheap:00000000 patternheap
-     /tmp/ccVc21rY.s:458    .rodata.testheap1:00000000 testheap1
-     /tmp/ccVc21rY.s:444    .rodata.patternheap:00000000 $d
-     /tmp/ccVc21rY.s:451    .rodata.str1.4:00000000 $d
-     /tmp/ccVc21rY.s:455    .rodata.testheap1:00000000 $d
-     /tmp/ccVc21rY.s:464    .bss.test_heap:00000000 $d
-     /tmp/ccVc21rY.s:468    .bss.test_heap:00000000 test_heap
+     /tmp/cczDPCiM.s:19     .text.heap1_execute:00000000 $t
+     /tmp/cczDPCiM.s:24     .text.heap1_execute:00000000 heap1_execute
+     /tmp/cczDPCiM.s:411    .text.heap1_execute:0000024c $d
+     /tmp/cczDPCiM.s:416    .text.heap1_setup:00000000 $t
+     /tmp/cczDPCiM.s:421    .text.heap1_setup:00000000 heap1_setup
+     /tmp/cczDPCiM.s:465    .bss.test_heap:00000000 .LANCHOR0
+     /tmp/cczDPCiM.s:447    .rodata.patternheap:00000000 patternheap
+     /tmp/cczDPCiM.s:458    .rodata.testheap1:00000000 testheap1
+     /tmp/cczDPCiM.s:444    .rodata.patternheap:00000000 $d
+     /tmp/cczDPCiM.s:451    .rodata.str1.4:00000000 $d
+     /tmp/cczDPCiM.s:455    .rodata.testheap1:00000000 $d
+     /tmp/cczDPCiM.s:464    .bss.test_heap:00000000 $d
+     /tmp/cczDPCiM.s:468    .bss.test_heap:00000000 test_heap
                      .debug_frame:00000010 $d
 
 UNDEFINED SYMBOLS

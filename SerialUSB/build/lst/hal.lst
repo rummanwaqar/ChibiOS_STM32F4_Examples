@@ -1,4 +1,4 @@
-ARM GAS  /tmp/ccQk8Iqo.s 			page 1
+ARM GAS  /tmp/ccKO3W8a.s 			page 1
 
 
    1              		.syntax unified
@@ -58,7 +58,7 @@ ARM GAS  /tmp/ccQk8Iqo.s 			page 1
   55 001e FFF7FEFF 		bl	usbInit
   56              	.LVL5:
   57              		.loc 1 114 0
-ARM GAS  /tmp/ccQk8Iqo.s 			page 2
+ARM GAS  /tmp/ccKO3W8a.s 			page 2
 
 
   58 0022 FFF7FEFF 		bl	sduInit
@@ -118,7 +118,7 @@ ARM GAS  /tmp/ccQk8Iqo.s 			page 1
  112 0022 7047     		bx	lr
  113              	.LVL13:
  114              	.L7:
-ARM GAS  /tmp/ccQk8Iqo.s 			page 3
+ARM GAS  /tmp/ccKO3W8a.s 			page 3
 
 
  115              		.loc 1 170 0
@@ -178,7 +178,7 @@ ARM GAS  /tmp/ccQk8Iqo.s 			page 1
  168 001a 9A42     		cmp	r2, r3
  169 001c F7D9     		bls	.L21
  170              	.L22:
-ARM GAS  /tmp/ccQk8Iqo.s 			page 4
+ARM GAS  /tmp/ccKO3W8a.s 			page 4
 
 
  171 001e 9842     		cmp	r0, r3
@@ -238,7 +238,7 @@ ARM GAS  /tmp/ccQk8Iqo.s 			page 1
  225 003a 8C010000 		.4byte	.LASF1
  226 003e 03       		.uleb128 0x3
  227 003f 01       		.byte	0x1
-ARM GAS  /tmp/ccQk8Iqo.s 			page 5
+ARM GAS  /tmp/ccKO3W8a.s 			page 5
 
 
  228 0040 08       		.byte	0x8
@@ -298,7 +298,7 @@ ARM GAS  /tmp/ccQk8Iqo.s 			page 1
  282 00a9 07       		.byte	0x7
  283 00aa 31000000 		.4byte	.LASF14
  284 00ae 06       		.uleb128 0x6
-ARM GAS  /tmp/ccQk8Iqo.s 			page 6
+ARM GAS  /tmp/ccKO3W8a.s 			page 6
 
 
  285 00af 20       		.byte	0x20
@@ -358,7 +358,7 @@ ARM GAS  /tmp/ccQk8Iqo.s 			page 1
  339 0115 04       		.byte	0x4
  340 0116 0601     		.2byte	0x106
  341 0118 97000000 		.4byte	0x97
-ARM GAS  /tmp/ccQk8Iqo.s 			page 7
+ARM GAS  /tmp/ccKO3W8a.s 			page 7
 
 
  342 011c 02       		.byte	0x2
@@ -418,7 +418,7 @@ ARM GAS  /tmp/ccQk8Iqo.s 			page 1
  396 0182 02       		.byte	0x2
  397 0183 23       		.byte	0x23
  398 0184 08       		.uleb128 0x8
-ARM GAS  /tmp/ccQk8Iqo.s 			page 8
+ARM GAS  /tmp/ccKO3W8a.s 			page 8
 
 
  399 0185 09       		.uleb128 0x9
@@ -478,7 +478,7 @@ ARM GAS  /tmp/ccQk8Iqo.s 			page 1
  453 01e5 BF       		.byte	0xbf
  454 01e6 BE010000 		.4byte	0x1be
  455 01ea 02       		.byte	0x2
-ARM GAS  /tmp/ccQk8Iqo.s 			page 9
+ARM GAS  /tmp/ccKO3W8a.s 			page 9
 
 
  456 01eb 23       		.byte	0x23
@@ -538,7 +538,7 @@ ARM GAS  /tmp/ccQk8Iqo.s 			page 1
  510 024b BE010000 		.4byte	0x1be
  511 024f 03       		.byte	0x3
  512 0250 23       		.byte	0x23
-ARM GAS  /tmp/ccQk8Iqo.s 			page 10
+ARM GAS  /tmp/ccKO3W8a.s 			page 10
 
 
  513 0251 E001     		.uleb128 0xe0
@@ -598,7 +598,7 @@ ARM GAS  /tmp/ccQk8Iqo.s 			page 1
  567 02cd E5030000 		.4byte	0x3e5
  568 02d1 10       		.uleb128 0x10
  569 02d2 1E000000 		.4byte	.LVL4
-ARM GAS  /tmp/ccQk8Iqo.s 			page 11
+ARM GAS  /tmp/ccKO3W8a.s 			page 11
 
 
  570 02d6 F0030000 		.4byte	0x3f0
@@ -658,7 +658,7 @@ ARM GAS  /tmp/ccQk8Iqo.s 			page 1
  624 0351 01       		.byte	0x1
  625 0352 BB       		.byte	0xbb
  626 0353 47010000 		.4byte	0x147
-ARM GAS  /tmp/ccQk8Iqo.s 			page 12
+ARM GAS  /tmp/ccKO3W8a.s 			page 12
 
 
  627 0357 01       		.byte	0x1
@@ -718,7 +718,7 @@ ARM GAS  /tmp/ccQk8Iqo.s 			page 1
  681 03c0 1F       		.uleb128 0x1f
  682 03c1 01       		.byte	0x1
  683 03c2 06000000 		.4byte	.LASF61
-ARM GAS  /tmp/ccQk8Iqo.s 			page 13
+ARM GAS  /tmp/ccKO3W8a.s 			page 13
 
 
  684 03c6 06       		.byte	0x6
@@ -778,7 +778,7 @@ ARM GAS  /tmp/ccQk8Iqo.s 			page 1
  738              		.section	.debug_abbrev,"",%progbits
  739              	.Ldebug_abbrev0:
  740 0000 01       		.uleb128 0x1
-ARM GAS  /tmp/ccQk8Iqo.s 			page 14
+ARM GAS  /tmp/ccKO3W8a.s 			page 14
 
 
  741 0001 11       		.uleb128 0x11
@@ -838,7 +838,7 @@ ARM GAS  /tmp/ccQk8Iqo.s 			page 1
  795 0037 00       		.byte	0
  796 0038 05       		.uleb128 0x5
  797 0039 35       		.uleb128 0x35
-ARM GAS  /tmp/ccQk8Iqo.s 			page 15
+ARM GAS  /tmp/ccKO3W8a.s 			page 15
 
 
  798 003a 00       		.byte	0
@@ -898,7 +898,7 @@ ARM GAS  /tmp/ccQk8Iqo.s 			page 1
  852 0070 0B       		.uleb128 0xb
  853 0071 49       		.uleb128 0x49
  854 0072 13       		.uleb128 0x13
-ARM GAS  /tmp/ccQk8Iqo.s 			page 16
+ARM GAS  /tmp/ccKO3W8a.s 			page 16
 
 
  855 0073 38       		.uleb128 0x38
@@ -958,7 +958,7 @@ ARM GAS  /tmp/ccQk8Iqo.s 			page 1
  909 00a9 05       		.uleb128 0x5
  910 00aa 00       		.byte	0
  911 00ab 03       		.uleb128 0x3
-ARM GAS  /tmp/ccQk8Iqo.s 			page 17
+ARM GAS  /tmp/ccKO3W8a.s 			page 17
 
 
  912 00ac 08       		.uleb128 0x8
@@ -1018,7 +1018,7 @@ ARM GAS  /tmp/ccQk8Iqo.s 			page 1
  966 00e5 00       		.byte	0
  967 00e6 00       		.byte	0
  968 00e7 11       		.uleb128 0x11
-ARM GAS  /tmp/ccQk8Iqo.s 			page 18
+ARM GAS  /tmp/ccKO3W8a.s 			page 18
 
 
  969 00e8 898201   		.uleb128 0x4109
@@ -1078,7 +1078,7 @@ ARM GAS  /tmp/ccQk8Iqo.s 			page 1
  1023 0122 16       		.uleb128 0x16
  1024 0123 2E       		.uleb128 0x2e
  1025 0124 01       		.byte	0x1
-ARM GAS  /tmp/ccQk8Iqo.s 			page 19
+ARM GAS  /tmp/ccKO3W8a.s 			page 19
 
 
  1026 0125 3F       		.uleb128 0x3f
@@ -1138,7 +1138,7 @@ ARM GAS  /tmp/ccQk8Iqo.s 			page 1
  1080 015c 01       		.byte	0x1
  1081 015d 31       		.uleb128 0x31
  1082 015e 13       		.uleb128 0x13
-ARM GAS  /tmp/ccQk8Iqo.s 			page 20
+ARM GAS  /tmp/ccKO3W8a.s 			page 20
 
 
  1083 015f 52       		.uleb128 0x52
@@ -1198,7 +1198,7 @@ ARM GAS  /tmp/ccQk8Iqo.s 			page 1
  1137 0195 0C       		.uleb128 0xc
  1138 0196 03       		.uleb128 0x3
  1139 0197 0E       		.uleb128 0xe
-ARM GAS  /tmp/ccQk8Iqo.s 			page 21
+ARM GAS  /tmp/ccKO3W8a.s 			page 21
 
 
  1140 0198 3A       		.uleb128 0x3a
@@ -1258,7 +1258,7 @@ ARM GAS  /tmp/ccQk8Iqo.s 			page 1
  1194 01ce 3B       		.uleb128 0x3b
  1195 01cf 0B       		.uleb128 0xb
  1196 01d0 27       		.uleb128 0x27
-ARM GAS  /tmp/ccQk8Iqo.s 			page 22
+ARM GAS  /tmp/ccKO3W8a.s 			page 22
 
 
  1197 01d1 0C       		.uleb128 0xc
@@ -1318,7 +1318,7 @@ ARM GAS  /tmp/ccQk8Iqo.s 			page 1
  1251 006a 9F       		.byte	0x9f
  1252 006b 00000000 		.4byte	0
  1253 006f 00000000 		.4byte	0
-ARM GAS  /tmp/ccQk8Iqo.s 			page 23
+ARM GAS  /tmp/ccKO3W8a.s 			page 23
 
 
  1254              	.LLST2:
@@ -1378,7 +1378,7 @@ ARM GAS  /tmp/ccQk8Iqo.s 			page 1
  1308 003c 28000000 		.4byte	.LFE119
  1309 0040 00000000 		.4byte	.LFB120
  1310 0044 2C000000 		.4byte	.LFE120
-ARM GAS  /tmp/ccQk8Iqo.s 			page 24
+ARM GAS  /tmp/ccKO3W8a.s 			page 24
 
 
  1311 0048 00000000 		.4byte	0
@@ -1438,7 +1438,7 @@ ARM GAS  /tmp/ccQk8Iqo.s 			page 1
  1341      2E2F4368 
  1341      6962694F 
  1341      532F6F73 
-ARM GAS  /tmp/ccQk8Iqo.s 			page 25
+ARM GAS  /tmp/ccKO3W8a.s 			page 25
 
 
  1341      2F68616C 
@@ -1498,7 +1498,7 @@ ARM GAS  /tmp/ccQk8Iqo.s 			page 1
  1369              	.LASF58:
  1370 0140 2F686F6D 		.ascii	"/home/rumman/Documents/ChibiOS_Examples/SerialUSB\000"
  1370      652F7275 
-ARM GAS  /tmp/ccQk8Iqo.s 			page 26
+ARM GAS  /tmp/ccKO3W8a.s 			page 26
 
 
  1370      6D6D616E 
@@ -1558,7 +1558,7 @@ ARM GAS  /tmp/ccQk8Iqo.s 			page 1
  1395              	.LASF6:
  1396 01fd 696E7433 		.ascii	"int32_t\000"
  1396      325F7400 
-ARM GAS  /tmp/ccQk8Iqo.s 			page 27
+ARM GAS  /tmp/ccKO3W8a.s 			page 27
 
 
  1397              	.LASF11:
@@ -1618,7 +1618,7 @@ ARM GAS  /tmp/ccQk8Iqo.s 			page 1
  1429              	.LASF47:
  1430 0283 49544D5F 		.ascii	"ITM_RxBuffer\000"
  1430      52784275 
-ARM GAS  /tmp/ccQk8Iqo.s 			page 28
+ARM GAS  /tmp/ccKO3W8a.s 			page 28
 
 
  1430      66666572 
@@ -1644,17 +1644,17 @@ ARM GAS  /tmp/ccQk8Iqo.s 			page 1
  1440 02bf 74696D65 		.ascii	"timeout\000"
  1440      6F757400 
  1441              		.ident	"GCC: (GNU Tools for ARM Embedded Processors) 4.7.3 20130312 (release) [ARM/embedded-4_7-br
-ARM GAS  /tmp/ccQk8Iqo.s 			page 29
+ARM GAS  /tmp/ccKO3W8a.s 			page 29
 
 
 DEFINED SYMBOLS
                             *ABS*:00000000 hal.c
-     /tmp/ccQk8Iqo.s:19     .text.halInit:00000000 $t
-     /tmp/ccQk8Iqo.s:25     .text.halInit:00000000 halInit
-     /tmp/ccQk8Iqo.s:69     .text.halIsCounterWithin:00000000 $t
-     /tmp/ccQk8Iqo.s:75     .text.halIsCounterWithin:00000000 halIsCounterWithin
-     /tmp/ccQk8Iqo.s:123    .text.halPolledDelay:00000000 $t
-     /tmp/ccQk8Iqo.s:129    .text.halPolledDelay:00000000 halPolledDelay
+     /tmp/ccKO3W8a.s:19     .text.halInit:00000000 $t
+     /tmp/ccKO3W8a.s:25     .text.halInit:00000000 halInit
+     /tmp/ccKO3W8a.s:69     .text.halIsCounterWithin:00000000 $t
+     /tmp/ccKO3W8a.s:75     .text.halIsCounterWithin:00000000 halIsCounterWithin
+     /tmp/ccKO3W8a.s:123    .text.halPolledDelay:00000000 $t
+     /tmp/ccKO3W8a.s:129    .text.halPolledDelay:00000000 halPolledDelay
                      .debug_frame:00000010 $d
 
 UNDEFINED SYMBOLS

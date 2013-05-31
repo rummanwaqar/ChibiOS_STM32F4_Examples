@@ -1,4 +1,4 @@
-ARM GAS  /tmp/ccC6jPV0.s 			page 1
+ARM GAS  /tmp/ccWdMXpT.s 			page 1
 
 
    1              		.syntax unified
@@ -58,7 +58,7 @@ ARM GAS  /tmp/ccC6jPV0.s 			page 1
   55              	.L2:
   56 0028 07000000 		.word	__heap_base__+7
   57              		.cfi_endproc
-ARM GAS  /tmp/ccC6jPV0.s 			page 2
+ARM GAS  /tmp/ccWdMXpT.s 			page 2
 
 
   58              	.LFE7:
@@ -118,7 +118,7 @@ ARM GAS  /tmp/ccC6jPV0.s 			page 1
  112              	.LBB9:
  113              		.loc 1 89 0
  114 0020 0023     		movs	r3, #0
-ARM GAS  /tmp/ccC6jPV0.s 			page 3
+ARM GAS  /tmp/ccWdMXpT.s 			page 3
 
 
  115              	.LVL9:
@@ -178,7 +178,7 @@ ARM GAS  /tmp/ccC6jPV0.s 			page 1
  167              		.loc 1 112 0
  168 0018 0023     		movhi	r3, #0
  169              	.LVL16:
-ARM GAS  /tmp/ccC6jPV0.s 			page 4
+ARM GAS  /tmp/ccWdMXpT.s 			page 4
 
 
  170              		.loc 1 116 0
@@ -238,7 +238,7 @@ ARM GAS  /tmp/ccC6jPV0.s 			page 1
  222              		.text
  223              	.Letext0:
  224              		.file 2 "/opt/ARM/bin/../lib/gcc/arm-none-eabi/4.7.3/include/stddef.h"
-ARM GAS  /tmp/ccC6jPV0.s 			page 5
+ARM GAS  /tmp/ccWdMXpT.s 			page 5
 
 
  225              		.file 3 "/opt/ARM/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/include/stdint.h"
@@ -298,7 +298,7 @@ ARM GAS  /tmp/ccC6jPV0.s 			page 1
  279 0070 03       		.uleb128 0x3
  280 0071 0C010000 		.4byte	.LASF8
  281 0075 03       		.byte	0x3
-ARM GAS  /tmp/ccC6jPV0.s 			page 6
+ARM GAS  /tmp/ccWdMXpT.s 			page 6
 
 
  282 0076 50       		.byte	0x50
@@ -358,7 +358,7 @@ ARM GAS  /tmp/ccC6jPV0.s 			page 1
  336 00da 01       		.byte	0x1
  337 00db 3B       		.byte	0x3b
  338 00dc 01       		.byte	0x1
-ARM GAS  /tmp/ccC6jPV0.s 			page 7
+ARM GAS  /tmp/ccWdMXpT.s 			page 7
 
 
  339 00dd 00000000 		.4byte	.LFB7
@@ -418,7 +418,7 @@ ARM GAS  /tmp/ccC6jPV0.s 			page 1
  393 014a 11       		.uleb128 0x11
  394 014b 00000000 		.4byte	.LBB6
  395 014f 06000000 		.4byte	.LBE6
-ARM GAS  /tmp/ccC6jPV0.s 			page 8
+ARM GAS  /tmp/ccWdMXpT.s 			page 8
 
 
  396 0153 67010000 		.4byte	0x167
@@ -478,7 +478,7 @@ ARM GAS  /tmp/ccC6jPV0.s 			page 1
  450 01da 01       		.byte	0x1
  451 01db A6010000 		.4byte	.LASF26
  452 01df 01       		.byte	0x1
-ARM GAS  /tmp/ccC6jPV0.s 			page 9
+ARM GAS  /tmp/ccWdMXpT.s 			page 9
 
 
  453 01e0 7D       		.byte	0x7d
@@ -538,7 +538,7 @@ ARM GAS  /tmp/ccC6jPV0.s 			page 1
  507 000c 06       		.uleb128 0x6
  508 000d 11       		.uleb128 0x11
  509 000e 01       		.uleb128 0x1
-ARM GAS  /tmp/ccC6jPV0.s 			page 10
+ARM GAS  /tmp/ccWdMXpT.s 			page 10
 
 
  510 000f 52       		.uleb128 0x52
@@ -598,7 +598,7 @@ ARM GAS  /tmp/ccC6jPV0.s 			page 1
  564 0045 13       		.uleb128 0x13
  565 0046 00       		.byte	0
  566 0047 00       		.byte	0
-ARM GAS  /tmp/ccC6jPV0.s 			page 11
+ARM GAS  /tmp/ccWdMXpT.s 			page 11
 
 
  567 0048 07       		.uleb128 0x7
@@ -658,7 +658,7 @@ ARM GAS  /tmp/ccC6jPV0.s 			page 1
  621 007e 3A       		.uleb128 0x3a
  622 007f 0B       		.uleb128 0xb
  623 0080 3B       		.uleb128 0x3b
-ARM GAS  /tmp/ccC6jPV0.s 			page 12
+ARM GAS  /tmp/ccWdMXpT.s 			page 12
 
 
  624 0081 0B       		.uleb128 0xb
@@ -718,7 +718,7 @@ ARM GAS  /tmp/ccC6jPV0.s 			page 1
  678 00b8 0B       		.uleb128 0xb
  679 00b9 3B       		.uleb128 0x3b
  680 00ba 0B       		.uleb128 0xb
-ARM GAS  /tmp/ccC6jPV0.s 			page 13
+ARM GAS  /tmp/ccWdMXpT.s 			page 13
 
 
  681 00bb 27       		.uleb128 0x27
@@ -778,7 +778,7 @@ ARM GAS  /tmp/ccC6jPV0.s 			page 1
  735 00f2 13       		.uleb128 0x13
  736 00f3 00       		.byte	0
  737 00f4 00       		.byte	0
-ARM GAS  /tmp/ccC6jPV0.s 			page 14
+ARM GAS  /tmp/ccWdMXpT.s 			page 14
 
 
  738 00f5 12       		.uleb128 0x12
@@ -838,7 +838,7 @@ ARM GAS  /tmp/ccC6jPV0.s 			page 1
  792 012b 13       		.uleb128 0x13
  793 012c 02       		.uleb128 0x2
  794 012d 06       		.uleb128 0x6
-ARM GAS  /tmp/ccC6jPV0.s 			page 15
+ARM GAS  /tmp/ccWdMXpT.s 			page 15
 
 
  795 012e 00       		.byte	0
@@ -898,7 +898,7 @@ ARM GAS  /tmp/ccC6jPV0.s 			page 1
  849 0166 13       		.uleb128 0x13
  850 0167 02       		.uleb128 0x2
  851 0168 0A       		.uleb128 0xa
-ARM GAS  /tmp/ccC6jPV0.s 			page 16
+ARM GAS  /tmp/ccWdMXpT.s 			page 16
 
 
  852 0169 00       		.byte	0
@@ -958,7 +958,7 @@ ARM GAS  /tmp/ccC6jPV0.s 			page 1
  906 0072 07       		.uleb128 0x7
  907 0073 09       		.byte	0x9
  908 0074 F8       		.byte	0xf8
-ARM GAS  /tmp/ccC6jPV0.s 			page 17
+ARM GAS  /tmp/ccWdMXpT.s 			page 17
 
 
  909 0075 1A       		.byte	0x1a
@@ -1018,7 +1018,7 @@ ARM GAS  /tmp/ccC6jPV0.s 			page 1
  963 00f6 1A000000 		.4byte	.LVL16
  964 00fa 0100     		.2byte	0x1
  965 00fc 53       		.byte	0x53
-ARM GAS  /tmp/ccC6jPV0.s 			page 18
+ARM GAS  /tmp/ccWdMXpT.s 			page 18
 
 
  966 00fd 1A000000 		.4byte	.LVL16
@@ -1078,7 +1078,7 @@ ARM GAS  /tmp/ccC6jPV0.s 			page 1
  1009      6E7400
  1010              	.LASF20:
  1011 0021 2E2E2F2E 		.ascii	"../../ChibiOS/os/kernel/src/chmemcore.c\000"
-ARM GAS  /tmp/ccC6jPV0.s 			page 19
+ARM GAS  /tmp/ccWdMXpT.s 			page 19
 
 
  1011      2E2F4368 
@@ -1138,7 +1138,7 @@ ARM GAS  /tmp/ccC6jPV0.s 			page 1
  1033              	.LASF25:
  1034 0100 6368436F 		.ascii	"chCoreAlloc\000"
  1034      7265416C 
-ARM GAS  /tmp/ccC6jPV0.s 			page 20
+ARM GAS  /tmp/ccWdMXpT.s 			page 20
 
 
  1034      6C6F6300 
@@ -1197,32 +1197,32 @@ ARM GAS  /tmp/ccC6jPV0.s 			page 1
  1060      61747573 
  1060      00
  1061              		.ident	"GCC: (GNU Tools for ARM Embedded Processors) 4.7.3 20130312 (release) [ARM/embedded-4_7-br
-ARM GAS  /tmp/ccC6jPV0.s 			page 21
+ARM GAS  /tmp/ccWdMXpT.s 			page 21
 
 
 DEFINED SYMBOLS
                             *ABS*:00000000 chmemcore.c
-     /tmp/ccC6jPV0.s:19     .text._core_init:00000000 $t
-     /tmp/ccC6jPV0.s:25     .text._core_init:00000000 _core_init
-     /tmp/ccC6jPV0.s:217    .bss.nextmem:00000000 .LANCHOR0
-     /tmp/ccC6jPV0.s:210    .bss.endmem:00000000 .LANCHOR1
-     /tmp/ccC6jPV0.s:56     .text._core_init:00000028 $d
-     /tmp/ccC6jPV0.s:61     .text.chCoreAlloc:00000000 $t
-     /tmp/ccC6jPV0.s:67     .text.chCoreAlloc:00000000 chCoreAlloc
-     /tmp/ccC6jPV0.s:128    .text.chCoreAlloc:0000002c $d
-     /tmp/ccC6jPV0.s:134    .text.chCoreAllocI:00000000 $t
-     /tmp/ccC6jPV0.s:140    .text.chCoreAllocI:00000000 chCoreAllocI
-     /tmp/ccC6jPV0.s:176    .text.chCoreAllocI:00000020 $d
-     /tmp/ccC6jPV0.s:182    .text.chCoreStatus:00000000 $t
-     /tmp/ccC6jPV0.s:188    .text.chCoreStatus:00000000 chCoreStatus
-     /tmp/ccC6jPV0.s:209    .bss.endmem:00000000 $d
-     /tmp/ccC6jPV0.s:213    .bss.endmem:00000000 endmem
-     /tmp/ccC6jPV0.s:216    .bss.nextmem:00000000 $d
-     /tmp/ccC6jPV0.s:220    .bss.nextmem:00000000 nextmem
+     /tmp/ccWdMXpT.s:19     .text._core_init:00000000 $t
+     /tmp/ccWdMXpT.s:25     .text._core_init:00000000 _core_init
+     /tmp/ccWdMXpT.s:217    .bss.nextmem:00000000 .LANCHOR0
+     /tmp/ccWdMXpT.s:210    .bss.endmem:00000000 .LANCHOR1
+     /tmp/ccWdMXpT.s:56     .text._core_init:00000028 $d
+     /tmp/ccWdMXpT.s:61     .text.chCoreAlloc:00000000 $t
+     /tmp/ccWdMXpT.s:67     .text.chCoreAlloc:00000000 chCoreAlloc
+     /tmp/ccWdMXpT.s:128    .text.chCoreAlloc:0000002c $d
+     /tmp/ccWdMXpT.s:134    .text.chCoreAllocI:00000000 $t
+     /tmp/ccWdMXpT.s:140    .text.chCoreAllocI:00000000 chCoreAllocI
+     /tmp/ccWdMXpT.s:176    .text.chCoreAllocI:00000020 $d
+     /tmp/ccWdMXpT.s:182    .text.chCoreStatus:00000000 $t
+     /tmp/ccWdMXpT.s:188    .text.chCoreStatus:00000000 chCoreStatus
+     /tmp/ccWdMXpT.s:209    .bss.endmem:00000000 $d
+     /tmp/ccWdMXpT.s:213    .bss.endmem:00000000 endmem
+     /tmp/ccWdMXpT.s:216    .bss.nextmem:00000000 $d
+     /tmp/ccWdMXpT.s:220    .bss.nextmem:00000000 nextmem
                      .debug_frame:00000010 $d
-     /tmp/ccC6jPV0.s:60     .text._core_init:0000002c $t
-     /tmp/ccC6jPV0.s:133    .text.chCoreAlloc:00000034 $t
-     /tmp/ccC6jPV0.s:181    .text.chCoreAllocI:00000028 $t
+     /tmp/ccWdMXpT.s:60     .text._core_init:0000002c $t
+     /tmp/ccWdMXpT.s:133    .text.chCoreAlloc:00000034 $t
+     /tmp/ccWdMXpT.s:181    .text.chCoreAllocI:00000028 $t
 
 UNDEFINED SYMBOLS
 __heap_end__

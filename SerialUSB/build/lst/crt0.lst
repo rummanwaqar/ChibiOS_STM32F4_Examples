@@ -1,4 +1,4 @@
-ARM GAS  /tmp/ccxrG2QK.s 			page 1
+ARM GAS  /tmp/cclBVPVN.s 			page 1
 
 
    1              		.syntax unified
@@ -58,7 +58,7 @@ ARM GAS  /tmp/ccxrG2QK.s 			page 1
   52              		.cfi_endproc
   53              	.LFE1:
   54              		.size	__late_init, .-__late_init
-ARM GAS  /tmp/ccxrG2QK.s 			page 2
+ARM GAS  /tmp/cclBVPVN.s 			page 2
 
 
   55 0002 00BFAFF3 		.section	.text._default_exit,"ax",%progbits
@@ -118,7 +118,7 @@ ARM GAS  /tmp/ccxrG2QK.s 			page 1
  103 0008 0223     		movs	r3, #2
  104              	@ 289 "../../ChibiOS/os/ports/GCC/ARMCMx/crt0.c" 1
  105 000a 83F31488 		msr     CONTROL, r3
-ARM GAS  /tmp/ccxrG2QK.s 			page 3
+ARM GAS  /tmp/cclBVPVN.s 			page 3
 
 
  106              	@ 0 "" 2
@@ -178,7 +178,7 @@ ARM GAS  /tmp/ccxrG2QK.s 			page 1
  160              		.loc 1 261 0
  161 0052 5449     		ldr	r1, .L68+16
  162 0054 041D     		adds	r4, r0, #4
-ARM GAS  /tmp/ccxrG2QK.s 			page 4
+ARM GAS  /tmp/cclBVPVN.s 			page 4
 
 
  163 0056 0A1B     		subs	r2, r1, r4
@@ -238,7 +238,7 @@ ARM GAS  /tmp/ccxrG2QK.s 			page 1
  217 00a4 0D60     		str	r5, [r1, #0]
  218              	.LVL7:
  219 00a6 C2F38002 		ubfx	r2, r2, #2, #1
-ARM GAS  /tmp/ccxrG2QK.s 			page 5
+ARM GAS  /tmp/cclBVPVN.s 			page 5
 
 
  220              		.loc 1 312 0
@@ -298,7 +298,7 @@ ARM GAS  /tmp/ccxrG2QK.s 			page 1
  274 00ee 2346     		mov	r3, r4
  275 00f0 2160     		str	r1, [r4, #0]
  276 00f2 05D0     		beq	.L15
-ARM GAS  /tmp/ccxrG2QK.s 			page 6
+ARM GAS  /tmp/cclBVPVN.s 			page 6
 
 
  277              	.L19:
@@ -358,7 +358,7 @@ ARM GAS  /tmp/ccxrG2QK.s 			page 1
  331 013a 0234     		adds	r4, r4, #2
  332 013c A868     		ldr	r0, [r5, #8]
  333 013e 2E1D     		adds	r6, r5, #4
-ARM GAS  /tmp/ccxrG2QK.s 			page 7
+ARM GAS  /tmp/cclBVPVN.s 			page 7
 
 
  334 0140 8047     		blx	r0
@@ -418,7 +418,7 @@ ARM GAS  /tmp/ccxrG2QK.s 			page 1
  388              	.LVL19:
  389 018a 0835     		adds	r5, r5, #8
  390              		.loc 1 343 0
-ARM GAS  /tmp/ccxrG2QK.s 			page 8
+ARM GAS  /tmp/cclBVPVN.s 			page 8
 
 
  391 018c BC42     		cmp	r4, r7
@@ -478,7 +478,7 @@ ARM GAS  /tmp/ccxrG2QK.s 			page 1
  445 0037 3B000000 		.4byte	0x3b
  446 003b 02       		.uleb128 0x2
  447 003c 01       		.byte	0x1
-ARM GAS  /tmp/ccxrG2QK.s 			page 9
+ARM GAS  /tmp/cclBVPVN.s 			page 9
 
 
  448 003d 08       		.byte	0x8
@@ -538,7 +538,7 @@ ARM GAS  /tmp/ccxrG2QK.s 			page 1
  502 00a3 05       		.uleb128 0x5
  503 00a4 04       		.byte	0x4
  504 00a5 85000000 		.4byte	0x85
-ARM GAS  /tmp/ccxrG2QK.s 			page 10
+ARM GAS  /tmp/cclBVPVN.s 			page 10
 
 
  505 00a9 07       		.uleb128 0x7
@@ -598,7 +598,7 @@ ARM GAS  /tmp/ccxrG2QK.s 			page 1
  559 010e 01       		.byte	0x1
  560 010f 54       		.byte	0x54
  561 0110 0A       		.uleb128 0xa
-ARM GAS  /tmp/ccxrG2QK.s 			page 11
+ARM GAS  /tmp/cclBVPVN.s 			page 11
 
 
  562 0111 72656700 		.ascii	"reg\000"
@@ -658,7 +658,7 @@ ARM GAS  /tmp/ccxrG2QK.s 			page 1
  616 018d EE010000 		.4byte	0x1ee
  617 0191 0C       		.uleb128 0xc
  618 0192 703200   		.ascii	"p2\000"
-ARM GAS  /tmp/ccxrG2QK.s 			page 12
+ARM GAS  /tmp/cclBVPVN.s 			page 12
 
 
  619 0195 01       		.byte	0x1
@@ -718,7 +718,7 @@ ARM GAS  /tmp/ccxrG2QK.s 			page 1
  673 0213 01       		.byte	0x1
  674 0214 93       		.byte	0x93
  675 0215 57000000 		.4byte	0x57
-ARM GAS  /tmp/ccxrG2QK.s 			page 13
+ARM GAS  /tmp/cclBVPVN.s 			page 13
 
 
  676 0219 01       		.byte	0x1
@@ -778,7 +778,7 @@ ARM GAS  /tmp/ccxrG2QK.s 			page 1
  730 027c C4       		.byte	0xc4
  731 027d 85000000 		.4byte	0x85
  732 0281 01       		.byte	0x1
-ARM GAS  /tmp/ccxrG2QK.s 			page 14
+ARM GAS  /tmp/cclBVPVN.s 			page 14
 
 
  733 0282 01       		.byte	0x1
@@ -838,7 +838,7 @@ ARM GAS  /tmp/ccxrG2QK.s 			page 1
  787 001d 0E       		.uleb128 0xe
  788 001e 00       		.byte	0
  789 001f 00       		.byte	0
-ARM GAS  /tmp/ccxrG2QK.s 			page 15
+ARM GAS  /tmp/cclBVPVN.s 			page 15
 
 
  790 0020 03       		.uleb128 0x3
@@ -898,7 +898,7 @@ ARM GAS  /tmp/ccxrG2QK.s 			page 1
  844 0056 01       		.uleb128 0x1
  845 0057 12       		.uleb128 0x12
  846 0058 01       		.uleb128 0x1
-ARM GAS  /tmp/ccxrG2QK.s 			page 16
+ARM GAS  /tmp/cclBVPVN.s 			page 16
 
 
  847 0059 40       		.uleb128 0x40
@@ -958,7 +958,7 @@ ARM GAS  /tmp/ccxrG2QK.s 			page 1
  901 0091 05       		.uleb128 0x5
  902 0092 49       		.uleb128 0x49
  903 0093 13       		.uleb128 0x13
-ARM GAS  /tmp/ccxrG2QK.s 			page 17
+ARM GAS  /tmp/cclBVPVN.s 			page 17
 
 
  904 0094 1C       		.uleb128 0x1c
@@ -1018,7 +1018,7 @@ ARM GAS  /tmp/ccxrG2QK.s 			page 1
  958 00cc 00       		.byte	0
  959 00cd 3F       		.uleb128 0x3f
  960 00ce 0C       		.uleb128 0xc
-ARM GAS  /tmp/ccxrG2QK.s 			page 18
+ARM GAS  /tmp/cclBVPVN.s 			page 18
 
 
  961 00cf 03       		.uleb128 0x3
@@ -1078,7 +1078,7 @@ ARM GAS  /tmp/ccxrG2QK.s 			page 1
  1015 0054 00000000 		.4byte	0
  1016 0058 90000000 		.4byte	.LBB9
  1017 005c 9E000000 		.4byte	.LBE9
-ARM GAS  /tmp/ccxrG2QK.s 			page 19
+ARM GAS  /tmp/cclBVPVN.s 			page 19
 
 
  1018 0060 C8000000 		.4byte	.LBB11
@@ -1138,7 +1138,7 @@ ARM GAS  /tmp/ccxrG2QK.s 			page 1
  1060      2E2F4368 
  1060      6962694F 
  1060      532F6F73 
-ARM GAS  /tmp/ccxrG2QK.s 			page 20
+ARM GAS  /tmp/cclBVPVN.s 			page 20
 
 
  1060      2F706F72 
@@ -1198,7 +1198,7 @@ ARM GAS  /tmp/ccxrG2QK.s 			page 1
  1082      69745F61 
  1082      72726179 
  1082      5F656E64 
-ARM GAS  /tmp/ccxrG2QK.s 			page 21
+ARM GAS  /tmp/cclBVPVN.s 			page 21
 
 
  1082      00
@@ -1258,7 +1258,7 @@ ARM GAS  /tmp/ccxrG2QK.s 			page 1
  1105 01cc 616E6368 		.ascii	"anch revision 196615]\000"
  1105      20726576 
  1105      6973696F 
-ARM GAS  /tmp/ccxrG2QK.s 			page 22
+ARM GAS  /tmp/cclBVPVN.s 			page 22
 
 
  1105      6E203139 
@@ -1300,22 +1300,22 @@ ARM GAS  /tmp/ccxrG2QK.s 			page 1
  1121      5F656E64 
  1121      5F5F00
  1122              		.ident	"GCC: (GNU Tools for ARM Embedded Processors) 4.7.3 20130312 (release) [ARM/embedded-4_7-br
-ARM GAS  /tmp/ccxrG2QK.s 			page 23
+ARM GAS  /tmp/cclBVPVN.s 			page 23
 
 
 DEFINED SYMBOLS
                             *ABS*:00000000 crt0.c
-     /tmp/ccxrG2QK.s:19     .text.__early_init:00000000 $t
-     /tmp/ccxrG2QK.s:25     .text.__early_init:00000000 __early_init
-     /tmp/ccxrG2QK.s:38     .text.__late_init:00000000 $t
-     /tmp/ccxrG2QK.s:44     .text.__late_init:00000000 __late_init
-     /tmp/ccxrG2QK.s:56     .text._default_exit:00000000 $t
-     /tmp/ccxrG2QK.s:62     .text._default_exit:00000000 _default_exit
-     /tmp/ccxrG2QK.s:75     .text.ResetHandler:00000000 $t
-     /tmp/ccxrG2QK.s:81     .text.ResetHandler:00000000 ResetHandler
-     /tmp/ccxrG2QK.s:402    .text.ResetHandler:00000194 $d
+     /tmp/cclBVPVN.s:19     .text.__early_init:00000000 $t
+     /tmp/cclBVPVN.s:25     .text.__early_init:00000000 __early_init
+     /tmp/cclBVPVN.s:38     .text.__late_init:00000000 $t
+     /tmp/cclBVPVN.s:44     .text.__late_init:00000000 __late_init
+     /tmp/cclBVPVN.s:56     .text._default_exit:00000000 $t
+     /tmp/cclBVPVN.s:62     .text._default_exit:00000000 _default_exit
+     /tmp/cclBVPVN.s:75     .text.ResetHandler:00000000 $t
+     /tmp/cclBVPVN.s:81     .text.ResetHandler:00000000 ResetHandler
+     /tmp/cclBVPVN.s:402    .text.ResetHandler:00000194 $d
                      .debug_frame:00000010 $d
-     /tmp/ccxrG2QK.s:419    .text.ResetHandler:000001cc $t
+     /tmp/cclBVPVN.s:419    .text.ResetHandler:000001cc $t
 
 UNDEFINED SYMBOLS
 main

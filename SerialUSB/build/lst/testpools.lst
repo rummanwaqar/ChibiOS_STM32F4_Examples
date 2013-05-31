@@ -1,4 +1,4 @@
-ARM GAS  /tmp/cc7gi942.s 			page 1
+ARM GAS  /tmp/cc1jPRtQ.s 			page 1
 
 
    1              		.syntax unified
@@ -58,7 +58,7 @@ ARM GAS  /tmp/cc7gi942.s 			page 1
   53              		.loc 1 68 0
   54 0000 40F20000 		movw	r0, #:lower16:.LANCHOR0
   55 0004 C0F20000 		movt	r0, #:upper16:.LANCHOR0
-ARM GAS  /tmp/cc7gi942.s 			page 2
+ARM GAS  /tmp/cc1jPRtQ.s 			page 2
 
 
   56 0008 4FF49871 		mov	r1, #304
@@ -118,7 +118,7 @@ ARM GAS  /tmp/cc7gi942.s 			page 1
  107              	.LVL7:
  108 002e 011C     		adds	r1, r0, #0
  109 0030 18BF     		it	ne
-ARM GAS  /tmp/cc7gi942.s 			page 3
+ARM GAS  /tmp/cc1jPRtQ.s 			page 3
 
 
  110 0032 0121     		movne	r1, #1
@@ -178,7 +178,7 @@ ARM GAS  /tmp/cc7gi942.s 			page 1
  164 0096 51D1     		bne	.L3
  165              	.LBB4:
  166              	.LBB5:
-ARM GAS  /tmp/cc7gi942.s 			page 4
+ARM GAS  /tmp/cc1jPRtQ.s 			page 4
 
 
  167              		.loc 1 86 0
@@ -238,7 +238,7 @@ ARM GAS  /tmp/cc7gi942.s 			page 1
  221 00fc F0B9     		cbnz	r0, .L3
  222              	.LVL34:
  223 00fe 1948     		ldr	r0, .L9+4
-ARM GAS  /tmp/cc7gi942.s 			page 5
+ARM GAS  /tmp/cc1jPRtQ.s 			page 5
 
 
  224 0100 FFF7FEFF 		bl	chPoolAlloc
@@ -298,7 +298,7 @@ ARM GAS  /tmp/cc7gi942.s 			page 1
  278 0158 BDE83840 		pop	{r3, r4, r5, lr}
  279              	.LBB7:
  280              	.LBB6:
-ARM GAS  /tmp/cc7gi942.s 			page 6
+ARM GAS  /tmp/cc1jPRtQ.s 			page 6
 
 
  281              		.loc 1 97 0
@@ -358,7 +358,7 @@ ARM GAS  /tmp/cc7gi942.s 			page 1
  331              		.file 5 "../../ChibiOS/os/kernel/include/chmempools.h"
  332              		.file 6 "../../ChibiOS/test/test.h"
  333              		.section	.debug_info,"",%progbits
-ARM GAS  /tmp/cc7gi942.s 			page 7
+ARM GAS  /tmp/cc1jPRtQ.s 			page 7
 
 
  334              	.Ldebug_info0:
@@ -418,7 +418,7 @@ ARM GAS  /tmp/cc7gi942.s 			page 1
  388 006f 66010000 		.4byte	.LASF7
  389 0073 04       		.uleb128 0x4
  390 0074 08       		.byte	0x8
-ARM GAS  /tmp/cc7gi942.s 			page 8
+ARM GAS  /tmp/cc1jPRtQ.s 			page 8
 
 
  391 0075 07       		.byte	0x7
@@ -478,7 +478,7 @@ ARM GAS  /tmp/cc7gi942.s 			page 1
  445 00db 0A010000 		.4byte	0x10a
  446 00df 0A       		.uleb128 0xa
  447 00e0 14020000 		.4byte	.LASF15
-ARM GAS  /tmp/cc7gi942.s 			page 9
+ARM GAS  /tmp/cc1jPRtQ.s 			page 9
 
 
  448 00e4 05       		.byte	0x5
@@ -538,7 +538,7 @@ ARM GAS  /tmp/cc7gi942.s 			page 1
  502 0147 3D       		.byte	0x3d
  503 0148 6E010000 		.4byte	0x16e
  504 014c 02       		.byte	0x2
-ARM GAS  /tmp/cc7gi942.s 			page 10
+ARM GAS  /tmp/cc1jPRtQ.s 			page 10
 
 
  505 014d 23       		.byte	0x23
@@ -598,7 +598,7 @@ ARM GAS  /tmp/cc7gi942.s 			page 1
  559 01ae 30000000 		.4byte	0x30
  560 01b2 00000000 		.4byte	.LLST0
  561 01b6 00       		.byte	0
-ARM GAS  /tmp/cc7gi942.s 			page 11
+ARM GAS  /tmp/cc1jPRtQ.s 			page 11
 
 
  562 01b7 12       		.uleb128 0x12
@@ -658,7 +658,7 @@ ARM GAS  /tmp/cc7gi942.s 			page 1
  616 0227 16       		.uleb128 0x16
  617 0228 81010000 		.4byte	0x181
  618 022c 9D000000 		.4byte	.LLST3
-ARM GAS  /tmp/cc7gi942.s 			page 12
+ARM GAS  /tmp/cc1jPRtQ.s 			page 12
 
 
  619 0230 19       		.uleb128 0x19
@@ -718,7 +718,7 @@ ARM GAS  /tmp/cc7gi942.s 			page 1
  673 028a B8000000 		.4byte	.LVL24
  674 028e BF050000 		.4byte	0x5bf
  675 0292 A7020000 		.4byte	0x2a7
-ARM GAS  /tmp/cc7gi942.s 			page 13
+ARM GAS  /tmp/cc1jPRtQ.s 			page 13
 
 
  676 0296 14       		.uleb128 0x14
@@ -778,7 +778,7 @@ ARM GAS  /tmp/cc7gi942.s 			page 1
  730 02f0 DC000000 		.4byte	.LVL29
  731 02f4 D8050000 		.4byte	0x5d8
  732 02f8 06030000 		.4byte	0x306
-ARM GAS  /tmp/cc7gi942.s 			page 14
+ARM GAS  /tmp/cc1jPRtQ.s 			page 14
 
 
  733 02fc 14       		.uleb128 0x14
@@ -838,7 +838,7 @@ ARM GAS  /tmp/cc7gi942.s 			page 1
  787 0368 01       		.byte	0x1
  788 0369 50       		.byte	0x50
  789 036a 01       		.byte	0x1
-ARM GAS  /tmp/cc7gi942.s 			page 15
+ARM GAS  /tmp/cc1jPRtQ.s 			page 15
 
 
  790 036b 33       		.byte	0x33
@@ -898,7 +898,7 @@ ARM GAS  /tmp/cc7gi942.s 			page 1
  844 03d7 14       		.uleb128 0x14
  845 03d8 01       		.byte	0x1
  846 03d9 51       		.byte	0x51
-ARM GAS  /tmp/cc7gi942.s 			page 16
+ARM GAS  /tmp/cc1jPRtQ.s 			page 16
 
 
  847 03da 01       		.byte	0x1
@@ -958,7 +958,7 @@ ARM GAS  /tmp/cc7gi942.s 			page 1
  901 0431 19       		.uleb128 0x19
  902 0432 16000000 		.4byte	.LVL4
  903 0436 D8050000 		.4byte	0x5d8
-ARM GAS  /tmp/cc7gi942.s 			page 17
+ARM GAS  /tmp/cc1jPRtQ.s 			page 17
 
 
  904 043a 48040000 		.4byte	0x448
@@ -1018,7 +1018,7 @@ ARM GAS  /tmp/cc7gi942.s 			page 1
  958 04a9 14       		.uleb128 0x14
  959 04aa 01       		.byte	0x1
  960 04ab 50       		.byte	0x50
-ARM GAS  /tmp/cc7gi942.s 			page 18
+ARM GAS  /tmp/cc1jPRtQ.s 			page 18
 
 
  961 04ac 01       		.byte	0x1
@@ -1078,7 +1078,7 @@ ARM GAS  /tmp/cc7gi942.s 			page 1
  1015 0515 00000000 		.4byte	.LANCHOR0
  1016 0519 00       		.byte	0
  1017 051a 1A       		.uleb128 0x1a
-ARM GAS  /tmp/cc7gi942.s 			page 19
+ARM GAS  /tmp/cc1jPRtQ.s 			page 19
 
 
  1018 051b 94000000 		.4byte	.LVL20
@@ -1138,7 +1138,7 @@ ARM GAS  /tmp/cc7gi942.s 			page 1
  1072 0589 01       		.byte	0x1
  1073 058a 70       		.byte	0x70
  1074 058b 96050000 		.4byte	0x596
-ARM GAS  /tmp/cc7gi942.s 			page 20
+ARM GAS  /tmp/cc1jPRtQ.s 			page 20
 
 
  1075 058f 01       		.byte	0x1
@@ -1198,7 +1198,7 @@ ARM GAS  /tmp/cc7gi942.s 			page 1
  1129 05f8 01       		.byte	0x1
  1130 05f9 7A000000 		.4byte	0x7a
  1131 05fd 01       		.byte	0x1
-ARM GAS  /tmp/cc7gi942.s 			page 21
+ARM GAS  /tmp/cc1jPRtQ.s 			page 21
 
 
  1132 05fe 0D060000 		.4byte	0x60d
@@ -1258,7 +1258,7 @@ ARM GAS  /tmp/cc7gi942.s 			page 1
  1186 001f 00       		.byte	0
  1187 0020 03       		.uleb128 0x3
  1188 0021 16       		.uleb128 0x16
-ARM GAS  /tmp/cc7gi942.s 			page 22
+ARM GAS  /tmp/cc1jPRtQ.s 			page 22
 
 
  1189 0022 00       		.byte	0
@@ -1318,7 +1318,7 @@ ARM GAS  /tmp/cc7gi942.s 			page 1
  1243 0058 00       		.byte	0
  1244 0059 00       		.byte	0
  1245 005a 09       		.uleb128 0x9
-ARM GAS  /tmp/cc7gi942.s 			page 23
+ARM GAS  /tmp/cc1jPRtQ.s 			page 23
 
 
  1246 005b 13       		.uleb128 0x13
@@ -1378,7 +1378,7 @@ ARM GAS  /tmp/cc7gi942.s 			page 1
  1300 0091 00       		.byte	0
  1301 0092 00       		.byte	0
  1302 0093 0E       		.uleb128 0xe
-ARM GAS  /tmp/cc7gi942.s 			page 24
+ARM GAS  /tmp/cc1jPRtQ.s 			page 24
 
 
  1303 0094 2E       		.uleb128 0x2e
@@ -1438,7 +1438,7 @@ ARM GAS  /tmp/cc7gi942.s 			page 1
  1357 00cb 11       		.uleb128 0x11
  1358 00cc 05       		.uleb128 0x5
  1359 00cd 00       		.byte	0
-ARM GAS  /tmp/cc7gi942.s 			page 25
+ARM GAS  /tmp/cc1jPRtQ.s 			page 25
 
 
  1360 00ce 03       		.uleb128 0x3
@@ -1498,7 +1498,7 @@ ARM GAS  /tmp/cc7gi942.s 			page 1
  1414 010b 00       		.byte	0
  1415 010c 15       		.uleb128 0x15
  1416 010d 2E       		.uleb128 0x2e
-ARM GAS  /tmp/cc7gi942.s 			page 26
+ARM GAS  /tmp/cc1jPRtQ.s 			page 26
 
 
  1417 010e 01       		.byte	0x1
@@ -1558,7 +1558,7 @@ ARM GAS  /tmp/cc7gi942.s 			page 1
  1471 0147 13       		.uleb128 0x13
  1472 0148 01       		.uleb128 0x1
  1473 0149 13       		.uleb128 0x13
-ARM GAS  /tmp/cc7gi942.s 			page 27
+ARM GAS  /tmp/cc1jPRtQ.s 			page 27
 
 
  1474 014a 00       		.byte	0
@@ -1618,7 +1618,7 @@ ARM GAS  /tmp/cc7gi942.s 			page 1
  1528 0182 0C       		.uleb128 0xc
  1529 0183 00       		.byte	0
  1530 0184 00       		.byte	0
-ARM GAS  /tmp/cc7gi942.s 			page 28
+ARM GAS  /tmp/cc1jPRtQ.s 			page 28
 
 
  1531 0185 1F       		.uleb128 0x1f
@@ -1678,7 +1678,7 @@ ARM GAS  /tmp/cc7gi942.s 			page 1
  1585 01bb 3B       		.uleb128 0x3b
  1586 01bc 0B       		.uleb128 0xb
  1587 01bd 27       		.uleb128 0x27
-ARM GAS  /tmp/cc7gi942.s 			page 29
+ARM GAS  /tmp/cc1jPRtQ.s 			page 29
 
 
  1588 01be 0C       		.uleb128 0xc
@@ -1738,7 +1738,7 @@ ARM GAS  /tmp/cc7gi942.s 			page 1
  1642 0039 00000000 		.4byte	0
  1643 003d 00000000 		.4byte	0
  1644              	.LLST2:
-ARM GAS  /tmp/cc7gi942.s 			page 30
+ARM GAS  /tmp/cc1jPRtQ.s 			page 30
 
 
  1645 0041 10000000 		.4byte	.LVL3
@@ -1798,7 +1798,7 @@ ARM GAS  /tmp/cc7gi942.s 			page 1
  1699 00c5 C0000000 		.4byte	.LVL25
  1700 00c9 0200     		.2byte	0x2
  1701 00cb 34       		.byte	0x34
-ARM GAS  /tmp/cc7gi942.s 			page 31
+ARM GAS  /tmp/cc1jPRtQ.s 			page 31
 
 
  1702 00cc 9F       		.byte	0x9f
@@ -1858,7 +1858,7 @@ ARM GAS  /tmp/cc7gi942.s 			page 1
  1756              		.section	.debug_ranges,"",%progbits
  1757              	.Ldebug_ranges0:
  1758 0000 98000000 		.4byte	.LBB4
-ARM GAS  /tmp/cc7gi942.s 			page 32
+ARM GAS  /tmp/cc1jPRtQ.s 			page 32
 
 
  1759 0004 58010000 		.4byte	.LBE4
@@ -1918,7 +1918,7 @@ ARM GAS  /tmp/cc7gi942.s 			page 1
  1796      5F686561 
  1796      64657200 
  1797              	.LASF35:
-ARM GAS  /tmp/cc7gi942.s 			page 33
+ARM GAS  /tmp/cc1jPRtQ.s 			page 33
 
 
  1798 004d 706F6F6C 		.ascii	"pools1_execute\000"
@@ -1978,7 +1978,7 @@ ARM GAS  /tmp/cc7gi942.s 			page 1
  1820      706F6F6C 
  1820      733100
  1821              	.LASF0:
-ARM GAS  /tmp/cc7gi942.s 			page 34
+ARM GAS  /tmp/cc1jPRtQ.s 			page 34
 
 
  1822 010e 756E7369 		.ascii	"unsigned int\000"
@@ -2038,7 +2038,7 @@ ARM GAS  /tmp/cc7gi942.s 			page 1
  1846 01b1 474E5520 		.ascii	"GNU C 4.7.3 20130312 (release) [ARM/embedded-4_7-br"
  1846      4320342E 
  1846      372E3320 
-ARM GAS  /tmp/cc7gi942.s 			page 35
+ARM GAS  /tmp/cc1jPRtQ.s 			page 35
 
 
  1846      32303133 
@@ -2075,28 +2075,28 @@ ARM GAS  /tmp/cc7gi942.s 			page 1
  1861      6F6C496E 
  1861      697400
  1862              		.ident	"GCC: (GNU Tools for ARM Embedded Processors) 4.7.3 20130312 (release) [ARM/embedded-4_7-br
-ARM GAS  /tmp/cc7gi942.s 			page 36
+ARM GAS  /tmp/cc1jPRtQ.s 			page 36
 
 
 DEFINED SYMBOLS
                             *ABS*:00000000 testpools.c
-     /tmp/cc7gi942.s:19     .text.null_provider:00000000 $t
-     /tmp/cc7gi942.s:24     .text.null_provider:00000000 null_provider
-     /tmp/cc7gi942.s:41     .text.pools1_setup:00000000 $t
-     /tmp/cc7gi942.s:46     .text.pools1_setup:00000000 pools1_setup
-     /tmp/cc7gi942.s:310    .data.mp1:00000000 .LANCHOR0
-     /tmp/cc7gi942.s:66     .text.pools1_execute:00000000 $t
-     /tmp/cc7gi942.s:71     .text.pools1_execute:00000000 pools1_execute
-     /tmp/cc7gi942.s:287    .text.pools1_execute:00000160 $d
-     /tmp/cc7gi942.s:305    .rodata.patternpools:00000000 patternpools
-     /tmp/cc7gi942.s:321    .rodata.testpools1:00000000 testpools1
-     /tmp/cc7gi942.s:298    .rodata.str1.4:00000000 $d
-     /tmp/cc7gi942.s:302    .rodata.patternpools:00000000 $d
-     /tmp/cc7gi942.s:309    .data.mp1:00000000 $d
-     /tmp/cc7gi942.s:313    .data.mp1:00000000 mp1
-     /tmp/cc7gi942.s:318    .rodata.testpools1:00000000 $d
+     /tmp/cc1jPRtQ.s:19     .text.null_provider:00000000 $t
+     /tmp/cc1jPRtQ.s:24     .text.null_provider:00000000 null_provider
+     /tmp/cc1jPRtQ.s:41     .text.pools1_setup:00000000 $t
+     /tmp/cc1jPRtQ.s:46     .text.pools1_setup:00000000 pools1_setup
+     /tmp/cc1jPRtQ.s:310    .data.mp1:00000000 .LANCHOR0
+     /tmp/cc1jPRtQ.s:66     .text.pools1_execute:00000000 $t
+     /tmp/cc1jPRtQ.s:71     .text.pools1_execute:00000000 pools1_execute
+     /tmp/cc1jPRtQ.s:287    .text.pools1_execute:00000160 $d
+     /tmp/cc1jPRtQ.s:305    .rodata.patternpools:00000000 patternpools
+     /tmp/cc1jPRtQ.s:321    .rodata.testpools1:00000000 testpools1
+     /tmp/cc1jPRtQ.s:298    .rodata.str1.4:00000000 $d
+     /tmp/cc1jPRtQ.s:302    .rodata.patternpools:00000000 $d
+     /tmp/cc1jPRtQ.s:309    .data.mp1:00000000 $d
+     /tmp/cc1jPRtQ.s:313    .data.mp1:00000000 mp1
+     /tmp/cc1jPRtQ.s:318    .rodata.testpools1:00000000 $d
                      .debug_frame:00000010 $d
-     /tmp/cc7gi942.s:297    .text.pools1_execute:0000016c $t
+     /tmp/cc1jPRtQ.s:297    .text.pools1_execute:0000016c $t
 
 UNDEFINED SYMBOLS
 chPoolInit

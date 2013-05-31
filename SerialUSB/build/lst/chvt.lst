@@ -1,4 +1,4 @@
-ARM GAS  /tmp/ccv4SU47.s 			page 1
+ARM GAS  /tmp/ccXqw838.s 			page 1
 
 
    1              		.syntax unified
@@ -58,7 +58,7 @@ ARM GAS  /tmp/ccv4SU47.s 			page 1
   54              		.global	chVTSetI
   55              		.thumb
   56              		.thumb_func
-ARM GAS  /tmp/ccv4SU47.s 			page 2
+ARM GAS  /tmp/ccXqw838.s 			page 2
 
 
   57              		.type	chVTSetI, %function
@@ -118,7 +118,7 @@ ARM GAS  /tmp/ccv4SU47.s 			page 1
  111 0028 02D0     		beq	.L2
  112              		.loc 1 88 0
  113 002a A068     		ldr	r0, [r4, #8]
-ARM GAS  /tmp/ccv4SU47.s 			page 3
+ARM GAS  /tmp/ccXqw838.s 			page 3
 
 
  114              	.LVL5:
@@ -178,7 +178,7 @@ ARM GAS  /tmp/ccv4SU47.s 			page 1
  167              	.L14:
  168 001e 00BF     		.align	2
  169              	.L13:
-ARM GAS  /tmp/ccv4SU47.s 			page 4
+ARM GAS  /tmp/ccXqw838.s 			page 4
 
 
  170 0020 00000000 		.word	.LANCHOR0
@@ -238,7 +238,7 @@ ARM GAS  /tmp/ccv4SU47.s 			page 1
  222              	.LVL14:
  223 0020 7047     		bx	lr
  224              	.L24:
-ARM GAS  /tmp/ccv4SU47.s 			page 5
+ARM GAS  /tmp/ccXqw838.s 			page 5
 
 
  225 0022 00BF     		.align	2
@@ -298,7 +298,7 @@ ARM GAS  /tmp/ccv4SU47.s 			page 1
  275 0045 03       		.uleb128 0x3
  276 0046 02       		.byte	0x2
  277 0047 05       		.byte	0x5
-ARM GAS  /tmp/ccv4SU47.s 			page 6
+ARM GAS  /tmp/ccXqw838.s 			page 6
 
 
  278 0048 19010000 		.4byte	.LASF3
@@ -358,7 +358,7 @@ ARM GAS  /tmp/ccv4SU47.s 			page 1
  332 00b1 07       		.uleb128 0x7
  333 00b2 01       		.byte	0x1
  334 00b3 BD000000 		.4byte	0xbd
-ARM GAS  /tmp/ccv4SU47.s 			page 7
+ARM GAS  /tmp/ccXqw838.s 			page 7
 
 
  335 00b7 08       		.uleb128 0x8
@@ -418,7 +418,7 @@ ARM GAS  /tmp/ccv4SU47.s 			page 1
  389 011a 00       		.byte	0
  390 011b 06       		.uleb128 0x6
  391 011c 04       		.byte	0x4
-ARM GAS  /tmp/ccv4SU47.s 			page 8
+ARM GAS  /tmp/ccXqw838.s 			page 8
 
 
  392 011d BD000000 		.4byte	0xbd
@@ -478,7 +478,7 @@ ARM GAS  /tmp/ccv4SU47.s 			page 1
  446 0180 2B       		.byte	0x2b
  447 0181 01       		.byte	0x1
  448 0182 00000000 		.4byte	.LFB7
-ARM GAS  /tmp/ccv4SU47.s 			page 9
+ARM GAS  /tmp/ccXqw838.s 			page 9
 
 
  449 0186 18000000 		.4byte	.LFE7
@@ -538,7 +538,7 @@ ARM GAS  /tmp/ccv4SU47.s 			page 1
  503 01f9 00000000 		.4byte	.LFB9
  504 01fd 24000000 		.4byte	.LFE9
  505 0201 02       		.byte	0x2
-ARM GAS  /tmp/ccv4SU47.s 			page 10
+ARM GAS  /tmp/ccXqw838.s 			page 10
 
 
  506 0202 7D       		.byte	0x7d
@@ -598,7 +598,7 @@ ARM GAS  /tmp/ccv4SU47.s 			page 1
  560 026b 03       		.byte	0x3
  561 026c 00000000 		.4byte	vtlist
  562 0270 00       		.byte	0
-ARM GAS  /tmp/ccv4SU47.s 			page 11
+ARM GAS  /tmp/ccXqw838.s 			page 11
 
 
  563              		.section	.debug_abbrev,"",%progbits
@@ -658,7 +658,7 @@ ARM GAS  /tmp/ccv4SU47.s 			page 1
  617 0034 49       		.uleb128 0x49
  618 0035 13       		.uleb128 0x13
  619 0036 00       		.byte	0
-ARM GAS  /tmp/ccv4SU47.s 			page 12
+ARM GAS  /tmp/ccXqw838.s 			page 12
 
 
  620 0037 00       		.byte	0
@@ -718,7 +718,7 @@ ARM GAS  /tmp/ccv4SU47.s 			page 1
  674 006d 0B       		.uleb128 0xb
  675 006e 3B       		.uleb128 0x3b
  676 006f 0B       		.uleb128 0xb
-ARM GAS  /tmp/ccv4SU47.s 			page 13
+ARM GAS  /tmp/ccXqw838.s 			page 13
 
 
  677 0070 49       		.uleb128 0x49
@@ -778,7 +778,7 @@ ARM GAS  /tmp/ccv4SU47.s 			page 1
  731 00a7 03       		.uleb128 0x3
  732 00a8 0E       		.uleb128 0xe
  733 00a9 3A       		.uleb128 0x3a
-ARM GAS  /tmp/ccv4SU47.s 			page 14
+ARM GAS  /tmp/ccXqw838.s 			page 14
 
 
  734 00aa 0B       		.uleb128 0xb
@@ -838,7 +838,7 @@ ARM GAS  /tmp/ccv4SU47.s 			page 1
  788 00e1 3B       		.uleb128 0x3b
  789 00e2 0B       		.uleb128 0xb
  790 00e3 49       		.uleb128 0x49
-ARM GAS  /tmp/ccv4SU47.s 			page 15
+ARM GAS  /tmp/ccXqw838.s 			page 15
 
 
  791 00e4 13       		.uleb128 0x13
@@ -898,7 +898,7 @@ ARM GAS  /tmp/ccv4SU47.s 			page 1
  845 011b 49       		.uleb128 0x49
  846 011c 13       		.uleb128 0x13
  847 011d 02       		.uleb128 0x2
-ARM GAS  /tmp/ccv4SU47.s 			page 16
+ARM GAS  /tmp/ccXqw838.s 			page 16
 
 
  848 011e 0A       		.uleb128 0xa
@@ -958,7 +958,7 @@ ARM GAS  /tmp/ccv4SU47.s 			page 1
  902 0155 49       		.uleb128 0x49
  903 0156 13       		.uleb128 0x13
  904 0157 3F       		.uleb128 0x3f
-ARM GAS  /tmp/ccv4SU47.s 			page 17
+ARM GAS  /tmp/ccXqw838.s 			page 17
 
 
  905 0158 0C       		.uleb128 0xc
@@ -1018,7 +1018,7 @@ ARM GAS  /tmp/ccv4SU47.s 			page 1
  959 0070 1C000000 		.4byte	.LVL4
  960 0074 0100     		.2byte	0x1
  961 0076 53       		.byte	0x53
-ARM GAS  /tmp/ccv4SU47.s 			page 18
+ARM GAS  /tmp/ccXqw838.s 			page 18
 
 
  962 0077 1C000000 		.4byte	.LVL4
@@ -1078,7 +1078,7 @@ ARM GAS  /tmp/ccv4SU47.s 			page 1
  1016 00f9 28000000 		.4byte	.LFE10
  1017 00fd 0400     		.2byte	0x4
  1018 00ff F3       		.byte	0xf3
-ARM GAS  /tmp/ccv4SU47.s 			page 19
+ARM GAS  /tmp/ccXqw838.s 			page 19
 
 
  1019 0100 01       		.uleb128 0x1
@@ -1138,7 +1138,7 @@ ARM GAS  /tmp/ccv4SU47.s 			page 1
  1064 0019 626F6F6C 		.ascii	"bool_t\000"
  1064      5F7400
  1065              	.LASF14:
-ARM GAS  /tmp/ccv4SU47.s 			page 20
+ARM GAS  /tmp/ccXqw838.s 			page 20
 
 
  1066 0020 76746675 		.ascii	"vtfunc_t\000"
@@ -1198,7 +1198,7 @@ ARM GAS  /tmp/ccv4SU47.s 			page 1
  1088      696D6500 
  1089              	.LASF13:
  1090 00dc 73697A65 		.ascii	"sizetype\000"
-ARM GAS  /tmp/ccv4SU47.s 			page 21
+ARM GAS  /tmp/ccXqw838.s 			page 21
 
 
  1090      74797065 
@@ -1258,7 +1258,7 @@ ARM GAS  /tmp/ccv4SU47.s 			page 1
  1116              	.LASF1:
  1117 0195 7369676E 		.ascii	"signed char\000"
  1117      65642063 
-ARM GAS  /tmp/ccv4SU47.s 			page 22
+ARM GAS  /tmp/ccXqw838.s 			page 22
 
 
  1117      68617200 
@@ -1282,28 +1282,28 @@ ARM GAS  /tmp/ccv4SU47.s 			page 1
  1127 01de 5F426F6F 		.ascii	"_Bool\000"
  1127      6C00
  1128              		.ident	"GCC: (GNU Tools for ARM Embedded Processors) 4.7.3 20130312 (release) [ARM/embedded-4_7-br
-ARM GAS  /tmp/ccv4SU47.s 			page 23
+ARM GAS  /tmp/ccXqw838.s 			page 23
 
 
 DEFINED SYMBOLS
                             *ABS*:00000000 chvt.c
-     /tmp/ccv4SU47.s:19     .text._vt_init:00000000 $t
-     /tmp/ccv4SU47.s:25     .text._vt_init:00000000 _vt_init
-     /tmp/ccv4SU47.s:234    .bss.vtlist:00000000 .LANCHOR0
-     /tmp/ccv4SU47.s:52     .text.chVTSetI:00000000 $t
-     /tmp/ccv4SU47.s:58     .text.chVTSetI:00000000 chVTSetI
-     /tmp/ccv4SU47.s:125    .text.chVTSetI:00000034 $d
-     /tmp/ccv4SU47.s:130    .text.chVTResetI:00000000 $t
-     /tmp/ccv4SU47.s:136    .text.chVTResetI:00000000 chVTResetI
-     /tmp/ccv4SU47.s:170    .text.chVTResetI:00000020 $d
-     /tmp/ccv4SU47.s:175    .text.chTimeIsWithin:00000000 $t
-     /tmp/ccv4SU47.s:181    .text.chTimeIsWithin:00000000 chTimeIsWithin
-     /tmp/ccv4SU47.s:227    .text.chTimeIsWithin:00000024 $d
-     /tmp/ccv4SU47.s:237    .bss.vtlist:00000000 vtlist
-     /tmp/ccv4SU47.s:233    .bss.vtlist:00000000 $d
+     /tmp/ccXqw838.s:19     .text._vt_init:00000000 $t
+     /tmp/ccXqw838.s:25     .text._vt_init:00000000 _vt_init
+     /tmp/ccXqw838.s:234    .bss.vtlist:00000000 .LANCHOR0
+     /tmp/ccXqw838.s:52     .text.chVTSetI:00000000 $t
+     /tmp/ccXqw838.s:58     .text.chVTSetI:00000000 chVTSetI
+     /tmp/ccXqw838.s:125    .text.chVTSetI:00000034 $d
+     /tmp/ccXqw838.s:130    .text.chVTResetI:00000000 $t
+     /tmp/ccXqw838.s:136    .text.chVTResetI:00000000 chVTResetI
+     /tmp/ccXqw838.s:170    .text.chVTResetI:00000020 $d
+     /tmp/ccXqw838.s:175    .text.chTimeIsWithin:00000000 $t
+     /tmp/ccXqw838.s:181    .text.chTimeIsWithin:00000000 chTimeIsWithin
+     /tmp/ccXqw838.s:227    .text.chTimeIsWithin:00000024 $d
+     /tmp/ccXqw838.s:237    .bss.vtlist:00000000 vtlist
+     /tmp/ccXqw838.s:233    .bss.vtlist:00000000 $d
                      .debug_frame:00000010 $d
-     /tmp/ccv4SU47.s:129    .text.chVTSetI:00000038 $t
-     /tmp/ccv4SU47.s:174    .text.chVTResetI:00000024 $t
-     /tmp/ccv4SU47.s:232    .text.chTimeIsWithin:00000028 $t
+     /tmp/ccXqw838.s:129    .text.chVTSetI:00000038 $t
+     /tmp/ccXqw838.s:174    .text.chVTResetI:00000024 $t
+     /tmp/ccXqw838.s:232    .text.chTimeIsWithin:00000028 $t
 
 NO UNDEFINED SYMBOLS

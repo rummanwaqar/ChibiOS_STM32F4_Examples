@@ -1,4 +1,4 @@
-ARM GAS  /tmp/ccaekpDA.s 			page 1
+ARM GAS  /tmp/ccwkHVcc.s 			page 1
 
 
    1              		.syntax unified
@@ -58,7 +58,7 @@ ARM GAS  /tmp/ccaekpDA.s 			page 1
   55              	.LBB23:
   56              	.LBB24:
   57 0028 4FF48062 		mov	r2, #1024
-ARM GAS  /tmp/ccaekpDA.s 			page 2
+ARM GAS  /tmp/ccwkHVcc.s 			page 2
 
 
   58              	.LBE24:
@@ -118,7 +118,7 @@ ARM GAS  /tmp/ccaekpDA.s 			page 1
  112 0062 416B     		ldr	r1, [r0, #52]
  113 0064 5162     		str	r1, [r2, #36]
  114              		.loc 1 85 0
-ARM GAS  /tmp/ccaekpDA.s 			page 3
+ARM GAS  /tmp/ccwkHVcc.s 			page 3
 
 
  115 0066 C169     		ldr	r1, [r0, #28]
@@ -178,7 +178,7 @@ ARM GAS  /tmp/ccaekpDA.s 			page 1
  169              	.LBE41:
  170              	.LBB45:
  171              	.LBB38:
-ARM GAS  /tmp/ccaekpDA.s 			page 4
+ARM GAS  /tmp/ccwkHVcc.s 			page 4
 
 
  172 0098 5160     		str	r1, [r2, #4]
@@ -238,7 +238,7 @@ ARM GAS  /tmp/ccaekpDA.s 			page 1
  226              	.LBB44:
  227              		.loc 1 85 0
  228 00da 1960     		str	r1, [r3, #0]
-ARM GAS  /tmp/ccaekpDA.s 			page 5
+ARM GAS  /tmp/ccwkHVcc.s 			page 5
 
 
  229              	.LVL6:
@@ -298,7 +298,7 @@ ARM GAS  /tmp/ccaekpDA.s 			page 1
  283              		.loc 1 80 0
  284 011c D0F8B010 		ldr	r1, [r0, #176]
  285 0120 9960     		str	r1, [r3, #8]
-ARM GAS  /tmp/ccaekpDA.s 			page 6
+ARM GAS  /tmp/ccwkHVcc.s 			page 6
 
 
  286              		.loc 1 81 0
@@ -358,7 +358,7 @@ ARM GAS  /tmp/ccaekpDA.s 			page 1
  340              	.LBB70:
  341              		.loc 1 79 0
  342 016c 4FF40053 		mov	r3, #8192
-ARM GAS  /tmp/ccaekpDA.s 			page 7
+ARM GAS  /tmp/ccwkHVcc.s 			page 7
 
 
  343              	.LBE70:
@@ -418,7 +418,7 @@ ARM GAS  /tmp/ccaekpDA.s 			page 1
  394              		@ args = 0, pretend = 0, frame = 0
  395              		@ frame_needed = 0, uses_anonymous_args = 0
  396              		@ link register save eliminated.
-ARM GAS  /tmp/ccaekpDA.s 			page 8
+ARM GAS  /tmp/ccwkHVcc.s 			page 8
 
 
  397              	.LVL11:
@@ -478,7 +478,7 @@ ARM GAS  /tmp/ccaekpDA.s 			page 1
  451 0040 48EA060B 		orr	fp, r8, r6
  452 0044 C0F804B0 		str	fp, [r0, #4]
  453              	.LVL21:
-ARM GAS  /tmp/ccaekpDA.s 			page 9
+ARM GAS  /tmp/ccwkHVcc.s 			page 9
 
 
  454              		.loc 1 159 0
@@ -538,7 +538,7 @@ ARM GAS  /tmp/ccaekpDA.s 			page 1
  508              		.loc 1 170 0
  509 009e 11F0010F 		tst	r1, #1
  510              	.LBB77:
-ARM GAS  /tmp/ccaekpDA.s 			page 10
+ARM GAS  /tmp/ccwkHVcc.s 			page 10
 
 
  511              		.loc 1 173 0
@@ -598,7 +598,7 @@ ARM GAS  /tmp/ccaekpDA.s 			page 1
  564 002c 696E7400 		.ascii	"int\000"
  565 0030 03       		.uleb128 0x3
  566 0031 04       		.byte	0x4
-ARM GAS  /tmp/ccaekpDA.s 			page 11
+ARM GAS  /tmp/ccwkHVcc.s 			page 11
 
 
  567 0032 07       		.byte	0x7
@@ -658,7 +658,7 @@ ARM GAS  /tmp/ccaekpDA.s 			page 1
  621 0098 70000000 		.4byte	0x70
  622 009c 03       		.uleb128 0x3
  623 009d 04       		.byte	0x4
-ARM GAS  /tmp/ccaekpDA.s 			page 12
+ARM GAS  /tmp/ccwkHVcc.s 			page 12
 
 
  624 009e 07       		.byte	0x7
@@ -718,7 +718,7 @@ ARM GAS  /tmp/ccaekpDA.s 			page 1
  678 0108 03       		.byte	0x3
  679 0109 E102     		.2byte	0x2e1
  680 010b 97000000 		.4byte	0x97
-ARM GAS  /tmp/ccaekpDA.s 			page 13
+ARM GAS  /tmp/ccwkHVcc.s 			page 13
 
 
  681 010f 02       		.byte	0x2
@@ -778,7 +778,7 @@ ARM GAS  /tmp/ccaekpDA.s 			page 1
  735 0172 E802     		.2byte	0x2e8
  736 0174 97000000 		.4byte	0x97
  737 0178 02       		.byte	0x2
-ARM GAS  /tmp/ccaekpDA.s 			page 14
+ARM GAS  /tmp/ccwkHVcc.s 			page 14
 
 
  738 0179 23       		.byte	0x23
@@ -838,7 +838,7 @@ ARM GAS  /tmp/ccaekpDA.s 			page 1
  792 01dd 97000000 		.4byte	0x97
  793 01e1 02       		.byte	0x2
  794 01e2 23       		.byte	0x23
-ARM GAS  /tmp/ccaekpDA.s 			page 15
+ARM GAS  /tmp/ccwkHVcc.s 			page 15
 
 
  795 01e3 50       		.uleb128 0x50
@@ -898,7 +898,7 @@ ARM GAS  /tmp/ccaekpDA.s 			page 1
  849 024a 02       		.byte	0x2
  850 024b 23       		.byte	0x23
  851 024c 70       		.uleb128 0x70
-ARM GAS  /tmp/ccaekpDA.s 			page 16
+ARM GAS  /tmp/ccwkHVcc.s 			page 16
 
 
  852 024d 09       		.uleb128 0x9
@@ -958,7 +958,7 @@ ARM GAS  /tmp/ccaekpDA.s 			page 1
  906 02b4 98       		.byte	0x98
  907 02b5 4C000000 		.4byte	0x4c
  908 02b9 02       		.byte	0x2
-ARM GAS  /tmp/ccaekpDA.s 			page 17
+ARM GAS  /tmp/ccwkHVcc.s 			page 17
 
 
  909 02ba 23       		.byte	0x23
@@ -1018,7 +1018,7 @@ ARM GAS  /tmp/ccaekpDA.s 			page 1
  963 0316 23       		.byte	0x23
  964 0317 0C       		.uleb128 0xc
  965 0318 0D       		.uleb128 0xd
-ARM GAS  /tmp/ccaekpDA.s 			page 18
+ARM GAS  /tmp/ccwkHVcc.s 			page 18
 
 
  966 0319 49445200 		.ascii	"IDR\000"
@@ -1078,7 +1078,7 @@ ARM GAS  /tmp/ccaekpDA.s 			page 1
  1020 0379 D8020000 		.4byte	0x2d8
  1021 037d 0C       		.uleb128 0xc
  1022 037e 1C       		.byte	0x1c
-ARM GAS  /tmp/ccaekpDA.s 			page 19
+ARM GAS  /tmp/ccwkHVcc.s 			page 19
 
 
  1023 037f 04       		.byte	0x4
@@ -1138,7 +1138,7 @@ ARM GAS  /tmp/ccaekpDA.s 			page 1
  1077 03df B1       		.byte	0xb1
  1078 03e0 70000000 		.4byte	0x70
  1079 03e4 02       		.byte	0x2
-ARM GAS  /tmp/ccaekpDA.s 			page 20
+ARM GAS  /tmp/ccwkHVcc.s 			page 20
 
 
  1080 03e5 23       		.byte	0x23
@@ -1198,7 +1198,7 @@ ARM GAS  /tmp/ccaekpDA.s 			page 1
  1134 0442 4B000000 		.4byte	.LASF65
  1135 0446 04       		.byte	0x4
  1136 0447 CA       		.byte	0xca
-ARM GAS  /tmp/ccaekpDA.s 			page 21
+ARM GAS  /tmp/ccwkHVcc.s 			page 21
 
 
  1137 0448 E8030000 		.4byte	0x3e8
@@ -1258,7 +1258,7 @@ ARM GAS  /tmp/ccaekpDA.s 			page 1
  1191 04b5 01       		.byte	0x1
  1192 04b6 4D       		.byte	0x4d
  1193 04b7 01       		.byte	0x1
-ARM GAS  /tmp/ccaekpDA.s 			page 22
+ARM GAS  /tmp/ccwkHVcc.s 			page 22
 
 
  1194 04b8 01       		.byte	0x1
@@ -1318,7 +1318,7 @@ ARM GAS  /tmp/ccaekpDA.s 			page 1
  1248 0536 18000000 		.4byte	.Ldebug_ranges0+0x18
  1249 053a 01       		.byte	0x1
  1250 053b 7D       		.byte	0x7d
-ARM GAS  /tmp/ccaekpDA.s 			page 23
+ARM GAS  /tmp/ccwkHVcc.s 			page 23
 
 
  1251 053c 53050000 		.4byte	0x553
@@ -1378,7 +1378,7 @@ ARM GAS  /tmp/ccaekpDA.s 			page 1
  1305 05d2 01       		.byte	0x1
  1306 05d3 84       		.byte	0x84
  1307 05d4 EB050000 		.4byte	0x5eb
-ARM GAS  /tmp/ccaekpDA.s 			page 24
+ARM GAS  /tmp/ccwkHVcc.s 			page 24
 
 
  1308 05d8 18       		.uleb128 0x18
@@ -1438,7 +1438,7 @@ ARM GAS  /tmp/ccaekpDA.s 			page 1
  1362 0665 1B       		.uleb128 0x1b
  1363 0666 01       		.byte	0x1
  1364 0667 11000000 		.4byte	.LASF76
-ARM GAS  /tmp/ccaekpDA.s 			page 25
+ARM GAS  /tmp/ccwkHVcc.s 			page 25
 
 
  1365 066b 01       		.byte	0x1
@@ -1498,7 +1498,7 @@ ARM GAS  /tmp/ccaekpDA.s 			page 1
  1419 06dd 54       		.byte	0x54
  1420 06de 1D       		.uleb128 0x1d
  1421 06df 30030000 		.4byte	.LASF80
-ARM GAS  /tmp/ccaekpDA.s 			page 26
+ARM GAS  /tmp/ccwkHVcc.s 			page 26
 
 
  1422 06e3 01       		.byte	0x1
@@ -1558,7 +1558,7 @@ ARM GAS  /tmp/ccaekpDA.s 			page 1
  1476 0005 13       		.uleb128 0x13
  1477 0006 0B       		.uleb128 0xb
  1478 0007 03       		.uleb128 0x3
-ARM GAS  /tmp/ccaekpDA.s 			page 27
+ARM GAS  /tmp/ccwkHVcc.s 			page 27
 
 
  1479 0008 0E       		.uleb128 0xe
@@ -1618,7 +1618,7 @@ ARM GAS  /tmp/ccaekpDA.s 			page 1
  1533 003e 00       		.byte	0
  1534 003f 06       		.uleb128 0x6
  1535 0040 01       		.uleb128 0x1
-ARM GAS  /tmp/ccaekpDA.s 			page 28
+ARM GAS  /tmp/ccwkHVcc.s 			page 28
 
 
  1536 0041 01       		.byte	0x1
@@ -1678,7 +1678,7 @@ ARM GAS  /tmp/ccaekpDA.s 			page 1
  1590 0077 13       		.uleb128 0x13
  1591 0078 38       		.uleb128 0x38
  1592 0079 0A       		.uleb128 0xa
-ARM GAS  /tmp/ccaekpDA.s 			page 29
+ARM GAS  /tmp/ccwkHVcc.s 			page 29
 
 
  1593 007a 00       		.byte	0
@@ -1738,7 +1738,7 @@ ARM GAS  /tmp/ccaekpDA.s 			page 1
  1647 00b0 38       		.uleb128 0x38
  1648 00b1 0A       		.uleb128 0xa
  1649 00b2 00       		.byte	0
-ARM GAS  /tmp/ccaekpDA.s 			page 30
+ARM GAS  /tmp/ccwkHVcc.s 			page 30
 
 
  1650 00b3 00       		.byte	0
@@ -1798,7 +1798,7 @@ ARM GAS  /tmp/ccaekpDA.s 			page 1
  1704 00e9 05       		.uleb128 0x5
  1705 00ea 00       		.byte	0
  1706 00eb 03       		.uleb128 0x3
-ARM GAS  /tmp/ccaekpDA.s 			page 31
+ARM GAS  /tmp/ccwkHVcc.s 			page 31
 
 
  1707 00ec 0E       		.uleb128 0xe
@@ -1858,7 +1858,7 @@ ARM GAS  /tmp/ccaekpDA.s 			page 1
  1761 0123 00       		.byte	0
  1762 0124 00       		.byte	0
  1763 0125 17       		.uleb128 0x17
-ARM GAS  /tmp/ccaekpDA.s 			page 32
+ARM GAS  /tmp/ccwkHVcc.s 			page 32
 
 
  1764 0126 1D       		.uleb128 0x1d
@@ -1918,7 +1918,7 @@ ARM GAS  /tmp/ccaekpDA.s 			page 1
  1818 015c 03       		.uleb128 0x3
  1819 015d 0E       		.uleb128 0xe
  1820 015e 3A       		.uleb128 0x3a
-ARM GAS  /tmp/ccaekpDA.s 			page 33
+ARM GAS  /tmp/ccwkHVcc.s 			page 33
 
 
  1821 015f 0B       		.uleb128 0xb
@@ -1978,7 +1978,7 @@ ARM GAS  /tmp/ccaekpDA.s 			page 1
  1875 0196 3B       		.uleb128 0x3b
  1876 0197 0B       		.uleb128 0xb
  1877 0198 49       		.uleb128 0x49
-ARM GAS  /tmp/ccaekpDA.s 			page 34
+ARM GAS  /tmp/ccwkHVcc.s 			page 34
 
 
  1878 0199 13       		.uleb128 0x13
@@ -2038,7 +2038,7 @@ ARM GAS  /tmp/ccaekpDA.s 			page 1
  1932 0013 0400     		.2byte	0x4
  1933 0015 F3       		.byte	0xf3
  1934 0016 01       		.uleb128 0x1
-ARM GAS  /tmp/ccaekpDA.s 			page 35
+ARM GAS  /tmp/ccwkHVcc.s 			page 35
 
 
  1935 0017 50       		.byte	0x50
@@ -2098,7 +2098,7 @@ ARM GAS  /tmp/ccaekpDA.s 			page 1
  1989              	.LLST4:
  1990 008c 8E000000 		.4byte	.LVL4
  1991 0090 9E010000 		.4byte	.LVL10
-ARM GAS  /tmp/ccaekpDA.s 			page 36
+ARM GAS  /tmp/ccwkHVcc.s 			page 36
 
 
  1992 0094 0400     		.2byte	0x4
@@ -2158,7 +2158,7 @@ ARM GAS  /tmp/ccaekpDA.s 			page 1
  2046 0107 0400     		.2byte	0x4
  2047 0109 70       		.byte	0x70
  2048 010a A801     		.sleb128 168
-ARM GAS  /tmp/ccaekpDA.s 			page 37
+ARM GAS  /tmp/ccwkHVcc.s 			page 37
 
 
  2049 010c 9F       		.byte	0x9f
@@ -2218,7 +2218,7 @@ ARM GAS  /tmp/ccaekpDA.s 			page 1
  2103 0180 04000000 		.4byte	.LCFI0
  2104 0184 C8000000 		.4byte	.LFE120
  2105 0188 0200     		.2byte	0x2
-ARM GAS  /tmp/ccaekpDA.s 			page 38
+ARM GAS  /tmp/ccwkHVcc.s 			page 38
 
 
  2106 018a 7D       		.byte	0x7d
@@ -2278,7 +2278,7 @@ ARM GAS  /tmp/ccaekpDA.s 			page 1
  2160 020c 30000000 		.4byte	.LVL19
  2161 0210 96000000 		.4byte	.LVL31
  2162 0214 0A00     		.2byte	0xa
-ARM GAS  /tmp/ccaekpDA.s 			page 39
+ARM GAS  /tmp/ccwkHVcc.s 			page 39
 
 
  2163 0216 72       		.byte	0x72
@@ -2338,7 +2338,7 @@ ARM GAS  /tmp/ccaekpDA.s 			page 1
  2217 0279 5C       		.byte	0x5c
  2218 027a 5C000000 		.4byte	.LVL23
  2219 027e 80000000 		.4byte	.LVL24
-ARM GAS  /tmp/ccaekpDA.s 			page 40
+ARM GAS  /tmp/ccwkHVcc.s 			page 40
 
 
  2220 0282 0400     		.2byte	0x4
@@ -2398,7 +2398,7 @@ ARM GAS  /tmp/ccaekpDA.s 			page 1
  2274              		.section	.debug_aranges,"",%progbits
  2275 0000 24000000 		.4byte	0x24
  2276 0004 0200     		.2byte	0x2
-ARM GAS  /tmp/ccaekpDA.s 			page 41
+ARM GAS  /tmp/ccwkHVcc.s 			page 41
 
 
  2277 0006 00000000 		.4byte	.Ldebug_info0
@@ -2458,7 +2458,7 @@ ARM GAS  /tmp/ccaekpDA.s 			page 1
  2331 00a4 E4000000 		.4byte	.LBE52
  2332 00a8 E8000000 		.4byte	.LBB58
  2333 00ac 0E010000 		.4byte	.LBE58
-ARM GAS  /tmp/ccaekpDA.s 			page 42
+ARM GAS  /tmp/ccwkHVcc.s 			page 42
 
 
  2334 00b0 00000000 		.4byte	0
@@ -2518,7 +2518,7 @@ ARM GAS  /tmp/ccaekpDA.s 			page 1
  2384 0000 41484231 		.ascii	"AHB1LPENR\000"
  2384      4C50454E 
  2384      5200
-ARM GAS  /tmp/ccaekpDA.s 			page 43
+ARM GAS  /tmp/ccwkHVcc.s 			page 43
 
 
  2385              	.LASF62:
@@ -2578,7 +2578,7 @@ ARM GAS  /tmp/ccaekpDA.s 			page 1
  2412      7000
  2413              	.LASF40:
  2414 0099 53534347 		.ascii	"SSCGR\000"
-ARM GAS  /tmp/ccaekpDA.s 			page 44
+ARM GAS  /tmp/ccwkHVcc.s 			page 44
 
 
  2414      5200
@@ -2638,7 +2638,7 @@ ARM GAS  /tmp/ccaekpDA.s 			page 1
  2445              	.LASF44:
  2446 0124 4D4F4445 		.ascii	"MODER\000"
  2446      5200
-ARM GAS  /tmp/ccaekpDA.s 			page 45
+ARM GAS  /tmp/ccwkHVcc.s 			page 45
 
 
  2447              	.LASF22:
@@ -2698,7 +2698,7 @@ ARM GAS  /tmp/ccaekpDA.s 			page 1
  2471      33325F74 
  2471      00
  2472              	.LASF54:
-ARM GAS  /tmp/ccaekpDA.s 			page 46
+ARM GAS  /tmp/ccwkHVcc.s 			page 46
 
 
  2473 020f 6F747970 		.ascii	"otyper\000"
@@ -2758,7 +2758,7 @@ ARM GAS  /tmp/ccaekpDA.s 			page 1
  2501      5200
  2502              	.LASF77:
  2503 0295 706F7274 		.ascii	"port\000"
-ARM GAS  /tmp/ccaekpDA.s 			page 47
+ARM GAS  /tmp/ccwkHVcc.s 			page 47
 
 
  2503      00
@@ -2818,7 +2818,7 @@ ARM GAS  /tmp/ccaekpDA.s 			page 1
  2535 0311 41484231 		.ascii	"AHB1RSTR\000"
  2535      52535452 
  2535      00
-ARM GAS  /tmp/ccaekpDA.s 			page 48
+ARM GAS  /tmp/ccwkHVcc.s 			page 48
 
 
  2536              	.LASF52:
@@ -2868,15 +2868,15 @@ ARM GAS  /tmp/ccaekpDA.s 			page 1
  2558 03a2 42535252 		.ascii	"BSRR\000"
  2558      00
  2559              		.ident	"GCC: (GNU Tools for ARM Embedded Processors) 4.7.3 20130312 (release) [ARM/embedded-4_7-br
-ARM GAS  /tmp/ccaekpDA.s 			page 49
+ARM GAS  /tmp/ccwkHVcc.s 			page 49
 
 
 DEFINED SYMBOLS
                             *ABS*:00000000 pal_lld.c
-     /tmp/ccaekpDA.s:19     .text._pal_lld_init:00000000 $t
-     /tmp/ccaekpDA.s:25     .text._pal_lld_init:00000000 _pal_lld_init
-     /tmp/ccaekpDA.s:384    .text._pal_lld_setgroupmode:00000000 $t
-     /tmp/ccaekpDA.s:390    .text._pal_lld_setgroupmode:00000000 _pal_lld_setgroupmode
+     /tmp/ccwkHVcc.s:19     .text._pal_lld_init:00000000 $t
+     /tmp/ccwkHVcc.s:25     .text._pal_lld_init:00000000 _pal_lld_init
+     /tmp/ccwkHVcc.s:384    .text._pal_lld_setgroupmode:00000000 $t
+     /tmp/ccwkHVcc.s:390    .text._pal_lld_setgroupmode:00000000 _pal_lld_setgroupmode
                      .debug_frame:00000010 $d
 
 NO UNDEFINED SYMBOLS

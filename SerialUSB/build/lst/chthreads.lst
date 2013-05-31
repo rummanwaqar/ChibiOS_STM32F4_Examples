@@ -1,4 +1,4 @@
-ARM GAS  /tmp/ccVreOkh.s 			page 1
+ARM GAS  /tmp/ccb4AfEe.s 			page 1
 
 
    1              		.syntax unified
@@ -58,7 +58,7 @@ ARM GAS  /tmp/ccVreOkh.s 			page 1
   55 0016 8160     		str	r1, [r0, #8]
   56              		.loc 1 95 0
   57 0018 00F12807 		add	r7, r0, #40
-ARM GAS  /tmp/ccVreOkh.s 			page 2
+ARM GAS  /tmp/ccb4AfEe.s 			page 2
 
 
   58              		.loc 1 92 0
@@ -118,7 +118,7 @@ ARM GAS  /tmp/ccVreOkh.s 			page 1
  110              		@ frame_needed = 0, uses_anonymous_args = 0
  111              		@ link register save eliminated.
  112              	.LVL2:
-ARM GAS  /tmp/ccVreOkh.s 			page 3
+ARM GAS  /tmp/ccb4AfEe.s 			page 3
 
 
  113 0000 2DE9F003 		push	{r4, r5, r6, r7, r8, r9}
@@ -178,7 +178,7 @@ ARM GAS  /tmp/ccVreOkh.s 			page 1
  167              	.LVL5:
  168              		.loc 1 75 0
  169 003c C377     		strb	r3, [r0, #31]
-ARM GAS  /tmp/ccVreOkh.s 			page 4
+ARM GAS  /tmp/ccb4AfEe.s 			page 4
 
 
  170              		.loc 1 88 0
@@ -238,7 +238,7 @@ ARM GAS  /tmp/ccVreOkh.s 			page 1
  224              	.LFB9:
  225              		.loc 1 181 0
  226              		.cfi_startproc
-ARM GAS  /tmp/ccVreOkh.s 			page 5
+ARM GAS  /tmp/ccb4AfEe.s 			page 5
 
 
  227              		@ args = 4, pretend = 0, frame = 0
@@ -298,7 +298,7 @@ ARM GAS  /tmp/ccVreOkh.s 			page 1
  280              		.align	2
  281              		.p2align 4,,15
  282              		.global	chThdSetPriority
-ARM GAS  /tmp/ccVreOkh.s 			page 6
+ARM GAS  /tmp/ccb4AfEe.s 			page 6
 
 
  283              		.thumb
@@ -358,7 +358,7 @@ ARM GAS  /tmp/ccVreOkh.s 			page 1
  337              	.LVL24:
  338              		.thumb
  339              	.LBE23:
-ARM GAS  /tmp/ccVreOkh.s 			page 7
+ARM GAS  /tmp/ccb4AfEe.s 			page 7
 
 
  340              		.loc 1 228 0
@@ -418,7 +418,7 @@ ARM GAS  /tmp/ccVreOkh.s 			page 1
  394              	@ 0 "" 2
  395              	.LVL30:
  396              		.thumb
-ARM GAS  /tmp/ccVreOkh.s 			page 8
+ARM GAS  /tmp/ccb4AfEe.s 			page 8
 
 
  397              	.LBE26:
@@ -478,7 +478,7 @@ ARM GAS  /tmp/ccVreOkh.s 			page 1
  448      0080
  449              		.align	2
  450              		.p2align 4,,15
-ARM GAS  /tmp/ccVreOkh.s 			page 9
+ARM GAS  /tmp/ccb4AfEe.s 			page 9
 
 
  451              		.global	chThdSleep
@@ -538,7 +538,7 @@ ARM GAS  /tmp/ccVreOkh.s 			page 1
  505              	chThdSleepUntil:
  506              	.LFB14:
  507              		.loc 1 302 0
-ARM GAS  /tmp/ccVreOkh.s 			page 10
+ARM GAS  /tmp/ccb4AfEe.s 			page 10
 
 
  508              		.cfi_startproc
@@ -598,7 +598,7 @@ ARM GAS  /tmp/ccVreOkh.s 			page 1
  560              		.p2align 4,,15
  561              		.global	chThdYield
  562              		.thumb
-ARM GAS  /tmp/ccVreOkh.s 			page 11
+ARM GAS  /tmp/ccb4AfEe.s 			page 11
 
 
  563              		.thumb_func
@@ -658,7 +658,7 @@ ARM GAS  /tmp/ccVreOkh.s 			page 1
  617 0028 AFF30080 		.section	.text.chThdExitS,"ax",%progbits
  617      AFF30080 
  618              		.align	2
-ARM GAS  /tmp/ccVreOkh.s 			page 12
+ARM GAS  /tmp/ccb4AfEe.s 			page 12
 
 
  619              		.p2align 4,,15
@@ -718,7 +718,7 @@ ARM GAS  /tmp/ccVreOkh.s 			page 1
  673 0024 04D1     		bne	.L27
  674              		.loc 1 374 0
  675 0026 6369     		ldr	r3, [r4, #20]
-ARM GAS  /tmp/ccVreOkh.s 			page 13
+ARM GAS  /tmp/ccb4AfEe.s 			page 13
 
 
  676 0028 2269     		ldr	r2, [r4, #16]
@@ -778,7 +778,7 @@ ARM GAS  /tmp/ccVreOkh.s 			page 1
  729              		.p2align 4,,15
  730              		.global	chThdWait
  731              		.thumb
-ARM GAS  /tmp/ccVreOkh.s 			page 14
+ARM GAS  /tmp/ccb4AfEe.s 			page 14
 
 
  732              		.thumb_func
@@ -838,7 +838,7 @@ ARM GAS  /tmp/ccVreOkh.s 			page 1
  786              		.loc 1 425 0
  787 001c FFF7FEFF 		bl	chSchGoSleepS
  788              	.LVL76:
-ARM GAS  /tmp/ccVreOkh.s 			page 15
+ARM GAS  /tmp/ccb4AfEe.s 			page 15
 
 
  789              	.L36:
@@ -898,7 +898,7 @@ ARM GAS  /tmp/ccVreOkh.s 			page 1
  842 0021 00000000 		.4byte	0
  843 0025 00000000 		.4byte	.Ldebug_line0
  844 0029 02       		.uleb128 0x2
-ARM GAS  /tmp/ccVreOkh.s 			page 16
+ARM GAS  /tmp/ccb4AfEe.s 			page 16
 
 
  845 002a 04       		.byte	0x4
@@ -958,7 +958,7 @@ ARM GAS  /tmp/ccVreOkh.s 			page 1
  899 0090 82000000 		.4byte	.LASF11
  900 0094 04       		.uleb128 0x4
  901 0095 08       		.byte	0x8
-ARM GAS  /tmp/ccVreOkh.s 			page 17
+ARM GAS  /tmp/ccb4AfEe.s 			page 17
 
 
  902 0096 07       		.byte	0x7
@@ -1018,7 +1018,7 @@ ARM GAS  /tmp/ccVreOkh.s 			page 1
  956 010b 07       		.byte	0x7
  957 010c 57       		.byte	0x57
  958 010d 2A020000 		.4byte	0x22a
-ARM GAS  /tmp/ccVreOkh.s 			page 18
+ARM GAS  /tmp/ccb4AfEe.s 			page 18
 
 
  959 0111 06       		.uleb128 0x6
@@ -1078,7 +1078,7 @@ ARM GAS  /tmp/ccVreOkh.s 			page 1
  1013 0171 23       		.byte	0x23
  1014 0172 18       		.uleb128 0x18
  1015 0173 06       		.uleb128 0x6
-ARM GAS  /tmp/ccVreOkh.s 			page 19
+ARM GAS  /tmp/ccb4AfEe.s 			page 19
 
 
  1016 0174 1E030000 		.4byte	.LASF30
@@ -1138,7 +1138,7 @@ ARM GAS  /tmp/ccVreOkh.s 			page 1
  1070 01d4 28       		.uleb128 0x28
  1071 01d5 06       		.uleb128 0x6
  1072 01d6 F7030000 		.4byte	.LASF36
-ARM GAS  /tmp/ccVreOkh.s 			page 20
+ARM GAS  /tmp/ccb4AfEe.s 			page 20
 
 
  1073 01da 07       		.byte	0x7
@@ -1198,7 +1198,7 @@ ARM GAS  /tmp/ccVreOkh.s 			page 1
  1127 0237 06       		.byte	0x6
  1128 0238 5B       		.byte	0x5b
  1129 0239 4F020000 		.4byte	0x24f
-ARM GAS  /tmp/ccVreOkh.s 			page 21
+ARM GAS  /tmp/ccb4AfEe.s 			page 21
 
 
  1130 023d 02       		.byte	0x2
@@ -1258,7 +1258,7 @@ ARM GAS  /tmp/ccVreOkh.s 			page 1
  1184 02a0 08       		.byte	0x8
  1185 02a1 1801     		.2byte	0x118
  1186 02a3 82020000 		.4byte	0x282
-ARM GAS  /tmp/ccVreOkh.s 			page 22
+ARM GAS  /tmp/ccb4AfEe.s 			page 22
 
 
  1187 02a7 02       		.byte	0x2
@@ -1318,7 +1318,7 @@ ARM GAS  /tmp/ccVreOkh.s 			page 1
  1241 0305 1F01     		.2byte	0x11f
  1242 0307 82020000 		.4byte	0x282
  1243 030b 02       		.byte	0x2
-ARM GAS  /tmp/ccVreOkh.s 			page 23
+ARM GAS  /tmp/ccb4AfEe.s 			page 23
 
 
  1244 030c 23       		.byte	0x23
@@ -1378,7 +1378,7 @@ ARM GAS  /tmp/ccVreOkh.s 			page 1
  1298 0374 14       		.byte	0x14
  1299 0375 09       		.byte	0x9
  1300 0376 5A       		.byte	0x5a
-ARM GAS  /tmp/ccVreOkh.s 			page 24
+ARM GAS  /tmp/ccb4AfEe.s 			page 24
 
 
  1301 0377 C2030000 		.4byte	0x3c2
@@ -1438,7 +1438,7 @@ ARM GAS  /tmp/ccVreOkh.s 			page 1
  1355 03d7 C2030000 		.4byte	0x3c2
  1356 03db 02       		.byte	0x2
  1357 03dc 23       		.byte	0x23
-ARM GAS  /tmp/ccVreOkh.s 			page 25
+ARM GAS  /tmp/ccb4AfEe.s 			page 25
 
 
  1358 03dd 00       		.uleb128 0
@@ -1498,7 +1498,7 @@ ARM GAS  /tmp/ccVreOkh.s 			page 1
  1412 043d 06       		.uleb128 0x6
  1413 043e 24020000 		.4byte	.LASF59
  1414 0442 0A       		.byte	0xa
-ARM GAS  /tmp/ccVreOkh.s 			page 26
+ARM GAS  /tmp/ccb4AfEe.s 			page 26
 
 
  1415 0443 5B       		.byte	0x5b
@@ -1558,7 +1558,7 @@ ARM GAS  /tmp/ccVreOkh.s 			page 1
  1469 04a6 02       		.byte	0x2
  1470 04a7 23       		.byte	0x23
  1471 04a8 08       		.uleb128 0x8
-ARM GAS  /tmp/ccVreOkh.s 			page 27
+ARM GAS  /tmp/ccb4AfEe.s 			page 27
 
 
  1472 04a9 06       		.uleb128 0x6
@@ -1618,7 +1618,7 @@ ARM GAS  /tmp/ccVreOkh.s 			page 1
  1526 0512 BE040000 		.4byte	0x4be
  1527 0516 03       		.uleb128 0x3
  1528 0517 00000000 		.4byte	.LASF73
-ARM GAS  /tmp/ccVreOkh.s 			page 28
+ARM GAS  /tmp/ccb4AfEe.s 			page 28
 
 
  1529 051b 07       		.byte	0x7
@@ -1678,7 +1678,7 @@ ARM GAS  /tmp/ccVreOkh.s 			page 1
  1583 0588 77020000 		.4byte	0x277
  1584 058c 19       		.uleb128 0x19
  1585 058d 3C020000 		.4byte	.LASF103
-ARM GAS  /tmp/ccVreOkh.s 			page 29
+ARM GAS  /tmp/ccb4AfEe.s 			page 29
 
 
  1586 0591 02       		.byte	0x2
@@ -1738,7 +1738,7 @@ ARM GAS  /tmp/ccVreOkh.s 			page 1
  1640 0608 30000000 		.4byte	0x30
  1641 060c 60000000 		.4byte	.LLST3
  1642 0610 1F       		.uleb128 0x1f
-ARM GAS  /tmp/ccVreOkh.s 			page 30
+ARM GAS  /tmp/ccb4AfEe.s 			page 30
 
 
  1643 0611 15000000 		.4byte	.LASF74
@@ -1798,7 +1798,7 @@ ARM GAS  /tmp/ccVreOkh.s 			page 1
  1697 0684 20       		.uleb128 0x20
  1698 0685 77737000 		.ascii	"wsp\000"
  1699 0689 01       		.byte	0x1
-ARM GAS  /tmp/ccVreOkh.s 			page 31
+ARM GAS  /tmp/ccb4AfEe.s 			page 31
 
 
  1700 068a B4       		.byte	0xb4
@@ -1858,7 +1858,7 @@ ARM GAS  /tmp/ccVreOkh.s 			page 1
  1754 070c 7B000000 		.4byte	0x7b
  1755 0710 B4010000 		.4byte	.LLST13
  1756 0714 00       		.byte	0
-ARM GAS  /tmp/ccVreOkh.s 			page 32
+ARM GAS  /tmp/ccb4AfEe.s 			page 32
 
 
  1757 0715 25       		.uleb128 0x25
@@ -1918,7 +1918,7 @@ ARM GAS  /tmp/ccVreOkh.s 			page 1
  1811 075a 00       		.byte	0
  1812 075b 00       		.byte	0
  1813 075c 1D       		.uleb128 0x1d
-ARM GAS  /tmp/ccVreOkh.s 			page 33
+ARM GAS  /tmp/ccb4AfEe.s 			page 33
 
 
  1814 075d 01       		.byte	0x1
@@ -1978,7 +1978,7 @@ ARM GAS  /tmp/ccVreOkh.s 			page 1
  1868 07e1 F3       		.byte	0xf3
  1869 07e2 01       		.byte	0x1
  1870 07e3 4F020000 		.4byte	0x24f
-ARM GAS  /tmp/ccVreOkh.s 			page 34
+ARM GAS  /tmp/ccb4AfEe.s 			page 34
 
 
  1871 07e7 00000000 		.4byte	.LFB11
@@ -2038,7 +2038,7 @@ ARM GAS  /tmp/ccVreOkh.s 			page 1
  1925 085c 00000000 		.4byte	.LFB12
  1926 0860 16000000 		.4byte	.LFE12
  1927 0864 02       		.byte	0x2
-ARM GAS  /tmp/ccVreOkh.s 			page 35
+ARM GAS  /tmp/ccb4AfEe.s 			page 35
 
 
  1928 0865 7D       		.byte	0x7d
@@ -2098,7 +2098,7 @@ ARM GAS  /tmp/ccVreOkh.s 			page 1
  1982 08ea 2D       		.uleb128 0x2d
  1983 08eb 746D7000 		.ascii	"tmp\000"
  1984 08ef 01       		.byte	0x1
-ARM GAS  /tmp/ccVreOkh.s 			page 36
+ARM GAS  /tmp/ccb4AfEe.s 			page 36
 
 
  1985 08f0 2101     		.2byte	0x121
@@ -2158,7 +2158,7 @@ ARM GAS  /tmp/ccVreOkh.s 			page 1
  2039 0969 746D7000 		.ascii	"tmp\000"
  2040 096d 01       		.byte	0x1
  2041 096e 3001     		.2byte	0x130
-ARM GAS  /tmp/ccVreOkh.s 			page 37
+ARM GAS  /tmp/ccb4AfEe.s 			page 37
 
 
  2042 0970 7B000000 		.4byte	0x7b
@@ -2218,7 +2218,7 @@ ARM GAS  /tmp/ccVreOkh.s 			page 1
  2096 09f5 7B000000 		.4byte	0x7b
  2097 09f9 D1030000 		.4byte	.LLST34
  2098 09fd 00       		.byte	0
-ARM GAS  /tmp/ccVreOkh.s 			page 38
+ARM GAS  /tmp/ccb4AfEe.s 			page 38
 
 
  2099 09fe 29       		.uleb128 0x29
@@ -2278,7 +2278,7 @@ ARM GAS  /tmp/ccVreOkh.s 			page 1
  2153 0a85 01       		.byte	0x1
  2154 0a86 50       		.byte	0x50
  2155 0a87 01       		.byte	0x1
-ARM GAS  /tmp/ccVreOkh.s 			page 39
+ARM GAS  /tmp/ccb4AfEe.s 			page 39
 
 
  2156 0a88 3E       		.byte	0x3e
@@ -2338,7 +2338,7 @@ ARM GAS  /tmp/ccVreOkh.s 			page 1
  2210 0af8 38000000 		.4byte	.LFE18
  2211 0afc 8D040000 		.4byte	.LLST41
  2212 0b00 01       		.byte	0x1
-ARM GAS  /tmp/ccVreOkh.s 			page 40
+ARM GAS  /tmp/ccb4AfEe.s 			page 40
 
 
  2213 0b01 A90B0000 		.4byte	0xba9
@@ -2398,7 +2398,7 @@ ARM GAS  /tmp/ccVreOkh.s 			page 1
  2267 0b92 26       		.uleb128 0x26
  2268 0b93 01       		.byte	0x1
  2269 0b94 50       		.byte	0x50
-ARM GAS  /tmp/ccVreOkh.s 			page 41
+ARM GAS  /tmp/ccb4AfEe.s 			page 41
 
 
  2270 0b95 01       		.byte	0x1
@@ -2458,7 +2458,7 @@ ARM GAS  /tmp/ccVreOkh.s 			page 1
  2324 0bef D9000000 		.4byte	0xd9
  2325 0bf3 01       		.byte	0x1
  2326 0bf4 030C0000 		.4byte	0xc03
-ARM GAS  /tmp/ccVreOkh.s 			page 42
+ARM GAS  /tmp/ccb4AfEe.s 			page 42
 
 
  2327 0bf8 0E       		.uleb128 0xe
@@ -2518,7 +2518,7 @@ ARM GAS  /tmp/ccVreOkh.s 			page 1
  2381 0006 0B       		.uleb128 0xb
  2382 0007 03       		.uleb128 0x3
  2383 0008 0E       		.uleb128 0xe
-ARM GAS  /tmp/ccVreOkh.s 			page 43
+ARM GAS  /tmp/ccb4AfEe.s 			page 43
 
 
  2384 0009 1B       		.uleb128 0x1b
@@ -2578,7 +2578,7 @@ ARM GAS  /tmp/ccVreOkh.s 			page 1
  2438 003f 3A       		.uleb128 0x3a
  2439 0040 0B       		.uleb128 0xb
  2440 0041 3B       		.uleb128 0x3b
-ARM GAS  /tmp/ccVreOkh.s 			page 44
+ARM GAS  /tmp/ccb4AfEe.s 			page 44
 
 
  2441 0042 0B       		.uleb128 0xb
@@ -2638,7 +2638,7 @@ ARM GAS  /tmp/ccVreOkh.s 			page 1
  2495 0078 13       		.uleb128 0x13
  2496 0079 00       		.byte	0
  2497 007a 00       		.byte	0
-ARM GAS  /tmp/ccVreOkh.s 			page 45
+ARM GAS  /tmp/ccb4AfEe.s 			page 45
 
 
  2498 007b 0A       		.uleb128 0xa
@@ -2698,7 +2698,7 @@ ARM GAS  /tmp/ccVreOkh.s 			page 1
  2552 00b1 35       		.uleb128 0x35
  2553 00b2 00       		.byte	0
  2554 00b3 49       		.uleb128 0x49
-ARM GAS  /tmp/ccVreOkh.s 			page 46
+ARM GAS  /tmp/ccb4AfEe.s 			page 46
 
 
  2555 00b4 13       		.uleb128 0x13
@@ -2758,7 +2758,7 @@ ARM GAS  /tmp/ccVreOkh.s 			page 1
  2609 00ea 3A       		.uleb128 0x3a
  2610 00eb 0B       		.uleb128 0xb
  2611 00ec 3B       		.uleb128 0x3b
-ARM GAS  /tmp/ccVreOkh.s 			page 47
+ARM GAS  /tmp/ccb4AfEe.s 			page 47
 
 
  2612 00ed 0B       		.uleb128 0xb
@@ -2818,7 +2818,7 @@ ARM GAS  /tmp/ccVreOkh.s 			page 1
  2666 0123 00       		.byte	0
  2667 0124 00       		.byte	0
  2668 0125 18       		.uleb128 0x18
-ARM GAS  /tmp/ccVreOkh.s 			page 48
+ARM GAS  /tmp/ccb4AfEe.s 			page 48
 
 
  2669 0126 34       		.uleb128 0x34
@@ -2878,7 +2878,7 @@ ARM GAS  /tmp/ccVreOkh.s 			page 1
  2723 015d 00       		.byte	0
  2724 015e 1C       		.uleb128 0x1c
  2725 015f 05       		.uleb128 0x5
-ARM GAS  /tmp/ccVreOkh.s 			page 49
+ARM GAS  /tmp/ccb4AfEe.s 			page 49
 
 
  2726 0160 00       		.byte	0
@@ -2938,7 +2938,7 @@ ARM GAS  /tmp/ccVreOkh.s 			page 1
  2780 0197 3A       		.uleb128 0x3a
  2781 0198 0B       		.uleb128 0xb
  2782 0199 3B       		.uleb128 0x3b
-ARM GAS  /tmp/ccVreOkh.s 			page 50
+ARM GAS  /tmp/ccb4AfEe.s 			page 50
 
 
  2783 019a 0B       		.uleb128 0xb
@@ -2998,7 +2998,7 @@ ARM GAS  /tmp/ccVreOkh.s 			page 1
  2837 01d0 00       		.byte	0
  2838 01d1 03       		.uleb128 0x3
  2839 01d2 08       		.uleb128 0x8
-ARM GAS  /tmp/ccVreOkh.s 			page 51
+ARM GAS  /tmp/ccb4AfEe.s 			page 51
 
 
  2840 01d3 3A       		.uleb128 0x3a
@@ -3058,7 +3058,7 @@ ARM GAS  /tmp/ccVreOkh.s 			page 1
  2894 0210 0E       		.uleb128 0xe
  2895 0211 3A       		.uleb128 0x3a
  2896 0212 0B       		.uleb128 0xb
-ARM GAS  /tmp/ccVreOkh.s 			page 52
+ARM GAS  /tmp/ccb4AfEe.s 			page 52
 
 
  2897 0213 3B       		.uleb128 0x3b
@@ -3118,7 +3118,7 @@ ARM GAS  /tmp/ccVreOkh.s 			page 1
  2951 024c 03       		.uleb128 0x3
  2952 024d 08       		.uleb128 0x8
  2953 024e 3A       		.uleb128 0x3a
-ARM GAS  /tmp/ccVreOkh.s 			page 53
+ARM GAS  /tmp/ccb4AfEe.s 			page 53
 
 
  2954 024f 0B       		.uleb128 0xb
@@ -3178,7 +3178,7 @@ ARM GAS  /tmp/ccVreOkh.s 			page 1
  3008 0286 01       		.uleb128 0x1
  3009 0287 13       		.uleb128 0x13
  3010 0288 00       		.byte	0
-ARM GAS  /tmp/ccVreOkh.s 			page 54
+ARM GAS  /tmp/ccb4AfEe.s 			page 54
 
 
  3011 0289 00       		.byte	0
@@ -3238,7 +3238,7 @@ ARM GAS  /tmp/ccVreOkh.s 			page 1
  3065 02bf 01       		.uleb128 0x1
  3066 02c0 58       		.uleb128 0x58
  3067 02c1 0B       		.uleb128 0xb
-ARM GAS  /tmp/ccVreOkh.s 			page 55
+ARM GAS  /tmp/ccb4AfEe.s 			page 55
 
 
  3068 02c2 59       		.uleb128 0x59
@@ -3298,7 +3298,7 @@ ARM GAS  /tmp/ccVreOkh.s 			page 1
  3122 02fc 1D       		.uleb128 0x1d
  3123 02fd 01       		.byte	0x1
  3124 02fe 31       		.uleb128 0x31
-ARM GAS  /tmp/ccVreOkh.s 			page 56
+ARM GAS  /tmp/ccb4AfEe.s 			page 56
 
 
  3125 02ff 13       		.uleb128 0x13
@@ -3358,7 +3358,7 @@ ARM GAS  /tmp/ccVreOkh.s 			page 1
  3179 0335 03       		.uleb128 0x3
  3180 0336 0E       		.uleb128 0xe
  3181 0337 3A       		.uleb128 0x3a
-ARM GAS  /tmp/ccVreOkh.s 			page 57
+ARM GAS  /tmp/ccb4AfEe.s 			page 57
 
 
  3182 0338 0B       		.uleb128 0xb
@@ -3418,7 +3418,7 @@ ARM GAS  /tmp/ccVreOkh.s 			page 1
  3236 000a 7D       		.byte	0x7d
  3237 000b 00       		.sleb128 0
  3238 000c 02000000 		.4byte	.LCFI0
-ARM GAS  /tmp/ccVreOkh.s 			page 58
+ARM GAS  /tmp/ccb4AfEe.s 			page 58
 
 
  3239 0010 46000000 		.4byte	.LFE7
@@ -3478,7 +3478,7 @@ ARM GAS  /tmp/ccVreOkh.s 			page 1
  3293 009a 00000000 		.4byte	0
  3294              	.LLST5:
  3295 009e 00000000 		.4byte	.LVL2
-ARM GAS  /tmp/ccVreOkh.s 			page 59
+ARM GAS  /tmp/ccb4AfEe.s 			page 59
 
 
  3296 00a2 1E000000 		.4byte	.LVL4
@@ -3538,7 +3538,7 @@ ARM GAS  /tmp/ccVreOkh.s 			page 1
  3350 0123 00000000 		.4byte	0
  3351 0127 00000000 		.4byte	0
  3352              	.LLST9:
-ARM GAS  /tmp/ccVreOkh.s 			page 60
+ARM GAS  /tmp/ccb4AfEe.s 			page 60
 
 
  3353 012b 00000000 		.4byte	.LVL7
@@ -3598,7 +3598,7 @@ ARM GAS  /tmp/ccVreOkh.s 			page 1
  3407 01b4 24000000 		.4byte	.LVL16
  3408 01b8 2A000000 		.4byte	.LFE9
  3409 01bc 0100     		.2byte	0x1
-ARM GAS  /tmp/ccVreOkh.s 			page 61
+ARM GAS  /tmp/ccb4AfEe.s 			page 61
 
 
  3410 01be 53       		.byte	0x53
@@ -3658,7 +3658,7 @@ ARM GAS  /tmp/ccVreOkh.s 			page 1
  3464 0245 08       		.sleb128 8
  3465 0246 00000000 		.4byte	0
  3466 024a 00000000 		.4byte	0
-ARM GAS  /tmp/ccVreOkh.s 			page 62
+ARM GAS  /tmp/ccb4AfEe.s 			page 62
 
 
  3467              	.LLST19:
@@ -3718,7 +3718,7 @@ ARM GAS  /tmp/ccVreOkh.s 			page 1
  3521 02dc 0C000000 		.4byte	.LVL40
  3522 02e0 0100     		.2byte	0x1
  3523 02e2 50       		.byte	0x50
-ARM GAS  /tmp/ccVreOkh.s 			page 63
+ARM GAS  /tmp/ccb4AfEe.s 			page 63
 
 
  3524 02e3 0C000000 		.4byte	.LVL40
@@ -3778,7 +3778,7 @@ ARM GAS  /tmp/ccVreOkh.s 			page 1
  3578 0365 0E000000 		.4byte	.LVL49
  3579 0369 15000000 		.4byte	.LVL50-1
  3580 036d 0100     		.2byte	0x1
-ARM GAS  /tmp/ccVreOkh.s 			page 64
+ARM GAS  /tmp/ccb4AfEe.s 			page 64
 
 
  3581 036f 51       		.byte	0x51
@@ -3838,7 +3838,7 @@ ARM GAS  /tmp/ccVreOkh.s 			page 1
  3635 03fb 10       		.sleb128 16
  3636 03fc 00000000 		.4byte	0
  3637 0400 00000000 		.4byte	0
-ARM GAS  /tmp/ccVreOkh.s 			page 65
+ARM GAS  /tmp/ccb4AfEe.s 			page 65
 
 
  3638              	.LLST36:
@@ -3898,7 +3898,7 @@ ARM GAS  /tmp/ccVreOkh.s 			page 1
  3692 0485 00000000 		.4byte	0
  3693 0489 00000000 		.4byte	0
  3694              	.LLST41:
-ARM GAS  /tmp/ccVreOkh.s 			page 66
+ARM GAS  /tmp/ccb4AfEe.s 			page 66
 
 
  3695 048d 00000000 		.4byte	.LFB18
@@ -3958,7 +3958,7 @@ ARM GAS  /tmp/ccVreOkh.s 			page 1
  3749 0000 74000000 		.4byte	0x74
  3750 0004 0200     		.2byte	0x2
  3751 0006 00000000 		.4byte	.Ldebug_info0
-ARM GAS  /tmp/ccVreOkh.s 			page 67
+ARM GAS  /tmp/ccb4AfEe.s 			page 67
 
 
  3752 000a 04       		.byte	0x4
@@ -4018,7 +4018,7 @@ ARM GAS  /tmp/ccVreOkh.s 			page 1
  3806 0058 00000000 		.4byte	0
  3807 005c 00000000 		.4byte	0
  3808 0060 00000000 		.4byte	.LFB7
-ARM GAS  /tmp/ccVreOkh.s 			page 68
+ARM GAS  /tmp/ccb4AfEe.s 			page 68
 
 
  3809 0064 46000000 		.4byte	.LFE7
@@ -4078,7 +4078,7 @@ ARM GAS  /tmp/ccVreOkh.s 			page 1
  3850 0049 76746C69 		.ascii	"vtlist\000"
  3850      737400
  3851              	.LASF87:
-ARM GAS  /tmp/ccVreOkh.s 			page 69
+ARM GAS  /tmp/ccb4AfEe.s 			page 69
 
 
  3852 0050 63685468 		.ascii	"chThdExitS\000"
@@ -4138,7 +4138,7 @@ ARM GAS  /tmp/ccVreOkh.s 			page 1
  3878      77657200 
  3879              	.LASF102:
  3880 00e7 6C697374 		.ascii	"list_remove\000"
-ARM GAS  /tmp/ccVreOkh.s 			page 70
+ARM GAS  /tmp/ccb4AfEe.s 			page 70
 
 
  3880      5F72656D 
@@ -4198,7 +4198,7 @@ ARM GAS  /tmp/ccVreOkh.s 			page 1
  3904      00
  3905              	.LASF19:
  3906 0182 6D73675F 		.ascii	"msg_t\000"
-ARM GAS  /tmp/ccVreOkh.s 			page 71
+ARM GAS  /tmp/ccb4AfEe.s 			page 71
 
 
  3906      7400
@@ -4258,7 +4258,7 @@ ARM GAS  /tmp/ccVreOkh.s 			page 1
  3934      64657200 
  3935              	.LASF59:
  3936 0224 725F6374 		.ascii	"r_ctx\000"
-ARM GAS  /tmp/ccVreOkh.s 			page 72
+ARM GAS  /tmp/ccb4AfEe.s 			page 72
 
 
  3936      7800
@@ -4318,7 +4318,7 @@ ARM GAS  /tmp/ccVreOkh.s 			page 1
  3963      6D6D616E 
  3963      2F446F63 
  3963      756D656E 
-ARM GAS  /tmp/ccVreOkh.s 			page 73
+ARM GAS  /tmp/ccb4AfEe.s 			page 73
 
 
  3964              	.LASF39:
@@ -4378,7 +4378,7 @@ ARM GAS  /tmp/ccVreOkh.s 			page 1
  3993 0390 725F7175 		.ascii	"r_queue\000"
  3993      65756500 
  3994              	.LASF49:
-ARM GAS  /tmp/ccVreOkh.s 			page 74
+ARM GAS  /tmp/ccb4AfEe.s 			page 74
 
 
  3995 0398 56697274 		.ascii	"VirtualTimer\000"
@@ -4438,7 +4438,7 @@ ARM GAS  /tmp/ccVreOkh.s 			page 1
  4023      667300
  4024              	.LASF63:
  4025 0425 52656164 		.ascii	"ReadyList\000"
-ARM GAS  /tmp/ccVreOkh.s 			page 75
+ARM GAS  /tmp/ccb4AfEe.s 			page 75
 
 
  4025      794C6973 
@@ -4483,44 +4483,44 @@ ARM GAS  /tmp/ccVreOkh.s 			page 1
  4047      6974696E 
  4047      6700
  4048              		.ident	"GCC: (GNU Tools for ARM Embedded Processors) 4.7.3 20130312 (release) [ARM/embedded-4_7-br
-ARM GAS  /tmp/ccVreOkh.s 			page 76
+ARM GAS  /tmp/ccb4AfEe.s 			page 76
 
 
 DEFINED SYMBOLS
                             *ABS*:00000000 chthreads.c
-     /tmp/ccVreOkh.s:19     .text._thread_init:00000000 $t
-     /tmp/ccVreOkh.s:25     .text._thread_init:00000000 _thread_init
-     /tmp/ccVreOkh.s:99     .text.chThdCreateI:00000000 $t
-     /tmp/ccVreOkh.s:105    .text.chThdCreateI:00000000 chThdCreateI
-     /tmp/ccVreOkh.s:217    .text.chThdCreateStatic:00000000 $t
-     /tmp/ccVreOkh.s:223    .text.chThdCreateStatic:00000000 chThdCreateStatic
-     /tmp/ccVreOkh.s:280    .text.chThdSetPriority:00000000 $t
-     /tmp/ccVreOkh.s:286    .text.chThdSetPriority:00000000 chThdSetPriority
-     /tmp/ccVreOkh.s:346    .text.chThdSetPriority:0000002c $d
-     /tmp/ccVreOkh.s:351    .text.chThdResume:00000000 $t
-     /tmp/ccVreOkh.s:357    .text.chThdResume:00000000 chThdResume
-     /tmp/ccVreOkh.s:405    .text.chThdTerminate:00000000 $t
-     /tmp/ccVreOkh.s:411    .text.chThdTerminate:00000000 chThdTerminate
-     /tmp/ccVreOkh.s:449    .text.chThdSleep:00000000 $t
-     /tmp/ccVreOkh.s:455    .text.chThdSleep:00000000 chThdSleep
-     /tmp/ccVreOkh.s:499    .text.chThdSleepUntil:00000000 $t
-     /tmp/ccVreOkh.s:505    .text.chThdSleepUntil:00000000 chThdSleepUntil
-     /tmp/ccVreOkh.s:553    .text.chThdSleepUntil:00000020 $d
-     /tmp/ccVreOkh.s:559    .text.chThdYield:00000000 $t
-     /tmp/ccVreOkh.s:565    .text.chThdYield:00000000 chThdYield
-     /tmp/ccVreOkh.s:612    .text.chThdYield:00000024 $d
-     /tmp/ccVreOkh.s:618    .text.chThdExitS:00000000 $t
-     /tmp/ccVreOkh.s:624    .text.chThdExitS:00000000 chThdExitS
-     /tmp/ccVreOkh.s:691    .text.chThdExitS:0000003c $d
-     /tmp/ccVreOkh.s:696    .text.chThdExit:00000000 $t
-     /tmp/ccVreOkh.s:702    .text.chThdExit:00000000 chThdExit
-     /tmp/ccVreOkh.s:728    .text.chThdWait:00000000 $t
-     /tmp/ccVreOkh.s:734    .text.chThdWait:00000000 chThdWait
-     /tmp/ccVreOkh.s:813    .text.chThdWait:00000034 $d
+     /tmp/ccb4AfEe.s:19     .text._thread_init:00000000 $t
+     /tmp/ccb4AfEe.s:25     .text._thread_init:00000000 _thread_init
+     /tmp/ccb4AfEe.s:99     .text.chThdCreateI:00000000 $t
+     /tmp/ccb4AfEe.s:105    .text.chThdCreateI:00000000 chThdCreateI
+     /tmp/ccb4AfEe.s:217    .text.chThdCreateStatic:00000000 $t
+     /tmp/ccb4AfEe.s:223    .text.chThdCreateStatic:00000000 chThdCreateStatic
+     /tmp/ccb4AfEe.s:280    .text.chThdSetPriority:00000000 $t
+     /tmp/ccb4AfEe.s:286    .text.chThdSetPriority:00000000 chThdSetPriority
+     /tmp/ccb4AfEe.s:346    .text.chThdSetPriority:0000002c $d
+     /tmp/ccb4AfEe.s:351    .text.chThdResume:00000000 $t
+     /tmp/ccb4AfEe.s:357    .text.chThdResume:00000000 chThdResume
+     /tmp/ccb4AfEe.s:405    .text.chThdTerminate:00000000 $t
+     /tmp/ccb4AfEe.s:411    .text.chThdTerminate:00000000 chThdTerminate
+     /tmp/ccb4AfEe.s:449    .text.chThdSleep:00000000 $t
+     /tmp/ccb4AfEe.s:455    .text.chThdSleep:00000000 chThdSleep
+     /tmp/ccb4AfEe.s:499    .text.chThdSleepUntil:00000000 $t
+     /tmp/ccb4AfEe.s:505    .text.chThdSleepUntil:00000000 chThdSleepUntil
+     /tmp/ccb4AfEe.s:553    .text.chThdSleepUntil:00000020 $d
+     /tmp/ccb4AfEe.s:559    .text.chThdYield:00000000 $t
+     /tmp/ccb4AfEe.s:565    .text.chThdYield:00000000 chThdYield
+     /tmp/ccb4AfEe.s:612    .text.chThdYield:00000024 $d
+     /tmp/ccb4AfEe.s:618    .text.chThdExitS:00000000 $t
+     /tmp/ccb4AfEe.s:624    .text.chThdExitS:00000000 chThdExitS
+     /tmp/ccb4AfEe.s:691    .text.chThdExitS:0000003c $d
+     /tmp/ccb4AfEe.s:696    .text.chThdExit:00000000 $t
+     /tmp/ccb4AfEe.s:702    .text.chThdExit:00000000 chThdExit
+     /tmp/ccb4AfEe.s:728    .text.chThdWait:00000000 $t
+     /tmp/ccb4AfEe.s:734    .text.chThdWait:00000000 chThdWait
+     /tmp/ccb4AfEe.s:813    .text.chThdWait:00000034 $d
                      .debug_frame:00000010 $d
-     /tmp/ccVreOkh.s:558    .text.chThdSleepUntil:00000024 $t
-     /tmp/ccVreOkh.s:617    .text.chThdYield:00000028 $t
-     /tmp/ccVreOkh.s:817    .text.chThdWait:00000038 $t
+     /tmp/ccb4AfEe.s:558    .text.chThdSleepUntil:00000024 $t
+     /tmp/ccb4AfEe.s:617    .text.chThdYield:00000028 $t
+     /tmp/ccb4AfEe.s:817    .text.chThdWait:00000038 $t
 
 UNDEFINED SYMBOLS
 rlist

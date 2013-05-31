@@ -1,4 +1,4 @@
-ARM GAS  /tmp/ccvGF9f9.s 			page 1
+ARM GAS  /tmp/cczu7hh9.s 			page 1
 
 
    1              		.syntax unified
@@ -58,7 +58,7 @@ ARM GAS  /tmp/ccvGF9f9.s 			page 1
   55 0015 0B       		.byte	(.L5-.L6)/2
   56 0016 10       		.byte	(.L2-.L6)/2
   57 0017 10       		.byte	(.L2-.L6)/2
-ARM GAS  /tmp/ccvGF9f9.s 			page 2
+ARM GAS  /tmp/cczu7hh9.s 			page 2
 
 
   58 0018 10       		.byte	(.L2-.L6)/2
@@ -118,7 +118,7 @@ ARM GAS  /tmp/ccvGF9f9.s 			page 1
  112 004a 4160     		str	r1, [r0, #4]
  113              		.loc 1 93 0
  114 004c 0860     		str	r0, [r1, #0]
-ARM GAS  /tmp/ccvGF9f9.s 			page 3
+ARM GAS  /tmp/cczu7hh9.s 			page 3
 
 
  115 004e 5860     		str	r0, [r3, #4]
@@ -178,7 +178,7 @@ ARM GAS  /tmp/ccvGF9f9.s 			page 1
  169 0016 00BFAFF3 		.section	.text.chSchReadyI,"ax",%progbits
  169      0080AFF3 
  169      0080
-ARM GAS  /tmp/ccvGF9f9.s 			page 4
+ARM GAS  /tmp/cczu7hh9.s 			page 4
 
 
  170              		.align	2
@@ -238,7 +238,7 @@ ARM GAS  /tmp/ccvGF9f9.s 			page 1
  224              		.type	chSchGoSleepS, %function
  225              	chSchGoSleepS:
  226              	.LFB9:
-ARM GAS  /tmp/ccvGF9f9.s 			page 5
+ARM GAS  /tmp/cczu7hh9.s 			page 5
 
 
  227              		.loc 1 108 0
@@ -298,7 +298,7 @@ ARM GAS  /tmp/ccvGF9f9.s 			page 1
  281 0024 FFF7FEBF 		b	_port_switch
  282              	.LVL19:
  283              		.cfi_endproc
-ARM GAS  /tmp/ccvGF9f9.s 			page 6
+ARM GAS  /tmp/cczu7hh9.s 			page 6
 
 
  284              	.LFE9:
@@ -358,7 +358,7 @@ ARM GAS  /tmp/ccvGF9f9.s 			page 1
  337              	.LBE34:
  338              		.loc 1 196 0
  339 0026 A069     		ldr	r0, [r4, #24]
-ARM GAS  /tmp/ccvGF9f9.s 			page 7
+ARM GAS  /tmp/cczu7hh9.s 			page 7
 
 
  340              		.loc 1 197 0
@@ -418,7 +418,7 @@ ARM GAS  /tmp/ccvGF9f9.s 			page 1
  394              		.loc 1 85 0
  395 000e 0023     		movs	r3, #0
  396              	.LBE36:
-ARM GAS  /tmp/ccvGF9f9.s 			page 8
+ARM GAS  /tmp/cczu7hh9.s 			page 8
 
 
  397              	.LBE35:
@@ -478,7 +478,7 @@ ARM GAS  /tmp/ccvGF9f9.s 			page 1
  451              		.loc 1 92 0
  452 003a 4868     		ldr	r0, [r1, #4]
  453              		.loc 1 91 0
-ARM GAS  /tmp/ccvGF9f9.s 			page 9
+ARM GAS  /tmp/cczu7hh9.s 			page 9
 
 
  454 003c 3160     		str	r1, [r6, #0]
@@ -538,7 +538,7 @@ ARM GAS  /tmp/ccvGF9f9.s 			page 1
  507              	.LBE44:
  508              	.LBE43:
  509              		.loc 1 300 0
-ARM GAS  /tmp/ccvGF9f9.s 			page 10
+ARM GAS  /tmp/cczu7hh9.s 			page 10
 
 
  510 0004 9969     		ldr	r1, [r3, #24]
@@ -598,7 +598,7 @@ ARM GAS  /tmp/ccvGF9f9.s 			page 1
  564 0028 FBD2     		bcs	.L43
  565              		.loc 1 92 0
  566 002a 5A68     		ldr	r2, [r3, #4]
-ARM GAS  /tmp/ccvGF9f9.s 			page 11
+ARM GAS  /tmp/cczu7hh9.s 			page 11
 
 
  567              		.loc 1 91 0
@@ -658,7 +658,7 @@ ARM GAS  /tmp/ccvGF9f9.s 			page 1
  621              	.LCFI5:
  622              		.cfi_def_cfa_offset 8
  623              		.cfi_offset 4, -8
-ARM GAS  /tmp/ccvGF9f9.s 			page 12
+ARM GAS  /tmp/cczu7hh9.s 			page 12
 
 
  624              		.cfi_offset 5, -4
@@ -718,7 +718,7 @@ ARM GAS  /tmp/ccvGF9f9.s 			page 1
  678              		.p2align 4,,15
  679              		.global	chSchRescheduleS
  680              		.thumb
-ARM GAS  /tmp/ccvGF9f9.s 			page 13
+ARM GAS  /tmp/cczu7hh9.s 			page 13
 
 
  681              		.thumb_func
@@ -778,7 +778,7 @@ ARM GAS  /tmp/ccvGF9f9.s 			page 1
  734              	.L59:
  735              		.loc 1 375 0
  736              		.loc 1 363 0
-ARM GAS  /tmp/ccvGF9f9.s 			page 14
+ARM GAS  /tmp/cczu7hh9.s 			page 14
 
 
  737 000c FFF7FEBF 		b	chSchDoRescheduleBehind
@@ -838,7 +838,7 @@ ARM GAS  /tmp/ccvGF9f9.s 			page 1
  785 0031 04       		.byte	0x4
  786 0032 07       		.byte	0x7
  787 0033 F3000000 		.4byte	.LASF0
-ARM GAS  /tmp/ccvGF9f9.s 			page 15
+ARM GAS  /tmp/cczu7hh9.s 			page 15
 
 
  788 0037 03       		.uleb128 0x3
@@ -898,7 +898,7 @@ ARM GAS  /tmp/ccvGF9f9.s 			page 1
  842 009d 25       		.byte	0x25
  843 009e 3E000000 		.4byte	0x3e
  844 00a2 04       		.uleb128 0x4
-ARM GAS  /tmp/ccvGF9f9.s 			page 16
+ARM GAS  /tmp/cczu7hh9.s 			page 16
 
 
  845 00a3 98000000 		.4byte	.LASF14
@@ -958,7 +958,7 @@ ARM GAS  /tmp/ccvGF9f9.s 			page 1
  899 0118 4F020000 		.4byte	0x24f
  900 011c 02       		.byte	0x2
  901 011d 23       		.byte	0x23
-ARM GAS  /tmp/ccvGF9f9.s 			page 17
+ARM GAS  /tmp/cczu7hh9.s 			page 17
 
 
  902 011e 00       		.uleb128 0
@@ -1018,7 +1018,7 @@ ARM GAS  /tmp/ccvGF9f9.s 			page 1
  956 017e 02       		.byte	0x2
  957 017f 23       		.byte	0x23
  958 0180 1C       		.uleb128 0x1c
-ARM GAS  /tmp/ccvGF9f9.s 			page 18
+ARM GAS  /tmp/cczu7hh9.s 			page 18
 
 
  959 0181 06       		.uleb128 0x6
@@ -1078,7 +1078,7 @@ ARM GAS  /tmp/ccvGF9f9.s 			page 1
  1013 01e1 23       		.byte	0x23
  1014 01e2 2C       		.uleb128 0x2c
  1015 01e3 06       		.uleb128 0x6
-ARM GAS  /tmp/ccvGF9f9.s 			page 19
+ARM GAS  /tmp/cczu7hh9.s 			page 19
 
 
  1016 01e4 00000000 		.4byte	.LASF37
@@ -1138,7 +1138,7 @@ ARM GAS  /tmp/ccvGF9f9.s 			page 1
  1070 0241 24020000 		.4byte	.LASF24
  1071 0245 05       		.byte	0x5
  1072 0246 5D       		.byte	0x5d
-ARM GAS  /tmp/ccvGF9f9.s 			page 20
+ARM GAS  /tmp/cczu7hh9.s 			page 20
 
 
  1073 0247 4F020000 		.4byte	0x24f
@@ -1198,7 +1198,7 @@ ARM GAS  /tmp/ccvGF9f9.s 			page 1
  1127 02ab 723500   		.ascii	"r5\000"
  1128 02ae 07       		.byte	0x7
  1129 02af 1901     		.2byte	0x119
-ARM GAS  /tmp/ccvGF9f9.s 			page 21
+ARM GAS  /tmp/cczu7hh9.s 			page 21
 
 
  1130 02b1 82020000 		.4byte	0x282
@@ -1258,7 +1258,7 @@ ARM GAS  /tmp/ccvGF9f9.s 			page 1
  1184 0312 07       		.byte	0x7
  1185 0313 2001     		.2byte	0x120
  1186 0315 82020000 		.4byte	0x282
-ARM GAS  /tmp/ccvGF9f9.s 			page 22
+ARM GAS  /tmp/cczu7hh9.s 			page 22
 
 
  1187 0319 02       		.byte	0x2
@@ -1318,7 +1318,7 @@ ARM GAS  /tmp/ccvGF9f9.s 			page 1
  1241 0381 5B       		.byte	0x5b
  1242 0382 C2030000 		.4byte	0x3c2
  1243 0386 02       		.byte	0x2
-ARM GAS  /tmp/ccvGF9f9.s 			page 23
+ARM GAS  /tmp/cczu7hh9.s 			page 23
 
 
  1244 0387 23       		.byte	0x23
@@ -1378,7 +1378,7 @@ ARM GAS  /tmp/ccvGF9f9.s 			page 1
  1298 03e4 EB020000 		.4byte	.LASF56
  1299 03e8 09       		.byte	0x9
  1300 03e9 59       		.byte	0x59
-ARM GAS  /tmp/ccvGF9f9.s 			page 24
+ARM GAS  /tmp/cczu7hh9.s 			page 24
 
 
  1301 03ea C3000000 		.4byte	0xc3
@@ -1438,7 +1438,7 @@ ARM GAS  /tmp/ccvGF9f9.s 			page 1
  1355 044d 23       		.byte	0x23
  1356 044e 00       		.uleb128 0
  1357 044f 06       		.uleb128 0x6
-ARM GAS  /tmp/ccvGF9f9.s 			page 25
+ARM GAS  /tmp/cczu7hh9.s 			page 25
 
 
  1358 0450 2E010000 		.4byte	.LASF64
@@ -1498,7 +1498,7 @@ ARM GAS  /tmp/ccvGF9f9.s 			page 1
  1412 04b3 06       		.byte	0x6
  1413 04b4 8F       		.byte	0x8f
  1414 04b5 E6040000 		.4byte	0x4e6
-ARM GAS  /tmp/ccvGF9f9.s 			page 26
+ARM GAS  /tmp/cczu7hh9.s 			page 26
 
 
  1415 04b9 11       		.uleb128 0x11
@@ -1558,7 +1558,7 @@ ARM GAS  /tmp/ccvGF9f9.s 			page 1
  1469 0527 01       		.byte	0x1
  1470 0528 41050000 		.4byte	0x541
  1471 052c 14       		.uleb128 0x14
-ARM GAS  /tmp/ccvGF9f9.s 			page 27
+ARM GAS  /tmp/cczu7hh9.s 			page 27
 
 
  1472 052d 747000   		.ascii	"tp\000"
@@ -1618,7 +1618,7 @@ ARM GAS  /tmp/ccvGF9f9.s 			page 1
  1526 0596 82       		.byte	0x82
  1527 0597 4F020000 		.4byte	0x24f
  1528 059b 01       		.byte	0x1
-ARM GAS  /tmp/ccvGF9f9.s 			page 28
+ARM GAS  /tmp/cczu7hh9.s 			page 28
 
 
  1529 059c 50       		.byte	0x50
@@ -1678,7 +1678,7 @@ ARM GAS  /tmp/ccvGF9f9.s 			page 1
  1583 0623 4B000000 		.4byte	.LASF91
  1584 0627 01       		.byte	0x1
  1585 0628 30       		.byte	0x30
-ARM GAS  /tmp/ccvGF9f9.s 			page 29
+ARM GAS  /tmp/cczu7hh9.s 			page 29
 
 
  1586 0629 01       		.byte	0x1
@@ -1738,7 +1738,7 @@ ARM GAS  /tmp/ccvGF9f9.s 			page 1
  1640 06a1 C1060000 		.4byte	0x6c1
  1641 06a5 22       		.uleb128 0x22
  1642 06a6 52050000 		.4byte	0x552
-ARM GAS  /tmp/ccvGF9f9.s 			page 30
+ARM GAS  /tmp/cczu7hh9.s 			page 30
 
 
  1643 06aa 06       		.byte	0x6
@@ -1798,7 +1798,7 @@ ARM GAS  /tmp/ccvGF9f9.s 			page 1
  1697 0727 B7090000 		.4byte	0x9b7
  1698 072b 46070000 		.4byte	0x746
  1699 072f 2B       		.uleb128 0x2b
-ARM GAS  /tmp/ccvGF9f9.s 			page 31
+ARM GAS  /tmp/cczu7hh9.s 			page 31
 
 
  1700 0730 01       		.byte	0x1
@@ -1858,7 +1858,7 @@ ARM GAS  /tmp/ccvGF9f9.s 			page 1
  1754 078a 01       		.byte	0x1
  1755 078b 30080000 		.4byte	0x830
  1756 078f 2E       		.uleb128 0x2e
-ARM GAS  /tmp/ccvGF9f9.s 			page 32
+ARM GAS  /tmp/cczu7hh9.s 			page 32
 
 
  1757 0790 6E747000 		.ascii	"ntp\000"
@@ -1918,7 +1918,7 @@ ARM GAS  /tmp/ccvGF9f9.s 			page 1
  1811 0817 2F       		.uleb128 0x2f
  1812 0818 54000000 		.4byte	.LVL38
  1813 081c 01       		.byte	0x1
-ARM GAS  /tmp/ccvGF9f9.s 			page 33
+ARM GAS  /tmp/cczu7hh9.s 			page 33
 
 
  1814 081d 9D090000 		.4byte	0x99d
@@ -1978,7 +1978,7 @@ ARM GAS  /tmp/ccvGF9f9.s 			page 1
  1868 088c 1A050000 		.4byte	0x51a
  1869 0890 16000000 		.4byte	.LBB49
  1870 0894 C8000000 		.4byte	.Ldebug_ranges0+0xc8
-ARM GAS  /tmp/ccvGF9f9.s 			page 34
+ARM GAS  /tmp/cczu7hh9.s 			page 34
 
 
  1871 0898 01       		.byte	0x1
@@ -2038,7 +2038,7 @@ ARM GAS  /tmp/ccvGF9f9.s 			page 1
  1925 091d 27       		.uleb128 0x27
  1926 091e 18010000 		.4byte	.Ldebug_ranges0+0x118
  1927 0922 1F       		.uleb128 0x1f
-ARM GAS  /tmp/ccvGF9f9.s 			page 35
+ARM GAS  /tmp/cczu7hh9.s 			page 35
 
 
  1928 0923 5D050000 		.4byte	0x55d
@@ -2098,7 +2098,7 @@ ARM GAS  /tmp/ccvGF9f9.s 			page 1
  1982 0996 01       		.byte	0x1
  1983 0997 05       		.byte	0x5
  1984 0998 03       		.byte	0x3
-ARM GAS  /tmp/ccvGF9f9.s 			page 36
+ARM GAS  /tmp/cczu7hh9.s 			page 36
 
 
  1985 0999 00000000 		.4byte	rlist
@@ -2158,7 +2158,7 @@ ARM GAS  /tmp/ccvGF9f9.s 			page 1
  2039 000a 0E       		.uleb128 0xe
  2040 000b 55       		.uleb128 0x55
  2041 000c 06       		.uleb128 0x6
-ARM GAS  /tmp/ccvGF9f9.s 			page 37
+ARM GAS  /tmp/cczu7hh9.s 			page 37
 
 
  2042 000d 11       		.uleb128 0x11
@@ -2218,7 +2218,7 @@ ARM GAS  /tmp/ccvGF9f9.s 			page 1
  2096 0043 01       		.uleb128 0x1
  2097 0044 13       		.uleb128 0x13
  2098 0045 00       		.byte	0
-ARM GAS  /tmp/ccvGF9f9.s 			page 38
+ARM GAS  /tmp/cczu7hh9.s 			page 38
 
 
  2099 0046 00       		.byte	0
@@ -2278,7 +2278,7 @@ ARM GAS  /tmp/ccvGF9f9.s 			page 1
  2153 007c 0F       		.uleb128 0xf
  2154 007d 00       		.byte	0
  2155 007e 0B       		.uleb128 0xb
-ARM GAS  /tmp/ccvGF9f9.s 			page 39
+ARM GAS  /tmp/cczu7hh9.s 			page 39
 
 
  2156 007f 0B       		.uleb128 0xb
@@ -2338,7 +2338,7 @@ ARM GAS  /tmp/ccvGF9f9.s 			page 1
  2210 00b5 00       		.byte	0
  2211 00b6 00       		.byte	0
  2212 00b7 10       		.uleb128 0x10
-ARM GAS  /tmp/ccvGF9f9.s 			page 40
+ARM GAS  /tmp/cczu7hh9.s 			page 40
 
 
  2213 00b8 17       		.uleb128 0x17
@@ -2398,7 +2398,7 @@ ARM GAS  /tmp/ccvGF9f9.s 			page 1
  2267 00ee 03       		.uleb128 0x3
  2268 00ef 08       		.uleb128 0x8
  2269 00f0 3A       		.uleb128 0x3a
-ARM GAS  /tmp/ccvGF9f9.s 			page 41
+ARM GAS  /tmp/cczu7hh9.s 			page 41
 
 
  2270 00f1 0B       		.uleb128 0xb
@@ -2458,7 +2458,7 @@ ARM GAS  /tmp/ccvGF9f9.s 			page 1
  2324 0127 12       		.uleb128 0x12
  2325 0128 01       		.uleb128 0x1
  2326 0129 40       		.uleb128 0x40
-ARM GAS  /tmp/ccvGF9f9.s 			page 42
+ARM GAS  /tmp/cczu7hh9.s 			page 42
 
 
  2327 012a 0A       		.uleb128 0xa
@@ -2518,7 +2518,7 @@ ARM GAS  /tmp/ccvGF9f9.s 			page 1
  2381 0161 0B       		.uleb128 0xb
  2382 0162 3B       		.uleb128 0x3b
  2383 0163 0B       		.uleb128 0xb
-ARM GAS  /tmp/ccvGF9f9.s 			page 43
+ARM GAS  /tmp/cczu7hh9.s 			page 43
 
 
  2384 0164 49       		.uleb128 0x49
@@ -2578,7 +2578,7 @@ ARM GAS  /tmp/ccvGF9f9.s 			page 1
  2438 019a 0C       		.uleb128 0xc
  2439 019b 03       		.uleb128 0x3
  2440 019c 0E       		.uleb128 0xe
-ARM GAS  /tmp/ccvGF9f9.s 			page 44
+ARM GAS  /tmp/cczu7hh9.s 			page 44
 
 
  2441 019d 3A       		.uleb128 0x3a
@@ -2638,7 +2638,7 @@ ARM GAS  /tmp/ccvGF9f9.s 			page 1
  2495 01d5 3F       		.uleb128 0x3f
  2496 01d6 0C       		.uleb128 0xc
  2497 01d7 03       		.uleb128 0x3
-ARM GAS  /tmp/ccvGF9f9.s 			page 45
+ARM GAS  /tmp/cczu7hh9.s 			page 45
 
 
  2498 01d8 0E       		.uleb128 0xe
@@ -2698,7 +2698,7 @@ ARM GAS  /tmp/ccvGF9f9.s 			page 1
  2552 020f 55       		.uleb128 0x55
  2553 0210 06       		.uleb128 0x6
  2554 0211 00       		.byte	0
-ARM GAS  /tmp/ccvGF9f9.s 			page 46
+ARM GAS  /tmp/cczu7hh9.s 			page 46
 
 
  2555 0212 00       		.byte	0
@@ -2758,7 +2758,7 @@ ARM GAS  /tmp/ccvGF9f9.s 			page 1
  2609 0250 0A       		.uleb128 0xa
  2610 0251 9142     		.uleb128 0x2111
  2611 0253 0A       		.uleb128 0xa
-ARM GAS  /tmp/ccvGF9f9.s 			page 47
+ARM GAS  /tmp/cczu7hh9.s 			page 47
 
 
  2612 0254 00       		.byte	0
@@ -2818,7 +2818,7 @@ ARM GAS  /tmp/ccvGF9f9.s 			page 1
  2666 0291 0B       		.uleb128 0xb
  2667 0292 3B       		.uleb128 0x3b
  2668 0293 05       		.uleb128 0x5
-ARM GAS  /tmp/ccvGF9f9.s 			page 48
+ARM GAS  /tmp/cczu7hh9.s 			page 48
 
 
  2669 0294 27       		.uleb128 0x27
@@ -2878,7 +2878,7 @@ ARM GAS  /tmp/ccvGF9f9.s 			page 1
  2723 02cb 0B       		.uleb128 0xb
  2724 02cc 3B       		.uleb128 0x3b
  2725 02cd 0B       		.uleb128 0xb
-ARM GAS  /tmp/ccvGF9f9.s 			page 49
+ARM GAS  /tmp/cczu7hh9.s 			page 49
 
 
  2726 02ce 27       		.uleb128 0x27
@@ -2938,7 +2938,7 @@ ARM GAS  /tmp/ccvGF9f9.s 			page 1
  2780 0306 00       		.byte	0
  2781 0307 00       		.byte	0
  2782 0308 36       		.uleb128 0x36
-ARM GAS  /tmp/ccvGF9f9.s 			page 50
+ARM GAS  /tmp/cczu7hh9.s 			page 50
 
 
  2783 0309 2E       		.uleb128 0x2e
@@ -2998,7 +2998,7 @@ ARM GAS  /tmp/ccvGF9f9.s 			page 1
  2837 033f 00       		.byte	0
  2838              		.section	.debug_loc,"",%progbits
  2839              	.Ldebug_loc0:
-ARM GAS  /tmp/ccvGF9f9.s 			page 51
+ARM GAS  /tmp/cczu7hh9.s 			page 51
 
 
  2840              	.LLST0:
@@ -3058,7 +3058,7 @@ ARM GAS  /tmp/ccvGF9f9.s 			page 1
  2894 008e 27000000 		.4byte	.LVL19-1
  2895 0092 0200     		.2byte	0x2
  2896 0094 71       		.byte	0x71
-ARM GAS  /tmp/ccvGF9f9.s 			page 52
+ARM GAS  /tmp/cczu7hh9.s 			page 52
 
 
  2897 0095 1C       		.sleb128 28
@@ -3118,7 +3118,7 @@ ARM GAS  /tmp/ccvGF9f9.s 			page 1
  2951 0117 2E000000 		.4byte	.LVL25
  2952 011b 31000000 		.4byte	.LVL26-1
  2953 011f 0100     		.2byte	0x1
-ARM GAS  /tmp/ccvGF9f9.s 			page 53
+ARM GAS  /tmp/cczu7hh9.s 			page 53
 
 
  2954 0121 50       		.byte	0x50
@@ -3178,7 +3178,7 @@ ARM GAS  /tmp/ccvGF9f9.s 			page 1
  3008 01a1 58000000 		.4byte	.LFE12
  3009 01a5 0100     		.2byte	0x1
  3010 01a7 54       		.byte	0x54
-ARM GAS  /tmp/ccvGF9f9.s 			page 54
+ARM GAS  /tmp/cczu7hh9.s 			page 54
 
 
  3011 01a8 00000000 		.4byte	0
@@ -3238,7 +3238,7 @@ ARM GAS  /tmp/ccvGF9f9.s 			page 1
  3065 0234 03       		.byte	0x3
  3066 0235 00000000 		.4byte	rlist
  3067 0239 9F       		.byte	0x9f
-ARM GAS  /tmp/ccvGF9f9.s 			page 55
+ARM GAS  /tmp/cczu7hh9.s 			page 55
 
 
  3068 023a 32000000 		.4byte	.LVL35
@@ -3298,7 +3298,7 @@ ARM GAS  /tmp/ccvGF9f9.s 			page 1
  3122 02ca 0100     		.2byte	0x1
  3123 02cc 53       		.byte	0x53
  3124 02cd 00000000 		.4byte	0
-ARM GAS  /tmp/ccvGF9f9.s 			page 56
+ARM GAS  /tmp/cczu7hh9.s 			page 56
 
 
  3125 02d1 00000000 		.4byte	0
@@ -3358,7 +3358,7 @@ ARM GAS  /tmp/ccvGF9f9.s 			page 1
  3179 0024 20000000 		.4byte	.LFE8-.LFB8
  3180 0028 00000000 		.4byte	.LFB9
  3181 002c 28000000 		.4byte	.LFE9-.LFB9
-ARM GAS  /tmp/ccvGF9f9.s 			page 57
+ARM GAS  /tmp/cczu7hh9.s 			page 57
 
 
  3182 0030 00000000 		.4byte	.LFB11
@@ -3418,7 +3418,7 @@ ARM GAS  /tmp/ccvGF9f9.s 			page 1
  3236 0098 0A000000 		.4byte	.LBB48
  3237 009c 10000000 		.4byte	.LBE48
  3238 00a0 00000000 		.4byte	0
-ARM GAS  /tmp/ccvGF9f9.s 			page 58
+ARM GAS  /tmp/cczu7hh9.s 			page 58
 
 
  3239 00a4 00000000 		.4byte	0
@@ -3478,7 +3478,7 @@ ARM GAS  /tmp/ccvGF9f9.s 			page 1
  3293 017c 18000000 		.4byte	.LFE13
  3294 0180 00000000 		.4byte	.LFB16
  3295 0184 14000000 		.4byte	.LFE16
-ARM GAS  /tmp/ccvGF9f9.s 			page 59
+ARM GAS  /tmp/cczu7hh9.s 			page 59
 
 
  3296 0188 00000000 		.4byte	0
@@ -3538,7 +3538,7 @@ ARM GAS  /tmp/ccvGF9f9.s 			page 1
  3323              	.LASF16:
  3324 0085 74736C69 		.ascii	"tslices_t\000"
  3324      6365735F 
-ARM GAS  /tmp/ccvGF9f9.s 			page 60
+ARM GAS  /tmp/cczu7hh9.s 			page 60
 
 
  3324      7400
@@ -3598,7 +3598,7 @@ ARM GAS  /tmp/ccvGF9f9.s 			page 1
  3352      69746368 
  3352      00
  3353              	.LASF9:
-ARM GAS  /tmp/ccvGF9f9.s 			page 61
+ARM GAS  /tmp/cczu7hh9.s 			page 61
 
 
  3354 011c 6C6F6E67 		.ascii	"long unsigned int\000"
@@ -3658,7 +3658,7 @@ ARM GAS  /tmp/ccvGF9f9.s 			page 1
  3380      65426568 
  3381              	.LASF85:
  3382 01b9 63685654 		.ascii	"chVTSetI\000"
-ARM GAS  /tmp/ccvGF9f9.s 			page 62
+ARM GAS  /tmp/cczu7hh9.s 			page 62
 
 
  3382      53657449 
@@ -3718,7 +3718,7 @@ ARM GAS  /tmp/ccvGF9f9.s 			page 1
  3409      325F7400 
  3410              	.LASF88:
  3411 028a 2F686F6D 		.ascii	"/home/rumman/Documents/ChibiOS_Examples/SerialUSB\000"
-ARM GAS  /tmp/ccvGF9f9.s 			page 63
+ARM GAS  /tmp/cczu7hh9.s 			page 63
 
 
  3411      652F7275 
@@ -3778,7 +3778,7 @@ ARM GAS  /tmp/ccvGF9f9.s 			page 1
  3439      00
  3440              	.LASF55:
  3441 033c 725F7175 		.ascii	"r_queue\000"
-ARM GAS  /tmp/ccvGF9f9.s 			page 64
+ARM GAS  /tmp/cczu7hh9.s 			page 64
 
 
  3441      65756500 
@@ -3838,7 +3838,7 @@ ARM GAS  /tmp/ccvGF9f9.s 			page 1
  3471 03c6 53656D61 		.ascii	"Semaphore\000"
  3471      70686F72 
  3471      6500
-ARM GAS  /tmp/ccvGF9f9.s 			page 65
+ARM GAS  /tmp/cczu7hh9.s 			page 65
 
 
  3472              	.LASF32:
@@ -3877,50 +3877,50 @@ ARM GAS  /tmp/ccvGF9f9.s 			page 1
  3491      6974696E 
  3491      6700
  3492              		.ident	"GCC: (GNU Tools for ARM Embedded Processors) 4.7.3 20130312 (release) [ARM/embedded-4_7-br
-ARM GAS  /tmp/ccvGF9f9.s 			page 66
+ARM GAS  /tmp/cczu7hh9.s 			page 66
 
 
 DEFINED SYMBOLS
                             *ABS*:00000000 chschd.c
-     /tmp/ccvGF9f9.s:19     .text.wakeup:00000000 $t
-     /tmp/ccvGF9f9.s:24     .text.wakeup:00000000 wakeup
-     /tmp/ccvGF9f9.s:50     .text.wakeup:00000010 $d
-     /tmp/ccvGF9f9.s:64     .text.wakeup:0000001e $t
-     /tmp/ccvGF9f9.s:133    .text.wakeup:00000058 $d
-     /tmp/ccvGF9f9.s:139    .text._scheduler_init:00000000 $t
-     /tmp/ccvGF9f9.s:145    .text._scheduler_init:00000000 _scheduler_init
-     /tmp/ccvGF9f9.s:749    .bss.rlist:00000000 .LANCHOR0
-     /tmp/ccvGF9f9.s:170    .text.chSchReadyI:00000000 $t
-     /tmp/ccvGF9f9.s:176    .text.chSchReadyI:00000000 chSchReadyI
-     /tmp/ccvGF9f9.s:214    .text.chSchReadyI:0000001c $d
-     /tmp/ccvGF9f9.s:219    .text.chSchGoSleepS:00000000 $t
-     /tmp/ccvGF9f9.s:225    .text.chSchGoSleepS:00000000 chSchGoSleepS
-     /tmp/ccvGF9f9.s:287    .text.chSchGoSleepTimeoutS:00000000 $t
-     /tmp/ccvGF9f9.s:293    .text.chSchGoSleepTimeoutS:00000000 chSchGoSleepTimeoutS
-     /tmp/ccvGF9f9.s:354    .text.chSchGoSleepTimeoutS:00000038 $d
-     /tmp/ccvGF9f9.s:360    .text.chSchWakeupS:00000000 $t
-     /tmp/ccvGF9f9.s:366    .text.chSchWakeupS:00000000 chSchWakeupS
-     /tmp/ccvGF9f9.s:482    .text.chSchWakeupS:00000054 $d
-     /tmp/ccvGF9f9.s:488    .text.chSchDoRescheduleBehind:00000000 $t
-     /tmp/ccvGF9f9.s:494    .text.chSchDoRescheduleBehind:00000000 chSchDoRescheduleBehind
-     /tmp/ccvGF9f9.s:584    .text.chSchDoRescheduleBehind:0000003c $d
-     /tmp/ccvGF9f9.s:589    .text.chSchDoRescheduleAhead:00000000 $t
-     /tmp/ccvGF9f9.s:595    .text.chSchDoRescheduleAhead:00000000 chSchDoRescheduleAhead
-     /tmp/ccvGF9f9.s:672    .text.chSchDoRescheduleAhead:00000038 $d
-     /tmp/ccvGF9f9.s:677    .text.chSchRescheduleS:00000000 $t
-     /tmp/ccvGF9f9.s:683    .text.chSchRescheduleS:00000000 chSchRescheduleS
-     /tmp/ccvGF9f9.s:707    .text.chSchRescheduleS:00000014 $d
-     /tmp/ccvGF9f9.s:712    .text.chSchDoReschedule:00000000 $t
-     /tmp/ccvGF9f9.s:718    .text.chSchDoReschedule:00000000 chSchDoReschedule
-     /tmp/ccvGF9f9.s:742    .text.chSchDoReschedule:00000010 $d
-     /tmp/ccvGF9f9.s:752    .bss.rlist:00000000 rlist
-     /tmp/ccvGF9f9.s:748    .bss.rlist:00000000 $d
+     /tmp/cczu7hh9.s:19     .text.wakeup:00000000 $t
+     /tmp/cczu7hh9.s:24     .text.wakeup:00000000 wakeup
+     /tmp/cczu7hh9.s:50     .text.wakeup:00000010 $d
+     /tmp/cczu7hh9.s:64     .text.wakeup:0000001e $t
+     /tmp/cczu7hh9.s:133    .text.wakeup:00000058 $d
+     /tmp/cczu7hh9.s:139    .text._scheduler_init:00000000 $t
+     /tmp/cczu7hh9.s:145    .text._scheduler_init:00000000 _scheduler_init
+     /tmp/cczu7hh9.s:749    .bss.rlist:00000000 .LANCHOR0
+     /tmp/cczu7hh9.s:170    .text.chSchReadyI:00000000 $t
+     /tmp/cczu7hh9.s:176    .text.chSchReadyI:00000000 chSchReadyI
+     /tmp/cczu7hh9.s:214    .text.chSchReadyI:0000001c $d
+     /tmp/cczu7hh9.s:219    .text.chSchGoSleepS:00000000 $t
+     /tmp/cczu7hh9.s:225    .text.chSchGoSleepS:00000000 chSchGoSleepS
+     /tmp/cczu7hh9.s:287    .text.chSchGoSleepTimeoutS:00000000 $t
+     /tmp/cczu7hh9.s:293    .text.chSchGoSleepTimeoutS:00000000 chSchGoSleepTimeoutS
+     /tmp/cczu7hh9.s:354    .text.chSchGoSleepTimeoutS:00000038 $d
+     /tmp/cczu7hh9.s:360    .text.chSchWakeupS:00000000 $t
+     /tmp/cczu7hh9.s:366    .text.chSchWakeupS:00000000 chSchWakeupS
+     /tmp/cczu7hh9.s:482    .text.chSchWakeupS:00000054 $d
+     /tmp/cczu7hh9.s:488    .text.chSchDoRescheduleBehind:00000000 $t
+     /tmp/cczu7hh9.s:494    .text.chSchDoRescheduleBehind:00000000 chSchDoRescheduleBehind
+     /tmp/cczu7hh9.s:584    .text.chSchDoRescheduleBehind:0000003c $d
+     /tmp/cczu7hh9.s:589    .text.chSchDoRescheduleAhead:00000000 $t
+     /tmp/cczu7hh9.s:595    .text.chSchDoRescheduleAhead:00000000 chSchDoRescheduleAhead
+     /tmp/cczu7hh9.s:672    .text.chSchDoRescheduleAhead:00000038 $d
+     /tmp/cczu7hh9.s:677    .text.chSchRescheduleS:00000000 $t
+     /tmp/cczu7hh9.s:683    .text.chSchRescheduleS:00000000 chSchRescheduleS
+     /tmp/cczu7hh9.s:707    .text.chSchRescheduleS:00000014 $d
+     /tmp/cczu7hh9.s:712    .text.chSchDoReschedule:00000000 $t
+     /tmp/cczu7hh9.s:718    .text.chSchDoReschedule:00000000 chSchDoReschedule
+     /tmp/cczu7hh9.s:742    .text.chSchDoReschedule:00000010 $d
+     /tmp/cczu7hh9.s:752    .bss.rlist:00000000 rlist
+     /tmp/cczu7hh9.s:748    .bss.rlist:00000000 $d
                      .debug_frame:00000010 $d
-     /tmp/ccvGF9f9.s:138    .text.wakeup:0000005c $t
-     /tmp/ccvGF9f9.s:487    .text.chSchWakeupS:00000058 $t
-     /tmp/ccvGF9f9.s:676    .text.chSchDoRescheduleAhead:0000003c $t
-     /tmp/ccvGF9f9.s:711    .text.chSchRescheduleS:00000018 $t
-     /tmp/ccvGF9f9.s:747    .text.chSchDoReschedule:00000014 $t
+     /tmp/cczu7hh9.s:138    .text.wakeup:0000005c $t
+     /tmp/cczu7hh9.s:487    .text.chSchWakeupS:00000058 $t
+     /tmp/cczu7hh9.s:676    .text.chSchDoRescheduleAhead:0000003c $t
+     /tmp/cczu7hh9.s:711    .text.chSchRescheduleS:00000018 $t
+     /tmp/cczu7hh9.s:747    .text.chSchDoReschedule:00000014 $t
 
 UNDEFINED SYMBOLS
 _port_switch

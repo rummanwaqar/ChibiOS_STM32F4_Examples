@@ -1,4 +1,4 @@
-ARM GAS  /tmp/ccbi4IS2.s 			page 1
+ARM GAS  /tmp/ccHYGxiI.s 			page 1
 
 
    1              		.syntax unified
@@ -58,7 +58,7 @@ ARM GAS  /tmp/ccbi4IS2.s 			page 1
   55 001e 9861     		str	r0, [r3, #24]
   56 0020 9A61     		str	r2, [r3, #24]
   57              		.loc 1 101 0
-ARM GAS  /tmp/ccbi4IS2.s 			page 2
+ARM GAS  /tmp/ccHYGxiI.s 			page 2
 
 
   58 0022 1E6A     		ldr	r6, [r3, #32]
@@ -118,7 +118,7 @@ ARM GAS  /tmp/ccbi4IS2.s 			page 1
  112 0078 1864     		str	r0, [r3, #64]
  113              	.LBB7:
  114              	.LBB6:
-ARM GAS  /tmp/ccbi4IS2.s 			page 3
+ARM GAS  /tmp/ccHYGxiI.s 			page 3
 
 
  115              		.loc 1 52 0
@@ -178,7 +178,7 @@ ARM GAS  /tmp/ccbi4IS2.s 			page 1
  168              		@ link register save eliminated.
  169              		.loc 1 142 0
  170 0000 4FF46052 		mov	r2, #14336
-ARM GAS  /tmp/ccbi4IS2.s 			page 4
+ARM GAS  /tmp/ccHYGxiI.s 			page 4
 
 
  171 0004 C4F20202 		movt	r2, 16386
@@ -238,7 +238,7 @@ ARM GAS  /tmp/ccbi4IS2.s 			page 1
  225              		.loc 1 175 0 is_stmt 0 discriminator 1
  226 0066 426F     		ldr	r2, [r0, #116]
  227 0068 4FF46053 		mov	r3, #14336
-ARM GAS  /tmp/ccbi4IS2.s 			page 5
+ARM GAS  /tmp/ccHYGxiI.s 			page 5
 
 
  228 006c 9207     		lsls	r2, r2, #30
@@ -298,7 +298,7 @@ ARM GAS  /tmp/ccbi4IS2.s 			page 1
  282 00d6 40F48043 		orr	r3, r0, #16384
  283 00da 5366     		str	r3, [r2, #100]
  284 00dc 7047     		bx	lr
-ARM GAS  /tmp/ccbi4IS2.s 			page 6
+ARM GAS  /tmp/ccHYGxiI.s 			page 6
 
 
  285              		.cfi_endproc
@@ -358,7 +358,7 @@ ARM GAS  /tmp/ccbi4IS2.s 			page 1
  339 005e 04       		.uleb128 0x4
  340 005f 63020000 		.4byte	.LASF6
  341 0063 02       		.byte	0x2
-ARM GAS  /tmp/ccbi4IS2.s 			page 7
+ARM GAS  /tmp/ccHYGxiI.s 			page 7
 
 
  342 0064 4F       		.byte	0x4f
@@ -418,7 +418,7 @@ ARM GAS  /tmp/ccbi4IS2.s 			page 1
  396 00ca EC       		.byte	0xec
  397 00cb 97000000 		.4byte	0x97
  398 00cf 02       		.byte	0x2
-ARM GAS  /tmp/ccbi4IS2.s 			page 8
+ARM GAS  /tmp/ccHYGxiI.s 			page 8
 
 
  399 00d0 23       		.byte	0x23
@@ -478,7 +478,7 @@ ARM GAS  /tmp/ccbi4IS2.s 			page 1
  453 0130 9D010000 		.4byte	.LASF23
  454 0134 03       		.byte	0x3
  455 0135 0301     		.2byte	0x103
-ARM GAS  /tmp/ccbi4IS2.s 			page 9
+ARM GAS  /tmp/ccHYGxiI.s 			page 9
 
 
  456 0137 97000000 		.4byte	0x97
@@ -538,7 +538,7 @@ ARM GAS  /tmp/ccbi4IS2.s 			page 1
  510 01a2 00       		.byte	0
  511 01a3 0D       		.uleb128 0xd
  512 01a4 10       		.byte	0x10
-ARM GAS  /tmp/ccbi4IS2.s 			page 10
+ARM GAS  /tmp/ccHYGxiI.s 			page 10
 
 
  513 01a5 04       		.byte	0x4
@@ -598,7 +598,7 @@ ARM GAS  /tmp/ccbi4IS2.s 			page 1
  567 0210 23       		.byte	0x23
  568 0211 00       		.uleb128 0
  569 0212 08       		.uleb128 0x8
-ARM GAS  /tmp/ccbi4IS2.s 			page 11
+ARM GAS  /tmp/ccHYGxiI.s 			page 11
 
 
  570 0213 98010000 		.4byte	.LASF33
@@ -658,7 +658,7 @@ ARM GAS  /tmp/ccbi4IS2.s 			page 1
  624 0278 A2000000 		.4byte	0xa2
  625 027c 02       		.byte	0x2
  626 027d 23       		.byte	0x23
-ARM GAS  /tmp/ccbi4IS2.s 			page 12
+ARM GAS  /tmp/ccHYGxiI.s 			page 12
 
 
  627 027e 00       		.uleb128 0
@@ -718,7 +718,7 @@ ARM GAS  /tmp/ccbi4IS2.s 			page 1
  681 02e4 05       		.byte	0x5
  682 02e5 E102     		.2byte	0x2e1
  683 02e7 A2000000 		.4byte	0xa2
-ARM GAS  /tmp/ccbi4IS2.s 			page 13
+ARM GAS  /tmp/ccHYGxiI.s 			page 13
 
 
  684 02eb 02       		.byte	0x2
@@ -778,7 +778,7 @@ ARM GAS  /tmp/ccbi4IS2.s 			page 1
  738 034e E802     		.2byte	0x2e8
  739 0350 A2000000 		.4byte	0xa2
  740 0354 02       		.byte	0x2
-ARM GAS  /tmp/ccbi4IS2.s 			page 14
+ARM GAS  /tmp/ccHYGxiI.s 			page 14
 
 
  741 0355 23       		.byte	0x23
@@ -838,7 +838,7 @@ ARM GAS  /tmp/ccbi4IS2.s 			page 1
  795 03b9 A2000000 		.4byte	0xa2
  796 03bd 02       		.byte	0x2
  797 03be 23       		.byte	0x23
-ARM GAS  /tmp/ccbi4IS2.s 			page 15
+ARM GAS  /tmp/ccHYGxiI.s 			page 15
 
 
  798 03bf 50       		.uleb128 0x50
@@ -898,7 +898,7 @@ ARM GAS  /tmp/ccbi4IS2.s 			page 1
  852 0426 02       		.byte	0x2
  853 0427 23       		.byte	0x23
  854 0428 70       		.uleb128 0x70
-ARM GAS  /tmp/ccbi4IS2.s 			page 16
+ARM GAS  /tmp/ccHYGxiI.s 			page 16
 
 
  855 0429 0E       		.uleb128 0xe
@@ -958,7 +958,7 @@ ARM GAS  /tmp/ccbi4IS2.s 			page 1
  909 0493 B1040000 		.4byte	0x4b1
  910 0497 11       		.uleb128 0x11
  911 0498 74040000 		.4byte	0x474
-ARM GAS  /tmp/ccbi4IS2.s 			page 17
+ARM GAS  /tmp/ccHYGxiI.s 			page 17
 
 
  912 049c 6C000000 		.4byte	.LBB4
@@ -1018,7 +1018,7 @@ ARM GAS  /tmp/ccbi4IS2.s 			page 1
  966 0010 01       		.uleb128 0x1
  967 0011 10       		.uleb128 0x10
  968 0012 06       		.uleb128 0x6
-ARM GAS  /tmp/ccbi4IS2.s 			page 18
+ARM GAS  /tmp/ccHYGxiI.s 			page 18
 
 
  969 0013 00       		.byte	0
@@ -1078,7 +1078,7 @@ ARM GAS  /tmp/ccbi4IS2.s 			page 1
  1023 0049 13       		.uleb128 0x13
  1024 004a 00       		.byte	0
  1025 004b 00       		.byte	0
-ARM GAS  /tmp/ccbi4IS2.s 			page 19
+ARM GAS  /tmp/ccHYGxiI.s 			page 19
 
 
  1026 004c 07       		.uleb128 0x7
@@ -1138,7 +1138,7 @@ ARM GAS  /tmp/ccbi4IS2.s 			page 1
  1080 0082 13       		.uleb128 0x13
  1081 0083 01       		.uleb128 0x1
  1082 0084 13       		.uleb128 0x13
-ARM GAS  /tmp/ccbi4IS2.s 			page 20
+ARM GAS  /tmp/ccHYGxiI.s 			page 20
 
 
  1083 0085 00       		.byte	0
@@ -1198,7 +1198,7 @@ ARM GAS  /tmp/ccbi4IS2.s 			page 1
  1137 00bb 10       		.uleb128 0x10
  1138 00bc 2E       		.uleb128 0x2e
  1139 00bd 01       		.byte	0x1
-ARM GAS  /tmp/ccbi4IS2.s 			page 21
+ARM GAS  /tmp/ccHYGxiI.s 			page 21
 
 
  1140 00be 3F       		.uleb128 0x3f
@@ -1258,7 +1258,7 @@ ARM GAS  /tmp/ccbi4IS2.s 			page 1
  1194 00f8 0E       		.uleb128 0xe
  1195 00f9 3A       		.uleb128 0x3a
  1196 00fa 0B       		.uleb128 0xb
-ARM GAS  /tmp/ccbi4IS2.s 			page 22
+ARM GAS  /tmp/ccHYGxiI.s 			page 22
 
 
  1197 00fb 3B       		.uleb128 0x3b
@@ -1318,7 +1318,7 @@ ARM GAS  /tmp/ccbi4IS2.s 			page 1
  1251 0008 0200     		.2byte	0x2
  1252 000a 7D       		.byte	0x7d
  1253 000b 00       		.sleb128 0
-ARM GAS  /tmp/ccbi4IS2.s 			page 23
+ARM GAS  /tmp/ccHYGxiI.s 			page 23
 
 
  1254 000c 12000000 		.4byte	.LCFI0
@@ -1378,7 +1378,7 @@ ARM GAS  /tmp/ccbi4IS2.s 			page 1
  1299 001b 44454D43 		.ascii	"DEMCR\000"
  1299      5200
  1300              	.LASF3:
-ARM GAS  /tmp/ccbi4IS2.s 			page 24
+ARM GAS  /tmp/ccHYGxiI.s 			page 24
 
 
  1301 0021 73686F72 		.ascii	"short int\000"
@@ -1438,7 +1438,7 @@ ARM GAS  /tmp/ccbi4IS2.s 			page 1
  1331      6F6D6169 
  1332              	.LASF17:
  1333 00af 44435244 		.ascii	"DCRDR\000"
-ARM GAS  /tmp/ccbi4IS2.s 			page 25
+ARM GAS  /tmp/ccHYGxiI.s 			page 25
 
 
  1333      5200
@@ -1498,7 +1498,7 @@ ARM GAS  /tmp/ccbi4IS2.s 			page 1
  1358      2F446F63 
  1358      756D656E 
  1359              	.LASF49:
-ARM GAS  /tmp/ccbi4IS2.s 			page 26
+ARM GAS  /tmp/ccHYGxiI.s 			page 26
 
 
  1360 0190 41484233 		.ascii	"AHB3ENR\000"
@@ -1558,7 +1558,7 @@ ARM GAS  /tmp/ccbi4IS2.s 			page 1
  1385              	.LASF38:
  1386 0224 504C4C43 		.ascii	"PLLCFGR\000"
  1386      46475200 
-ARM GAS  /tmp/ccbi4IS2.s 			page 27
+ARM GAS  /tmp/ccHYGxiI.s 			page 27
 
 
  1387              	.LASF32:
@@ -1618,7 +1618,7 @@ ARM GAS  /tmp/ccbi4IS2.s 			page 1
  1415              	.LASF60:
  1416 02b5 52455345 		.ascii	"RESERVED5\000"
  1416      52564544 
-ARM GAS  /tmp/ccbi4IS2.s 			page 28
+ARM GAS  /tmp/ccHYGxiI.s 			page 28
 
 
  1416      3500
@@ -1671,15 +1671,15 @@ ARM GAS  /tmp/ccbi4IS2.s 			page 1
  1440 0350 4F505443 		.ascii	"OPTCR\000"
  1440      5200
  1441              		.ident	"GCC: (GNU Tools for ARM Embedded Processors) 4.7.3 20130312 (release) [ARM/embedded-4_7-br
-ARM GAS  /tmp/ccbi4IS2.s 			page 29
+ARM GAS  /tmp/ccHYGxiI.s 			page 29
 
 
 DEFINED SYMBOLS
                             *ABS*:00000000 hal_lld.c
-     /tmp/ccbi4IS2.s:19     .text.hal_lld_init:00000000 $t
-     /tmp/ccbi4IS2.s:25     .text.hal_lld_init:00000000 hal_lld_init
-     /tmp/ccbi4IS2.s:156    .text.stm32_clock_init:00000000 $t
-     /tmp/ccbi4IS2.s:162    .text.stm32_clock_init:00000000 stm32_clock_init
+     /tmp/ccHYGxiI.s:19     .text.hal_lld_init:00000000 $t
+     /tmp/ccHYGxiI.s:25     .text.hal_lld_init:00000000 hal_lld_init
+     /tmp/ccHYGxiI.s:156    .text.stm32_clock_init:00000000 $t
+     /tmp/ccHYGxiI.s:162    .text.stm32_clock_init:00000000 stm32_clock_init
                      .debug_frame:00000010 $d
 
 UNDEFINED SYMBOLS

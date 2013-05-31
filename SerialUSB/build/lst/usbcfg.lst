@@ -1,4 +1,4 @@
-ARM GAS  /tmp/ccPT887E.s 			page 1
+ARM GAS  /tmp/cciZvS0g.s 			page 1
 
 
    1              		.syntax unified
@@ -58,7 +58,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
   55 0018 03D8     		bhi	.L7
   56              		.loc 1 209 0
   57 001a 0548     		ldr	r0, .L9+8
-ARM GAS  /tmp/ccPT887E.s 			page 2
+ARM GAS  /tmp/cciZvS0g.s 			page 2
 
 
   58              	.LVL5:
@@ -118,7 +118,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  110 000a 2023     		movs	r3, #32
  111              	.LVL10:
  112              	@ 273 "usbcfg.c" 1
-ARM GAS  /tmp/ccPT887E.s 			page 3
+ARM GAS  /tmp/cciZvS0g.s 			page 3
 
 
  113 000c 83F31188 		msr     BASEPRI, r3
@@ -178,7 +178,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  167 0008 00000000 		.word	sduDataTransmitted
  168 000c 00000000 		.word	sduDataReceived
  169 0010 4000     		.short	64
-ARM GAS  /tmp/ccPT887E.s 			page 4
+ARM GAS  /tmp/cciZvS0g.s 			page 4
 
 
  170 0012 4000     		.short	64
@@ -238,7 +238,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  224 002b FF       		.byte	-1
  225 002c 09       		.byte	9
  226 002d 04       		.byte	4
-ARM GAS  /tmp/ccPT887E.s 			page 5
+ARM GAS  /tmp/cciZvS0g.s 			page 5
 
 
  227 002e 01       		.byte	1
@@ -298,7 +298,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  278 0020 00000000 		.word	0
  279              		.section	.bss.ep2instate,"aw",%nobits
  280              		.align	2
-ARM GAS  /tmp/ccPT887E.s 			page 6
+ARM GAS  /tmp/cciZvS0g.s 			page 6
 
 
  281              		.type	ep2instate, %object
@@ -358,7 +358,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  329 0001 03       		.byte	3
  330 0002 09       		.byte	9
  331 0003 04       		.byte	4
-ARM GAS  /tmp/ccPT887E.s 			page 7
+ARM GAS  /tmp/cciZvS0g.s 			page 7
 
 
  332              		.section	.rodata.vcom_string1,"a",%progbits
@@ -418,7 +418,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  386 0006 69       		.byte	105
  387 0007 00       		.byte	0
  388 0008 62       		.byte	98
-ARM GAS  /tmp/ccPT887E.s 			page 8
+ARM GAS  /tmp/cciZvS0g.s 			page 8
 
 
  389 0009 00       		.byte	0
@@ -478,7 +478,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  443 0002 32       		.byte	50
  444 0003 00       		.byte	0
  445 0004 35       		.byte	53
-ARM GAS  /tmp/ccPT887E.s 			page 9
+ARM GAS  /tmp/cciZvS0g.s 			page 9
 
 
  446 0005 00       		.byte	0
@@ -538,7 +538,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  500 0004 0200     		.2byte	0x2
  501 0006 00000000 		.4byte	.Ldebug_abbrev0
  502 000a 04       		.byte	0x4
-ARM GAS  /tmp/ccPT887E.s 			page 10
+ARM GAS  /tmp/cciZvS0g.s 			page 10
 
 
  503 000b 01       		.uleb128 0x1
@@ -598,7 +598,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  557 0080 04       		.byte	0x4
  558 0081 05       		.byte	0x5
  559 0082 5A010000 		.4byte	.LASF9
-ARM GAS  /tmp/ccPT887E.s 			page 11
+ARM GAS  /tmp/cciZvS0g.s 			page 11
 
 
  560 0086 03       		.uleb128 0x3
@@ -658,7 +658,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  614 00f5 29       		.byte	0x29
  615 00f6 86000000 		.4byte	0x86
  616 00fa 03       		.uleb128 0x3
-ARM GAS  /tmp/ccPT887E.s 			page 12
+ARM GAS  /tmp/cciZvS0g.s 			page 12
 
 
  617 00fb 19080000 		.4byte	.LASF22
@@ -718,7 +718,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  671 0167 06       		.uleb128 0x6
  672 0168 1A000000 		.4byte	.LASF30
  673 016c 06       		.byte	0x6
-ARM GAS  /tmp/ccPT887E.s 			page 13
+ARM GAS  /tmp/cciZvS0g.s 			page 13
 
 
  674 016d 5D       		.byte	0x5d
@@ -778,7 +778,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  728 01ca FE010000 		.4byte	.LASF37
  729 01ce 06       		.byte	0x6
  730 01cf 81       		.byte	0x81
-ARM GAS  /tmp/ccPT887E.s 			page 14
+ARM GAS  /tmp/cciZvS0g.s 			page 14
 
 
  731 01d0 E4000000 		.4byte	0xe4
@@ -838,7 +838,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  785 0230 06       		.byte	0x6
  786 0231 C9       		.byte	0xc9
  787 0232 93040000 		.4byte	0x493
-ARM GAS  /tmp/ccPT887E.s 			page 15
+ARM GAS  /tmp/cciZvS0g.s 			page 15
 
 
  788 0236 02       		.byte	0x2
@@ -898,7 +898,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  842 0290 A3020000 		.4byte	0x2a3
  843 0294 06       		.uleb128 0x6
  844 0295 63010000 		.4byte	.LASF27
-ARM GAS  /tmp/ccPT887E.s 			page 16
+ARM GAS  /tmp/cciZvS0g.s 			page 16
 
 
  845 0299 05       		.byte	0x5
@@ -958,7 +958,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  899 02fd 0C       		.uleb128 0xc
  900 02fe 723700   		.ascii	"r7\000"
  901 0301 07       		.byte	0x7
-ARM GAS  /tmp/ccPT887E.s 			page 17
+ARM GAS  /tmp/cciZvS0g.s 			page 17
 
 
  902 0302 1B01     		.2byte	0x11b
@@ -1018,7 +1018,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  956 0366 07       		.byte	0x7
  957 0367 2B01     		.2byte	0x12b
  958 0369 71030000 		.4byte	0x371
-ARM GAS  /tmp/ccPT887E.s 			page 18
+ARM GAS  /tmp/cciZvS0g.s 			page 18
 
 
  959 036d 02       		.byte	0x2
@@ -1078,7 +1078,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  1013 03d0 03       		.uleb128 0x3
  1014 03d1 200A0000 		.4byte	.LASF57
  1015 03d5 09       		.byte	0x9
-ARM GAS  /tmp/ccPT887E.s 			page 19
+ARM GAS  /tmp/cciZvS0g.s 			page 19
 
 
  1016 03d6 25       		.byte	0x25
@@ -1138,7 +1138,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  1070 0439 20040000 		.4byte	0x420
  1071 043d 02       		.byte	0x2
  1072 043e 23       		.byte	0x23
-ARM GAS  /tmp/ccPT887E.s 			page 20
+ARM GAS  /tmp/cciZvS0g.s 			page 20
 
 
  1073 043f 00       		.uleb128 0
@@ -1198,7 +1198,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  1127 04ae 00       		.byte	0
  1128 04af 03       		.uleb128 0x3
  1129 04b0 58030000 		.4byte	.LASF69
-ARM GAS  /tmp/ccPT887E.s 			page 21
+ARM GAS  /tmp/cciZvS0g.s 			page 21
 
 
  1130 04b4 0A       		.byte	0xa
@@ -1258,7 +1258,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  1184 0517 02       		.byte	0x2
  1185 0518 23       		.byte	0x23
  1186 0519 18       		.uleb128 0x18
-ARM GAS  /tmp/ccPT887E.s 			page 22
+ARM GAS  /tmp/cciZvS0g.s 			page 22
 
 
  1187 051a 06       		.uleb128 0x6
@@ -1318,7 +1318,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  1241 0586 90050000 		.4byte	0x590
  1242 058a 12       		.uleb128 0x12
  1243 058b 30000000 		.4byte	0x30
-ARM GAS  /tmp/ccPT887E.s 			page 23
+ARM GAS  /tmp/cciZvS0g.s 			page 23
 
 
  1244 058f 00       		.byte	0
@@ -1378,7 +1378,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  1298 060a 00       		.byte	0
  1299 060b 09       		.uleb128 0x9
  1300 060c 04       		.byte	0x4
-ARM GAS  /tmp/ccPT887E.s 			page 24
+ARM GAS  /tmp/cciZvS0g.s 			page 24
 
 
  1301 060d F1050000 		.4byte	0x5f1
@@ -1438,7 +1438,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  1355 0689 6501     		.2byte	0x165
  1356 068b DA070000 		.4byte	0x7da
  1357 068f 17       		.uleb128 0x17
-ARM GAS  /tmp/ccPT887E.s 			page 25
+ARM GAS  /tmp/cciZvS0g.s 			page 25
 
 
  1358 0690 95000000 		.4byte	.LASF82
@@ -1498,7 +1498,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  1412 06f7 28       		.uleb128 0x28
  1413 06f8 17       		.uleb128 0x17
  1414 06f9 DA020000 		.4byte	.LASF88
-ARM GAS  /tmp/ccPT887E.s 			page 26
+ARM GAS  /tmp/cciZvS0g.s 			page 26
 
 
  1415 06fd 0C       		.byte	0xc
@@ -1558,7 +1558,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  1469 0761 17       		.uleb128 0x17
  1470 0762 A9040000 		.4byte	.LASF95
  1471 0766 0C       		.byte	0xc
-ARM GAS  /tmp/ccPT887E.s 			page 27
+ARM GAS  /tmp/cciZvS0g.s 			page 27
 
 
  1472 0767 A701     		.2byte	0x1a7
@@ -1618,7 +1618,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  1526 07cb 19090000 		.4byte	.LASF101
  1527 07cf 0C       		.byte	0xc
  1528 07d0 C701     		.2byte	0x1c7
-ARM GAS  /tmp/ccPT887E.s 			page 28
+ARM GAS  /tmp/cciZvS0g.s 			page 28
 
 
  1529 07d2 43120000 		.4byte	0x1243
@@ -1678,7 +1678,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  1583 0838 930B0000 		.4byte	.LASF113
  1584 083c 04       		.sleb128 4
  1585 083d 19       		.uleb128 0x19
-ARM GAS  /tmp/ccPT887E.s 			page 29
+ARM GAS  /tmp/cciZvS0g.s 			page 29
 
 
  1586 083e 400B0000 		.4byte	.LASF114
@@ -1738,7 +1738,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  1640 08a9 7F030000 		.4byte	.LASF125
  1641 08ad 0B       		.byte	0xb
  1642 08ae 1B01     		.2byte	0x11b
-ARM GAS  /tmp/ccPT887E.s 			page 30
+ARM GAS  /tmp/cciZvS0g.s 			page 30
 
 
  1643 08b0 90050000 		.4byte	0x590
@@ -1798,7 +1798,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  1697 0923 12       		.uleb128 0x12
  1698 0924 E2080000 		.4byte	0x8e2
  1699 0928 12       		.uleb128 0x12
-ARM GAS  /tmp/ccPT887E.s 			page 31
+ARM GAS  /tmp/cciZvS0g.s 			page 31
 
 
  1700 0929 84080000 		.4byte	0x884
@@ -1858,7 +1858,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  1754 09a0 23       		.byte	0x23
  1755 09a1 00       		.uleb128 0
  1756 09a2 06       		.uleb128 0x6
-ARM GAS  /tmp/ccPT887E.s 			page 32
+ARM GAS  /tmp/cciZvS0g.s 			page 32
 
 
  1757 09a3 63000000 		.4byte	.LASF133
@@ -1918,7 +1918,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  1811 0a03 1C       		.uleb128 0x1c
  1812 0a04 00       		.byte	0
  1813 0a05 03       		.uleb128 0x3
-ARM GAS  /tmp/ccPT887E.s 			page 33
+ARM GAS  /tmp/cciZvS0g.s 			page 33
 
 
  1814 0a06 BE030000 		.4byte	.LASF140
@@ -1978,7 +1978,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  1868 0a69 02       		.byte	0x2
  1869 0a6a 23       		.byte	0x23
  1870 0a6b 14       		.uleb128 0x14
-ARM GAS  /tmp/ccPT887E.s 			page 34
+ARM GAS  /tmp/cciZvS0g.s 			page 34
 
 
  1871 0a6c 06       		.uleb128 0x6
@@ -2038,7 +2038,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  1925 0acc 5E       		.byte	0x5e
  1926 0acd 77030000 		.4byte	0x377
  1927 0ad1 02       		.byte	0x2
-ARM GAS  /tmp/ccPT887E.s 			page 35
+ARM GAS  /tmp/cciZvS0g.s 			page 35
 
 
  1928 0ad2 23       		.byte	0x23
@@ -2098,7 +2098,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  1982 0b32 7C080000 		.4byte	.LASF154
  1983 0b36 0D       		.byte	0xd
  1984 0b37 6B       		.byte	0x6b
-ARM GAS  /tmp/ccPT887E.s 			page 36
+ARM GAS  /tmp/cciZvS0g.s 			page 36
 
 
  1985 0b38 77030000 		.4byte	0x377
@@ -2158,7 +2158,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  2039 0b98 0D       		.byte	0xd
  2040 0b99 73       		.byte	0x73
  2041 0b9a 77030000 		.4byte	0x377
-ARM GAS  /tmp/ccPT887E.s 			page 37
+ARM GAS  /tmp/cciZvS0g.s 			page 37
 
 
  2042 0b9e 02       		.byte	0x2
@@ -2218,7 +2218,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  2096 0bfb 7D       		.byte	0x7d
  2097 0bfc 77030000 		.4byte	0x377
  2098 0c00 02       		.byte	0x2
-ARM GAS  /tmp/ccPT887E.s 			page 38
+ARM GAS  /tmp/cciZvS0g.s 			page 38
 
 
  2099 0c01 23       		.byte	0x23
@@ -2278,7 +2278,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  2153 0c63 77030000 		.4byte	0x377
  2154 0c67 03       		.byte	0x3
  2155 0c68 23       		.byte	0x23
-ARM GAS  /tmp/ccPT887E.s 			page 39
+ARM GAS  /tmp/cciZvS0g.s 			page 39
 
 
  2156 0c69 8808     		.uleb128 0x408
@@ -2338,7 +2338,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  2210 0cd0 03       		.byte	0x3
  2211 0cd1 23       		.byte	0x23
  2212 0cd2 C408     		.uleb128 0x444
-ARM GAS  /tmp/ccPT887E.s 			page 40
+ARM GAS  /tmp/cciZvS0g.s 			page 40
 
 
  2213 0cd4 07       		.uleb128 0x7
@@ -2398,7 +2398,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  2267 0d39 23       		.byte	0x23
  2268 0d3a 9010     		.uleb128 0x810
  2269 0d3c 06       		.uleb128 0x6
-ARM GAS  /tmp/ccPT887E.s 			page 41
+ARM GAS  /tmp/cciZvS0g.s 			page 41
 
 
  2270 0d3d D2010000 		.4byte	.LASF188
@@ -2458,7 +2458,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  2324 0da3 AC10     		.uleb128 0x82c
  2325 0da5 06       		.uleb128 0x6
  2326 0da6 36060000 		.4byte	.LASF195
-ARM GAS  /tmp/ccPT887E.s 			page 42
+ARM GAS  /tmp/cciZvS0g.s 			page 42
 
 
  2327 0daa 0D       		.byte	0xd
@@ -2518,7 +2518,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  2381 0e0e 07       		.uleb128 0x7
  2382 0e0f 696500   		.ascii	"ie\000"
  2383 0e12 0D       		.byte	0xd
-ARM GAS  /tmp/ccPT887E.s 			page 43
+ARM GAS  /tmp/cciZvS0g.s 			page 43
 
 
  2384 0e13 AF       		.byte	0xaf
@@ -2578,7 +2578,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  2438 0e78 670E0000 		.4byte	0xe67
  2439 0e7c 0D       		.uleb128 0xd
  2440 0e7d DC050000 		.4byte	0x5dc
-ARM GAS  /tmp/ccPT887E.s 			page 44
+ARM GAS  /tmp/cciZvS0g.s 			page 44
 
 
  2441 0e81 14       		.uleb128 0x14
@@ -2638,7 +2638,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  2495 0eff 0D       		.uleb128 0xd
  2496 0f00 E50E0000 		.4byte	0xee5
  2497 0f04 14       		.uleb128 0x14
-ARM GAS  /tmp/ccPT887E.s 			page 45
+ARM GAS  /tmp/cciZvS0g.s 			page 45
 
 
  2498 0f05 890A0000 		.4byte	0xa89
@@ -2698,7 +2698,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  2552 0f7b 06       		.uleb128 0x6
  2553 0f7c C7080000 		.4byte	.LASF208
  2554 0f80 0C       		.byte	0xc
-ARM GAS  /tmp/ccPT887E.s 			page 46
+ARM GAS  /tmp/cciZvS0g.s 			page 46
 
 
  2555 0f81 BE       		.byte	0xbe
@@ -2758,7 +2758,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  2609 0fdb F60F0000 		.4byte	0xff6
  2610 0fdf 0F       		.uleb128 0xf
  2611 0fe0 12080000 		.4byte	.LASF213
-ARM GAS  /tmp/ccPT887E.s 			page 47
+ARM GAS  /tmp/cciZvS0g.s 			page 47
 
 
  2612 0fe4 0C       		.byte	0xc
@@ -2818,7 +2818,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  2666 1044 0C       		.byte	0xc
  2667 1045 F3       		.byte	0xf3
  2668 1046 59100000 		.4byte	0x1059
-ARM GAS  /tmp/ccPT887E.s 			page 48
+ARM GAS  /tmp/cciZvS0g.s 			page 48
 
 
  2669 104a 06       		.uleb128 0x6
@@ -2878,7 +2878,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  2723 10aa 00       		.uleb128 0
  2724 10ab 06       		.uleb128 0x6
  2725 10ac 5C020000 		.4byte	.LASF223
-ARM GAS  /tmp/ccPT887E.s 			page 49
+ARM GAS  /tmp/cciZvS0g.s 			page 49
 
 
  2726 10b0 0C       		.byte	0xc
@@ -2938,7 +2938,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  2780 1115 02       		.byte	0x2
  2781 1116 23       		.byte	0x23
  2782 1117 08       		.uleb128 0x8
-ARM GAS  /tmp/ccPT887E.s 			page 50
+ARM GAS  /tmp/cciZvS0g.s 			page 50
 
 
  2783 1118 17       		.uleb128 0x17
@@ -2998,7 +2998,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  2837 117f 23       		.byte	0x23
  2838 1180 20       		.uleb128 0x20
  2839 1181 00       		.byte	0
-ARM GAS  /tmp/ccPT887E.s 			page 51
+ARM GAS  /tmp/cciZvS0g.s 			page 51
 
 
  2840 1182 09       		.uleb128 0x9
@@ -3058,7 +3058,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  2894 11ec 09       		.uleb128 0x9
  2895 11ed 04       		.byte	0x4
  2896 11ee F2110000 		.4byte	0x11f2
-ARM GAS  /tmp/ccPT887E.s 			page 52
+ARM GAS  /tmp/cciZvS0g.s 			page 52
 
 
  2897 11f2 10       		.uleb128 0x10
@@ -3118,7 +3118,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  2951 1267 7E120000 		.4byte	0x127e
  2952 126b 19       		.uleb128 0x19
  2953 126c 96090000 		.4byte	.LASF242
-ARM GAS  /tmp/ccPT887E.s 			page 53
+ARM GAS  /tmp/cciZvS0g.s 			page 53
 
 
  2954 1270 00       		.sleb128 0
@@ -3178,7 +3178,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  3008 12d7 23       		.byte	0x23
  3009 12d8 0C       		.uleb128 0xc
  3010 12d9 06       		.uleb128 0x6
-ARM GAS  /tmp/ccPT887E.s 			page 54
+ARM GAS  /tmp/cciZvS0g.s 			page 54
 
 
  3011 12da 2B090000 		.4byte	.LASF249
@@ -3238,7 +3238,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  3065 1337 A00A0000 		.4byte	.LASF252
  3066 133b 0E       		.byte	0xe
  3067 133c 98       		.byte	0x98
-ARM GAS  /tmp/ccPT887E.s 			page 55
+ARM GAS  /tmp/cciZvS0g.s 			page 55
 
 
  3068 133d DA070000 		.4byte	0x7da
@@ -3298,7 +3298,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  3122 13a0 23       		.byte	0x23
  3123 13a1 0C       		.uleb128 0xc
  3124 13a2 06       		.uleb128 0x6
-ARM GAS  /tmp/ccPT887E.s 			page 56
+ARM GAS  /tmp/cciZvS0g.s 			page 56
 
 
  3125 13a3 A3000000 		.4byte	.LASF258
@@ -3358,7 +3358,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  3179 140a 01       		.byte	0x1
  3180 140b 56140000 		.4byte	0x1456
  3181 140f 21       		.uleb128 0x21
-ARM GAS  /tmp/ccPT887E.s 			page 57
+ARM GAS  /tmp/cciZvS0g.s 			page 57
 
 
  3182 1410 3E050000 		.4byte	.LASF250
@@ -3418,7 +3418,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  3236 1487 C4       		.byte	0xc4
  3237 1488 49000000 		.4byte	0x49
  3238 148c 01       		.byte	0x1
-ARM GAS  /tmp/ccPT887E.s 			page 58
+ARM GAS  /tmp/cciZvS0g.s 			page 58
 
 
  3239 148d 51       		.byte	0x51
@@ -3478,7 +3478,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  3293 150d 0A000000 		.4byte	.LBB10
  3294 1511 10000000 		.4byte	.LBE10
  3295 1515 23150000 		.4byte	0x1523
-ARM GAS  /tmp/ccPT887E.s 			page 59
+ARM GAS  /tmp/cciZvS0g.s 			page 59
 
 
  3296 1519 30       		.uleb128 0x30
@@ -3538,7 +3538,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  3350 157c 75       		.byte	0x75
  3351 157d 00       		.sleb128 0
  3352 157e 00       		.byte	0
-ARM GAS  /tmp/ccPT887E.s 			page 60
+ARM GAS  /tmp/cciZvS0g.s 			page 60
 
 
  3353 157f 33       		.uleb128 0x33
@@ -3598,7 +3598,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  3407 15f4 03       		.byte	0x3
  3408 15f5 00000000 		.4byte	vcom_configuration_descriptor
  3409 15f9 34       		.uleb128 0x34
-ARM GAS  /tmp/ccPT887E.s 			page 61
+ARM GAS  /tmp/cciZvS0g.s 			page 61
 
 
  3410 15fa 63070000 		.4byte	.LASF270
@@ -3658,7 +3658,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  3464 1672 B8080000 		.4byte	0x8b8
  3465 1676 81160000 		.4byte	0x1681
  3466 167a 15       		.uleb128 0x15
-ARM GAS  /tmp/ccPT887E.s 			page 62
+ARM GAS  /tmp/cciZvS0g.s 			page 62
 
 
  3467 167b 7C030000 		.4byte	0x37c
@@ -3718,7 +3718,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  3521 16ed 58060000 		.4byte	.LASF280
  3522 16f1 0F       		.byte	0xf
  3523 16f2 9806     		.2byte	0x698
-ARM GAS  /tmp/ccPT887E.s 			page 63
+ARM GAS  /tmp/cciZvS0g.s 			page 63
 
 
  3524 16f4 EC050000 		.4byte	0x5ec
@@ -3778,7 +3778,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  3578 1762 DD       		.byte	0xdd
  3579 1763 01       		.byte	0x1
  3580 1764 01       		.byte	0x1
-ARM GAS  /tmp/ccPT887E.s 			page 64
+ARM GAS  /tmp/cciZvS0g.s 			page 64
 
 
  3581 1765 6F170000 		.4byte	0x176f
@@ -3838,7 +3838,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  3635 002c 00       		.byte	0
  3636 002d 04       		.uleb128 0x4
  3637 002e 24       		.uleb128 0x24
-ARM GAS  /tmp/ccPT887E.s 			page 65
+ARM GAS  /tmp/cciZvS0g.s 			page 65
 
 
  3638 002f 00       		.byte	0
@@ -3898,7 +3898,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  3692 0065 08       		.uleb128 0x8
  3693 0066 13       		.uleb128 0x13
  3694 0067 01       		.byte	0x1
-ARM GAS  /tmp/ccPT887E.s 			page 66
+ARM GAS  /tmp/cciZvS0g.s 			page 66
 
 
  3695 0068 0B       		.uleb128 0xb
@@ -3958,7 +3958,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  3749 009e 00       		.byte	0
  3750 009f 00       		.byte	0
  3751 00a0 0D       		.uleb128 0xd
-ARM GAS  /tmp/ccPT887E.s 			page 67
+ARM GAS  /tmp/cciZvS0g.s 			page 67
 
 
  3752 00a1 35       		.uleb128 0x35
@@ -4018,7 +4018,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  3806 00d7 13       		.uleb128 0x13
  3807 00d8 00       		.byte	0
  3808 00d9 00       		.byte	0
-ARM GAS  /tmp/ccPT887E.s 			page 68
+ARM GAS  /tmp/cciZvS0g.s 			page 68
 
 
  3809 00da 13       		.uleb128 0x13
@@ -4078,7 +4078,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  3863 0110 0A       		.uleb128 0xa
  3864 0111 00       		.byte	0
  3865 0112 00       		.byte	0
-ARM GAS  /tmp/ccPT887E.s 			page 69
+ARM GAS  /tmp/cciZvS0g.s 			page 69
 
 
  3866 0113 18       		.uleb128 0x18
@@ -4138,7 +4138,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  3920 0149 0B       		.uleb128 0xb
  3921 014a 3B       		.uleb128 0x3b
  3922 014b 05       		.uleb128 0x5
-ARM GAS  /tmp/ccPT887E.s 			page 70
+ARM GAS  /tmp/cciZvS0g.s 			page 70
 
 
  3923 014c 01       		.uleb128 0x1
@@ -4198,7 +4198,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  3977 0182 01       		.uleb128 0x1
  3978 0183 13       		.uleb128 0x13
  3979 0184 00       		.byte	0
-ARM GAS  /tmp/ccPT887E.s 			page 71
+ARM GAS  /tmp/cciZvS0g.s 			page 71
 
 
  3980 0185 00       		.byte	0
@@ -4258,7 +4258,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  4034 01bb 00       		.byte	0
  4035 01bc 00       		.byte	0
  4036 01bd 26       		.uleb128 0x26
-ARM GAS  /tmp/ccPT887E.s 			page 72
+ARM GAS  /tmp/cciZvS0g.s 			page 72
 
 
  4037 01be 2E       		.uleb128 0x2e
@@ -4318,7 +4318,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  4091 01f5 29       		.uleb128 0x29
  4092 01f6 2E       		.uleb128 0x2e
  4093 01f7 01       		.byte	0x1
-ARM GAS  /tmp/ccPT887E.s 			page 73
+ARM GAS  /tmp/cciZvS0g.s 			page 73
 
 
  4094 01f8 31       		.uleb128 0x31
@@ -4378,7 +4378,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  4148 022f 2E       		.uleb128 0x2e
  4149 0230 34       		.uleb128 0x34
  4150 0231 00       		.byte	0
-ARM GAS  /tmp/ccPT887E.s 			page 74
+ARM GAS  /tmp/cciZvS0g.s 			page 74
 
 
  4151 0232 31       		.uleb128 0x31
@@ -4438,7 +4438,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  4205 026f 00       		.byte	0
  4206 0270 34       		.uleb128 0x34
  4207 0271 34       		.uleb128 0x34
-ARM GAS  /tmp/ccPT887E.s 			page 75
+ARM GAS  /tmp/cciZvS0g.s 			page 75
 
 
  4208 0272 00       		.byte	0
@@ -4498,7 +4498,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  4262 02a8 03       		.uleb128 0x3
  4263 02a9 0E       		.uleb128 0xe
  4264 02aa 3A       		.uleb128 0x3a
-ARM GAS  /tmp/ccPT887E.s 			page 76
+ARM GAS  /tmp/cciZvS0g.s 			page 76
 
 
  4265 02ab 0B       		.uleb128 0xb
@@ -4558,7 +4558,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  4319 005e 0400     		.2byte	0x4
  4320 0060 F3       		.byte	0xf3
  4321 0061 01       		.uleb128 0x1
-ARM GAS  /tmp/ccPT887E.s 			page 77
+ARM GAS  /tmp/cciZvS0g.s 			page 77
 
 
  4322 0062 50       		.byte	0x50
@@ -4618,7 +4618,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  4376 00e9 10000000 		.4byte	.LVL11
  4377 00ed 17000000 		.4byte	.LVL13-1
  4378 00f1 0100     		.2byte	0x1
-ARM GAS  /tmp/ccPT887E.s 			page 78
+ARM GAS  /tmp/cciZvS0g.s 			page 78
 
 
  4379 00f3 53       		.byte	0x53
@@ -4678,7 +4678,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  4423 0020 76636F6D 		.ascii	"vcom_strings\000"
  4423      5F737472 
  4423      696E6773 
-ARM GAS  /tmp/ccPT887E.s 			page 79
+ARM GAS  /tmp/cciZvS0g.s 			page 79
 
 
  4423      00
@@ -4738,7 +4738,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  4455      41435449 
  4455      564500
  4456              	.LASF263:
-ARM GAS  /tmp/ccPT887E.s 			page 80
+ARM GAS  /tmp/cciZvS0g.s 			page 80
 
 
  4457 00b3 64696E64 		.ascii	"dindex\000"
@@ -4798,7 +4798,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  4483      00
  4484              	.LASF31:
  4485 0146 705F6E65 		.ascii	"p_newer\000"
-ARM GAS  /tmp/ccPT887E.s 			page 81
+ARM GAS  /tmp/cciZvS0g.s 			page 81
 
 
  4485      77657200 
@@ -4858,7 +4858,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  4515 01d2 444F4550 		.ascii	"DOEPMSK\000"
  4515      4D534B00 
  4516              	.LASF287:
-ARM GAS  /tmp/ccPT887E.s 			page 82
+ARM GAS  /tmp/cciZvS0g.s 			page 82
 
 
  4517 01da 75736263 		.ascii	"usbcfg.c\000"
@@ -4918,7 +4918,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  4543      5200
  4544              	.LASF77:
  4545 027f 715F6C69 		.ascii	"q_link\000"
-ARM GAS  /tmp/ccPT887E.s 			page 83
+ARM GAS  /tmp/cciZvS0g.s 			page 83
 
 
  4545      6E6B00
@@ -4978,7 +4978,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  4570      00
  4571              	.LASF90:
  4572 0334 6570306E 		.ascii	"ep0n\000"
-ARM GAS  /tmp/ccPT887E.s 			page 84
+ARM GAS  /tmp/cciZvS0g.s 			page 84
 
 
  4572      00
@@ -5038,7 +5038,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  4602      76656E74 
  4602      63625F74 
  4602      00
-ARM GAS  /tmp/ccPT887E.s 			page 85
+ARM GAS  /tmp/cciZvS0g.s 			page 85
 
 
  4603              	.LASF140:
@@ -5098,7 +5098,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  4627              	.LASF50:
  4628 0453 696E7463 		.ascii	"intctx\000"
  4628      747800
-ARM GAS  /tmp/ccPT887E.s 			page 86
+ARM GAS  /tmp/cciZvS0g.s 			page 86
 
 
  4629              	.LASF42:
@@ -5158,7 +5158,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  4656      54584600 
  4657              	.LASF11:
  4658 04ee 6C6F6E67 		.ascii	"long unsigned int\000"
-ARM GAS  /tmp/ccPT887E.s 			page 87
+ARM GAS  /tmp/cciZvS0g.s 			page 87
 
 
  4658      20756E73 
@@ -5218,7 +5218,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  4688 057b 77726974 		.ascii	"write\000"
  4688      6500
  4689              	.LASF224:
-ARM GAS  /tmp/ccPT887E.s 			page 88
+ARM GAS  /tmp/cciZvS0g.s 			page 88
 
 
  4690 0581 7278636E 		.ascii	"rxcnt\000"
@@ -5278,7 +5278,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  4718      52454144 
  4718      5900
  4719              	.LASF265:
-ARM GAS  /tmp/ccPT887E.s 			page 89
+ARM GAS  /tmp/cciZvS0g.s 			page 89
 
 
  4720 0611 53445531 		.ascii	"SDU1\000"
@@ -5338,7 +5338,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  4748      00
  4749              	.LASF257:
  4750 0699 72656164 		.ascii	"read\000"
-ARM GAS  /tmp/ccPT887E.s 			page 90
+ARM GAS  /tmp/cciZvS0g.s 			page 90
 
 
  4750      00
@@ -5398,7 +5398,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  4778      66696700 
  4779              	.LASF81:
  4780 072a 55534244 		.ascii	"USBDriver\000"
-ARM GAS  /tmp/ccPT887E.s 			page 91
+ARM GAS  /tmp/cciZvS0g.s 			page 91
 
 
  4780      72697665 
@@ -5458,7 +5458,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  4806      7574456E 
  4806      64706F69 
  4806      6E745374 
-ARM GAS  /tmp/ccPT887E.s 			page 92
+ARM GAS  /tmp/cciZvS0g.s 			page 92
 
 
  4806      61746500 
@@ -5518,7 +5518,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  4833              	.LASF282:
  4834 086b 75736263 		.ascii	"usbcfg\000"
  4834      666700
-ARM GAS  /tmp/ccPT887E.s 			page 93
+ARM GAS  /tmp/cciZvS0g.s 			page 93
 
 
  4835              	.LASF20:
@@ -5578,7 +5578,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  4861              	.LASF262:
  4862 0900 64747970 		.ascii	"dtype\000"
  4862      6500
-ARM GAS  /tmp/ccPT887E.s 			page 94
+ARM GAS  /tmp/cciZvS0g.s 			page 94
 
 
  4863              	.LASF131:
@@ -5638,7 +5638,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  4894 098f 626F6F6C 		.ascii	"bool_t\000"
  4894      5F7400
  4895              	.LASF242:
-ARM GAS  /tmp/ccPT887E.s 			page 95
+ARM GAS  /tmp/cciZvS0g.s 			page 95
 
 
  4896 0996 5344555F 		.ascii	"SDU_UNINIT\000"
@@ -5698,7 +5698,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  4924      64333000 
  4925              	.LASF201:
  4926 0a36 72657376 		.ascii	"resvd8C0\000"
-ARM GAS  /tmp/ccPT887E.s 			page 96
+ARM GAS  /tmp/cciZvS0g.s 			page 96
 
 
  4926      64384330 
@@ -5758,7 +5758,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  4951              	.LASF185:
  4952 0ae9 44535453 		.ascii	"DSTS\000"
  4952      00
-ARM GAS  /tmp/ccPT887E.s 			page 97
+ARM GAS  /tmp/cciZvS0g.s 			page 97
 
 
  4953              	.LASF238:
@@ -5818,7 +5818,7 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  4980 0b82 74787175 		.ascii	"txqueued\000"
  4980      65756564 
  4980      00
-ARM GAS  /tmp/ccPT887E.s 			page 98
+ARM GAS  /tmp/cciZvS0g.s 			page 98
 
 
  4981              	.LASF156:
@@ -5853,52 +5853,52 @@ ARM GAS  /tmp/ccPT887E.s 			page 1
  4996 0bd3 705F7374 		.ascii	"p_state\000"
  4996      61746500 
  4997              		.ident	"GCC: (GNU Tools for ARM Embedded Processors) 4.7.3 20130312 (release) [ARM/embedded-4_7-br
-ARM GAS  /tmp/ccPT887E.s 			page 99
+ARM GAS  /tmp/cciZvS0g.s 			page 99
 
 
 DEFINED SYMBOLS
                             *ABS*:00000000 usbcfg.c
-     /tmp/ccPT887E.s:19     .text.get_descriptor:00000000 $t
-     /tmp/ccPT887E.s:24     .text.get_descriptor:00000000 get_descriptor
-     /tmp/ccPT887E.s:71     .text.get_descriptor:00000028 $d
-     /tmp/ccPT887E.s:78     .text.usb_event:00000000 $t
-     /tmp/ccPT887E.s:83     .text.usb_event:00000000 usb_event
-     /tmp/ccPT887E.s:148    .text.usb_event:00000030 $d
-     /tmp/ccPT887E.s:467    .rodata.serusbcfg:00000000 serusbcfg
-     /tmp/ccPT887E.s:289    .rodata.usbcfg:00000000 usbcfg
-     /tmp/ccPT887E.s:160    .rodata.ep1config:00000000 $d
-     /tmp/ccPT887E.s:164    .rodata.ep1config:00000000 ep1config
-     /tmp/ccPT887E.s:252    .bss.ep1instate:00000000 ep1instate
-     /tmp/ccPT887E.s:321    .bss.ep1outstate:00000000 ep1outstate
-     /tmp/ccPT887E.s:177    .rodata.vcom_configuration_descriptor_data:00000000 $d
-     /tmp/ccPT887E.s:180    .rodata.vcom_configuration_descriptor_data:00000000 vcom_configuration_descriptor_data
-     /tmp/ccPT887E.s:249    .bss.ep1instate:00000000 $d
-     /tmp/ccPT887E.s:255    .rodata.vcom_configuration_descriptor:00000000 $d
-     /tmp/ccPT887E.s:259    .rodata.vcom_configuration_descriptor:00000000 vcom_configuration_descriptor
-     /tmp/ccPT887E.s:263    .rodata.ep2config:00000000 $d
-     /tmp/ccPT887E.s:267    .rodata.ep2config:00000000 ep2config
-     /tmp/ccPT887E.s:283    .bss.ep2instate:00000000 ep2instate
-     /tmp/ccPT887E.s:280    .bss.ep2instate:00000000 $d
-     /tmp/ccPT887E.s:286    .rodata.usbcfg:00000000 $d
-     /tmp/ccPT887E.s:295    .rodata.vcom_device_descriptor_data:00000000 $d
-     /tmp/ccPT887E.s:298    .rodata.vcom_device_descriptor_data:00000000 vcom_device_descriptor_data
-     /tmp/ccPT887E.s:318    .bss.ep1outstate:00000000 $d
-     /tmp/ccPT887E.s:324    .rodata.vcom_string0:00000000 $d
-     /tmp/ccPT887E.s:327    .rodata.vcom_string0:00000000 vcom_string0
-     /tmp/ccPT887E.s:333    .rodata.vcom_string1:00000000 $d
-     /tmp/ccPT887E.s:336    .rodata.vcom_string1:00000000 vcom_string1
-     /tmp/ccPT887E.s:376    .rodata.vcom_string2:00000000 $d
-     /tmp/ccPT887E.s:379    .rodata.vcom_string2:00000000 vcom_string2
-     /tmp/ccPT887E.s:437    .rodata.vcom_string3:00000000 $d
-     /tmp/ccPT887E.s:440    .rodata.vcom_string3:00000000 vcom_string3
-     /tmp/ccPT887E.s:450    .rodata.vcom_strings:00000000 $d
-     /tmp/ccPT887E.s:454    .rodata.vcom_strings:00000000 vcom_strings
-     /tmp/ccPT887E.s:464    .rodata.serusbcfg:00000000 $d
-     /tmp/ccPT887E.s:474    .rodata.vcom_device_descriptor:00000000 $d
-     /tmp/ccPT887E.s:478    .rodata.vcom_device_descriptor:00000000 vcom_device_descriptor
+     /tmp/cciZvS0g.s:19     .text.get_descriptor:00000000 $t
+     /tmp/cciZvS0g.s:24     .text.get_descriptor:00000000 get_descriptor
+     /tmp/cciZvS0g.s:71     .text.get_descriptor:00000028 $d
+     /tmp/cciZvS0g.s:78     .text.usb_event:00000000 $t
+     /tmp/cciZvS0g.s:83     .text.usb_event:00000000 usb_event
+     /tmp/cciZvS0g.s:148    .text.usb_event:00000030 $d
+     /tmp/cciZvS0g.s:467    .rodata.serusbcfg:00000000 serusbcfg
+     /tmp/cciZvS0g.s:289    .rodata.usbcfg:00000000 usbcfg
+     /tmp/cciZvS0g.s:160    .rodata.ep1config:00000000 $d
+     /tmp/cciZvS0g.s:164    .rodata.ep1config:00000000 ep1config
+     /tmp/cciZvS0g.s:252    .bss.ep1instate:00000000 ep1instate
+     /tmp/cciZvS0g.s:321    .bss.ep1outstate:00000000 ep1outstate
+     /tmp/cciZvS0g.s:177    .rodata.vcom_configuration_descriptor_data:00000000 $d
+     /tmp/cciZvS0g.s:180    .rodata.vcom_configuration_descriptor_data:00000000 vcom_configuration_descriptor_data
+     /tmp/cciZvS0g.s:249    .bss.ep1instate:00000000 $d
+     /tmp/cciZvS0g.s:255    .rodata.vcom_configuration_descriptor:00000000 $d
+     /tmp/cciZvS0g.s:259    .rodata.vcom_configuration_descriptor:00000000 vcom_configuration_descriptor
+     /tmp/cciZvS0g.s:263    .rodata.ep2config:00000000 $d
+     /tmp/cciZvS0g.s:267    .rodata.ep2config:00000000 ep2config
+     /tmp/cciZvS0g.s:283    .bss.ep2instate:00000000 ep2instate
+     /tmp/cciZvS0g.s:280    .bss.ep2instate:00000000 $d
+     /tmp/cciZvS0g.s:286    .rodata.usbcfg:00000000 $d
+     /tmp/cciZvS0g.s:295    .rodata.vcom_device_descriptor_data:00000000 $d
+     /tmp/cciZvS0g.s:298    .rodata.vcom_device_descriptor_data:00000000 vcom_device_descriptor_data
+     /tmp/cciZvS0g.s:318    .bss.ep1outstate:00000000 $d
+     /tmp/cciZvS0g.s:324    .rodata.vcom_string0:00000000 $d
+     /tmp/cciZvS0g.s:327    .rodata.vcom_string0:00000000 vcom_string0
+     /tmp/cciZvS0g.s:333    .rodata.vcom_string1:00000000 $d
+     /tmp/cciZvS0g.s:336    .rodata.vcom_string1:00000000 vcom_string1
+     /tmp/cciZvS0g.s:376    .rodata.vcom_string2:00000000 $d
+     /tmp/cciZvS0g.s:379    .rodata.vcom_string2:00000000 vcom_string2
+     /tmp/cciZvS0g.s:437    .rodata.vcom_string3:00000000 $d
+     /tmp/cciZvS0g.s:440    .rodata.vcom_string3:00000000 vcom_string3
+     /tmp/cciZvS0g.s:450    .rodata.vcom_strings:00000000 $d
+     /tmp/cciZvS0g.s:454    .rodata.vcom_strings:00000000 vcom_strings
+     /tmp/cciZvS0g.s:464    .rodata.serusbcfg:00000000 $d
+     /tmp/cciZvS0g.s:474    .rodata.vcom_device_descriptor:00000000 $d
+     /tmp/cciZvS0g.s:478    .rodata.vcom_device_descriptor:00000000 vcom_device_descriptor
                      .debug_frame:00000010 $d
-     /tmp/ccPT887E.s:77     .text.get_descriptor:00000034 $t
-     /tmp/ccPT887E.s:159    .text.usb_event:0000003c $t
+     /tmp/cciZvS0g.s:77     .text.get_descriptor:00000034 $t
+     /tmp/cciZvS0g.s:159    .text.usb_event:0000003c $t
 
 UNDEFINED SYMBOLS
 usbInitEndpointI

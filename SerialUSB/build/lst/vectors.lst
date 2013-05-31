@@ -1,4 +1,4 @@
-ARM GAS  /tmp/ccLC3AGM.s 			page 1
+ARM GAS  /tmp/ccjyLXPR.s 			page 1
 
 
    1              		.syntax unified
@@ -58,7 +58,7 @@ ARM GAS  /tmp/ccLC3AGM.s 			page 1
   55              		.weak	SVCallVector
   56              		.thumb_set SVCallVector,_unhandled_exception
   57              		.weak	DebugMonitorVector
-ARM GAS  /tmp/ccLC3AGM.s 			page 2
+ARM GAS  /tmp/ccjyLXPR.s 			page 2
 
 
   58              		.thumb_set DebugMonitorVector,_unhandled_exception
@@ -118,7 +118,7 @@ ARM GAS  /tmp/ccLC3AGM.s 			page 1
  112              		.thumb_set Vector9C,_unhandled_exception
  113              		.weak	VectorA0
  114              		.thumb_set VectorA0,_unhandled_exception
-ARM GAS  /tmp/ccLC3AGM.s 			page 3
+ARM GAS  /tmp/ccjyLXPR.s 			page 3
 
 
  115              		.weak	VectorA4
@@ -178,7 +178,7 @@ ARM GAS  /tmp/ccLC3AGM.s 			page 1
  169              		.weak	Vector110
  170              		.thumb_set Vector110,_unhandled_exception
  171              		.weak	Vector114
-ARM GAS  /tmp/ccLC3AGM.s 			page 4
+ARM GAS  /tmp/ccjyLXPR.s 			page 4
 
 
  172              		.thumb_set Vector114,_unhandled_exception
@@ -238,7 +238,7 @@ ARM GAS  /tmp/ccLC3AGM.s 			page 1
  226              		.thumb_set Vector180,_unhandled_exception
  227              		.weak	Vector184
  228              		.thumb_set Vector184,_unhandled_exception
-ARM GAS  /tmp/ccLC3AGM.s 			page 5
+ARM GAS  /tmp/ccjyLXPR.s 			page 5
 
 
  229              		.weak	NMIVector
@@ -298,7 +298,7 @@ ARM GAS  /tmp/ccLC3AGM.s 			page 1
  280 00ac 00000000 		.word	VectorAC
  281 00b0 00000000 		.word	VectorB0
  282 00b4 00000000 		.word	VectorB4
-ARM GAS  /tmp/ccLC3AGM.s 			page 6
+ARM GAS  /tmp/ccjyLXPR.s 			page 6
 
 
  283 00b8 00000000 		.word	VectorB8
@@ -358,7 +358,7 @@ ARM GAS  /tmp/ccLC3AGM.s 			page 1
  337              		.file 2 "/opt/ARM/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/include/stdint.h"
  338              		.section	.debug_info,"",%progbits
  339              	.Ldebug_info0:
-ARM GAS  /tmp/ccLC3AGM.s 			page 7
+ARM GAS  /tmp/ccjyLXPR.s 			page 7
 
 
  340 0000 EC010000 		.4byte	0x1ec
@@ -418,7 +418,7 @@ ARM GAS  /tmp/ccLC3AGM.s 			page 1
  394 0073 03       		.uleb128 0x3
  395 0074 08       		.byte	0x8
  396 0075 07       		.byte	0x7
-ARM GAS  /tmp/ccLC3AGM.s 			page 8
+ARM GAS  /tmp/ccjyLXPR.s 			page 8
 
 
  397 0076 0C010000 		.4byte	.LASF8
@@ -478,7 +478,7 @@ ARM GAS  /tmp/ccLC3AGM.s 			page 1
  451 00da 01       		.byte	0x1
  452 00db 2D       		.byte	0x2d
  453 00dc 8F000000 		.4byte	0x8f
-ARM GAS  /tmp/ccLC3AGM.s 			page 9
+ARM GAS  /tmp/ccjyLXPR.s 			page 9
 
 
  454 00e0 02       		.byte	0x2
@@ -538,7 +538,7 @@ ARM GAS  /tmp/ccLC3AGM.s 			page 1
  508 013d 34       		.byte	0x34
  509 013e 8F000000 		.4byte	0x8f
  510 0142 02       		.byte	0x2
-ARM GAS  /tmp/ccLC3AGM.s 			page 10
+ARM GAS  /tmp/ccjyLXPR.s 			page 10
 
 
  511 0143 23       		.byte	0x23
@@ -598,7 +598,7 @@ ARM GAS  /tmp/ccLC3AGM.s 			page 1
  565 01a0 09       		.uleb128 0x9
  566 01a1 8F000000 		.4byte	0x8f
  567 01a5 B0010000 		.4byte	0x1b0
-ARM GAS  /tmp/ccLC3AGM.s 			page 11
+ARM GAS  /tmp/ccjyLXPR.s 			page 11
 
 
  568 01a9 0A       		.uleb128 0xa
@@ -658,7 +658,7 @@ ARM GAS  /tmp/ccLC3AGM.s 			page 1
  622 000e 01       		.uleb128 0x1
  623 000f 52       		.uleb128 0x52
  624 0010 01       		.uleb128 0x1
-ARM GAS  /tmp/ccLC3AGM.s 			page 12
+ARM GAS  /tmp/ccjyLXPR.s 			page 12
 
 
  625 0011 10       		.uleb128 0x10
@@ -718,7 +718,7 @@ ARM GAS  /tmp/ccLC3AGM.s 			page 1
  679 0047 00       		.byte	0
  680 0048 07       		.uleb128 0x7
  681 0049 13       		.uleb128 0x13
-ARM GAS  /tmp/ccLC3AGM.s 			page 13
+ARM GAS  /tmp/ccjyLXPR.s 			page 13
 
 
  682 004a 01       		.byte	0x1
@@ -778,7 +778,7 @@ ARM GAS  /tmp/ccLC3AGM.s 			page 1
  736 0080 0B       		.uleb128 0xb
  737 0081 27       		.uleb128 0x27
  738 0082 0C       		.uleb128 0xc
-ARM GAS  /tmp/ccLC3AGM.s 			page 14
+ARM GAS  /tmp/ccjyLXPR.s 			page 14
 
 
  739 0083 11       		.uleb128 0x11
@@ -838,7 +838,7 @@ ARM GAS  /tmp/ccLC3AGM.s 			page 1
  793 0014 02000000 		.4byte	.LFE7-.LFB7
  794 0018 00000000 		.4byte	0
  795 001c 00000000 		.4byte	0
-ARM GAS  /tmp/ccLC3AGM.s 			page 15
+ARM GAS  /tmp/ccjyLXPR.s 			page 15
 
 
  796              		.section	.debug_ranges,"",%progbits
@@ -898,7 +898,7 @@ ARM GAS  /tmp/ccLC3AGM.s 			page 1
  823      20636861 
  823      7200
  824              	.LASF6:
-ARM GAS  /tmp/ccLC3AGM.s 			page 16
+ARM GAS  /tmp/ccjyLXPR.s 			page 16
 
 
  825 0094 6C6F6E67 		.ascii	"long unsigned int\000"
@@ -958,7 +958,7 @@ ARM GAS  /tmp/ccLC3AGM.s 			page 1
  845      7400
  846              	.LASF10:
  847 0158 73697A65 		.ascii	"sizetype\000"
-ARM GAS  /tmp/ccLC3AGM.s 			page 17
+ARM GAS  /tmp/ccjyLXPR.s 			page 17
 
 
  847      74797065 
@@ -1018,7 +1018,7 @@ ARM GAS  /tmp/ccLC3AGM.s 			page 1
  868      63746F72 
  868      00
  869              	.LASF12:
-ARM GAS  /tmp/ccLC3AGM.s 			page 18
+ARM GAS  /tmp/ccjyLXPR.s 			page 18
 
 
  870 0221 75696E74 		.ascii	"uint32_t\000"
@@ -1052,114 +1052,114 @@ ARM GAS  /tmp/ccLC3AGM.s 			page 1
  882      5F656E64 
  882      5F5F00
  883              		.ident	"GCC: (GNU Tools for ARM Embedded Processors) 4.7.3 20130312 (release) [ARM/embedded-4_7-br
-ARM GAS  /tmp/ccLC3AGM.s 			page 19
+ARM GAS  /tmp/ccjyLXPR.s 			page 19
 
 
 DEFINED SYMBOLS
                             *ABS*:00000000 vectors.c
-     /tmp/ccLC3AGM.s:19     .text._unhandled_exception:00000000 $t
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 _unhandled_exception
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 HardFaultVector
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 MemManageVector
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 BusFaultVector
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 UsageFaultVector
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 Vector1C
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 Vector20
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 Vector24
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 Vector28
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 SVCallVector
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 DebugMonitorVector
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 Vector34
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 PendSVVector
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 SysTickVector
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 Vector40
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 Vector44
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 Vector48
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 Vector4C
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 Vector50
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 Vector54
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 Vector58
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 Vector5C
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 Vector60
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 Vector64
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 Vector68
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 Vector6C
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 Vector70
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 Vector74
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 Vector78
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 Vector7C
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 Vector80
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 Vector84
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 Vector88
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 Vector8C
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 Vector90
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 Vector94
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 Vector98
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 Vector9C
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 VectorA0
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 VectorA4
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 VectorA8
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 VectorAC
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 VectorB0
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 VectorB4
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 VectorB8
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 VectorBC
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 VectorC0
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 VectorC4
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 VectorC8
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 VectorCC
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 VectorD0
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 VectorD4
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 VectorD8
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 VectorDC
-ARM GAS  /tmp/ccLC3AGM.s 			page 20
+     /tmp/ccjyLXPR.s:19     .text._unhandled_exception:00000000 $t
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 _unhandled_exception
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 HardFaultVector
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 MemManageVector
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 BusFaultVector
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 UsageFaultVector
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 Vector1C
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 Vector20
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 Vector24
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 Vector28
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 SVCallVector
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 DebugMonitorVector
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 Vector34
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 PendSVVector
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 SysTickVector
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 Vector40
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 Vector44
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 Vector48
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 Vector4C
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 Vector50
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 Vector54
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 Vector58
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 Vector5C
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 Vector60
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 Vector64
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 Vector68
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 Vector6C
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 Vector70
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 Vector74
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 Vector78
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 Vector7C
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 Vector80
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 Vector84
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 Vector88
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 Vector8C
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 Vector90
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 Vector94
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 Vector98
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 Vector9C
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 VectorA0
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 VectorA4
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 VectorA8
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 VectorAC
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 VectorB0
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 VectorB4
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 VectorB8
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 VectorBC
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 VectorC0
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 VectorC4
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 VectorC8
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 VectorCC
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 VectorD0
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 VectorD4
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 VectorD8
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 VectorDC
+ARM GAS  /tmp/ccjyLXPR.s 			page 20
 
 
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 VectorE0
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 VectorE4
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 VectorE8
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 VectorEC
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 VectorF0
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 VectorF4
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 VectorF8
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 VectorFC
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 Vector100
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 Vector104
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 Vector108
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 Vector10C
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 Vector110
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 Vector114
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 Vector118
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 Vector11C
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 Vector120
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 Vector124
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 Vector128
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 Vector12C
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 Vector130
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 Vector134
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 Vector138
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 Vector13C
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 Vector140
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 Vector144
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 Vector148
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 Vector14C
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 Vector150
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 Vector154
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 Vector158
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 Vector15C
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 Vector160
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 Vector164
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 Vector168
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 Vector16C
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 Vector170
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 Vector174
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 Vector178
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 Vector17C
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 Vector180
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 Vector184
-     /tmp/ccLC3AGM.s:25     .text._unhandled_exception:00000000 NMIVector
-     /tmp/ccLC3AGM.s:236    vectors:00000000 _vectors
-     /tmp/ccLC3AGM.s:233    vectors:00000000 $d
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 VectorE0
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 VectorE4
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 VectorE8
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 VectorEC
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 VectorF0
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 VectorF4
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 VectorF8
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 VectorFC
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 Vector100
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 Vector104
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 Vector108
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 Vector10C
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 Vector110
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 Vector114
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 Vector118
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 Vector11C
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 Vector120
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 Vector124
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 Vector128
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 Vector12C
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 Vector130
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 Vector134
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 Vector138
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 Vector13C
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 Vector140
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 Vector144
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 Vector148
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 Vector14C
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 Vector150
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 Vector154
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 Vector158
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 Vector15C
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 Vector160
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 Vector164
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 Vector168
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 Vector16C
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 Vector170
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 Vector174
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 Vector178
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 Vector17C
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 Vector180
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 Vector184
+     /tmp/ccjyLXPR.s:25     .text._unhandled_exception:00000000 NMIVector
+     /tmp/ccjyLXPR.s:236    vectors:00000000 _vectors
+     /tmp/ccjyLXPR.s:233    vectors:00000000 $d
                      .debug_frame:00000010 $d
 
 UNDEFINED SYMBOLS

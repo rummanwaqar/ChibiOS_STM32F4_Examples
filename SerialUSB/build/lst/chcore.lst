@@ -1,4 +1,4 @@
-ARM GAS  /tmp/cc5m1ZEO.s 			page 1
+ARM GAS  /tmp/cczCUBbU.s 			page 1
 
 
    1              		.syntax unified
@@ -58,7 +58,7 @@ ARM GAS  /tmp/cc5m1ZEO.s 			page 1
   53 0010 01       		.byte	0x1
   54 0011 A0000000 		.4byte	.LASF13
   55 0015 D4000000 		.4byte	.LASF14
-ARM GAS  /tmp/cc5m1ZEO.s 			page 2
+ARM GAS  /tmp/cczCUBbU.s 			page 2
 
 
   56 0019 00000000 		.4byte	.Ldebug_ranges0+0
@@ -118,7 +118,7 @@ ARM GAS  /tmp/cc5m1ZEO.s 			page 1
  110 007f 08       		.byte	0x8
  111 0080 9B000000 		.4byte	.LASF11
  112 0084 04       		.uleb128 0x4
-ARM GAS  /tmp/cc5m1ZEO.s 			page 3
+ARM GAS  /tmp/cczCUBbU.s 			page 3
 
 
  113 0085 01       		.byte	0x1
@@ -178,7 +178,7 @@ ARM GAS  /tmp/cc5m1ZEO.s 			page 1
  167 0028 0E       		.uleb128 0xe
  168 0029 00       		.byte	0
  169 002a 00       		.byte	0
-ARM GAS  /tmp/cc5m1ZEO.s 			page 4
+ARM GAS  /tmp/cczCUBbU.s 			page 4
 
 
  170 002b 04       		.uleb128 0x4
@@ -238,7 +238,7 @@ ARM GAS  /tmp/cc5m1ZEO.s 			page 1
  217              	.LASF0:
  218 000e 756E7369 		.ascii	"unsigned int\000"
  218      676E6564 
-ARM GAS  /tmp/cc5m1ZEO.s 			page 5
+ARM GAS  /tmp/cczCUBbU.s 			page 5
 
 
  218      20696E74 
@@ -298,7 +298,7 @@ ARM GAS  /tmp/cc5m1ZEO.s 			page 1
  239      7420756E 
  239      7369676E 
  239      65642069 
-ARM GAS  /tmp/cc5m1ZEO.s 			page 6
+ARM GAS  /tmp/cczCUBbU.s 			page 6
 
 
  239      6E7400
@@ -319,13 +319,13 @@ ARM GAS  /tmp/cc5m1ZEO.s 			page 1
  247      74797065 
  247      00
  248              		.ident	"GCC: (GNU Tools for ARM Embedded Processors) 4.7.3 20130312 (release) [ARM/embedded-4_7-br
-ARM GAS  /tmp/cc5m1ZEO.s 			page 7
+ARM GAS  /tmp/cczCUBbU.s 			page 7
 
 
 DEFINED SYMBOLS
                             *ABS*:00000000 chcore.c
-     /tmp/cc5m1ZEO.s:19     .text.port_halt:00000000 $t
-     /tmp/cc5m1ZEO.s:25     .text.port_halt:00000000 port_halt
+     /tmp/cczCUBbU.s:19     .text.port_halt:00000000 $t
+     /tmp/cczCUBbU.s:25     .text.port_halt:00000000 port_halt
                      .debug_frame:00000010 $d
 
 NO UNDEFINED SYMBOLS
